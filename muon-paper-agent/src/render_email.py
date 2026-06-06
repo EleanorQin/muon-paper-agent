@@ -4,6 +4,10 @@ from datetime import datetime
 from typing import Any
 
 
+def _is_relevant(paper: dict[str, Any]) -> bool:
+    return paper.get("category") != "Not Relevant"
+
+
 def _paper_block(index: int, paper: dict[str, Any]) -> str:
     authors = ", ".join(paper.get("authors", [])[:6]) or "Unknown authors"
     abstract = (paper.get("summary", "") or "").strip()
@@ -25,7 +29,8 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
     max_highlighted = int(config["digest"]["highlighted_papers"])
     weak_threshold = float(config["digest"]["weak_match_threshold"])
 
-    strong_papers = [paper for paper in papers if paper["relevance_score"] >= weak_threshold]
+    relevant_papers = [paper for paper in papers if _is_relevant(paper)]
+    strong_papers = [paper for paper in relevant_papers if paper["relevance_score"] >= weak_threshold]
     highlighted = strong_papers[:max_highlighted]
 
     if not strong_papers:
@@ -36,16 +41,16 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
             "Weak matches:",
         ]
         weak_lines.extend(
-            f"- {paper['title']} ({paper['relevance_score']}) - {paper['link']}" for paper in papers[:max_highlighted]
+            f"- {paper['title']} ({paper['relevance_score']}) - {paper['link']}" for paper in relevant_papers[:max_highlighted]
         )
-        if not papers:
+        if not relevant_papers:
             weak_lines.append("- No recent papers matched the current search window.")
         body = "\n".join(weak_lines)
         return {
             "subject": subject,
             "plain_text": body,
             "markdown": body,
-            "papers": papers,
+            "papers": relevant_papers,
             "highlighted": [],
         }
 
@@ -58,7 +63,7 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
 
     sections.append("## Full Top 10")
     sections.append("")
-    for index, paper in enumerate(papers, start=1):
+    for index, paper in enumerate(relevant_papers[: config["digest"]["max_papers"]], start=1):
         sections.append(_paper_block(index, paper))
         sections.append("")
 
@@ -67,6 +72,6 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
         "subject": subject,
         "plain_text": markdown,
         "markdown": markdown,
-        "papers": papers,
+        "papers": relevant_papers[: config["digest"]["max_papers"]],
         "highlighted": highlighted,
     }

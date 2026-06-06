@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import os
 from pathlib import Path
 
 from src.deduplicate import filter_new_papers
@@ -45,8 +46,16 @@ def main() -> None:
     papers = enrich_with_openreview(papers)
 
     scored_papers = rank_papers(papers, config)
-    fresh_papers = filter_new_papers(scored_papers, seen_state, config)
-    logger.info("%d papers remain after deduplication/state filtering", len(fresh_papers))
+    skip_seen_filter = os.getenv("SKIP_SEEN_FILTER", "").lower() == "true"
+    if skip_seen_filter:
+        fresh_papers = scored_papers
+        logger.info(
+            "%d papers remain after ranking; skipping seen-paper filtering for manual/test run",
+            len(fresh_papers),
+        )
+    else:
+        fresh_papers = filter_new_papers(scored_papers, seen_state, config)
+        logger.info("%d papers remain after deduplication/state filtering", len(fresh_papers))
 
     selected_papers = fresh_papers[: config["digest"]["max_papers"]]
     summarized_papers = summarize_papers(selected_papers, config)

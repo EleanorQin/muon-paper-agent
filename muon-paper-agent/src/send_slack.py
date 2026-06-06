@@ -66,7 +66,7 @@ def _build_payload(digest: dict[str, Any]) -> dict[str, Any]:
         )
         blocks.append({"type": "divider"})
 
-    if len(papers) > len(highlighted):
+    if len(papers) >= 10 and len(papers) > len(highlighted):
         remainder = [
             f"{index}. <{paper['link']}|{paper['title']}> ({paper['relevance_score']}, {paper['category']}, {paper.get('paper_type', 'Unclear')})"
             for index, paper in enumerate(papers[len(highlighted):], start=len(highlighted) + 1)

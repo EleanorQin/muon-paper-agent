@@ -60,13 +60,25 @@ EXPERIMENT_TERMS = [
     "scalability",
 ]
 
-CATEGORY_RULES = [
-    ("Direct Muon", ["muon optimizer", "orthogonalized momentum"]),
-    ("Orthogonalized Updates / Newton-Schulz", ["orthogonalized", "newton-schulz", "matrix sign"]),
-    ("Matrix Preconditioning / Shampoo / Second-order", ["preconditioning", "shampoo", "second-order", "natural gradient"]),
-    ("Spectral Norm / Low-rank Geometry", ["spectral norm", "spectral", "low-rank"]),
-    ("LLM Training Stability / Attention / QK-clip", ["llm", "training stability", "attention", "qk", "logit clipping"]),
-    ("Bilevel Optimization Related", ["bilevel", "hypergradient", "meta-learning"]),
+MUON_CORE_TERMS = [
+    "muon optimizer",
+    "orthogonalized momentum",
+    "newton-schulz",
+    "matrix sign",
+    "orthogonalized",
+    "spectral scaling laws of muon",
+    "demuon",
+]
+
+MUON_ADJACENT_TERMS = [
+    "preconditioning",
+    "shampoo",
+    "second-order",
+    "natural gradient",
+    "spectral norm",
+    "low-rank",
+    "curvature",
+    "optimizer",
 ]
 
 
@@ -99,13 +111,19 @@ def _recency_score(updated_at: str) -> float:
     return 0.0
 
 
-def _categorize(text: str) -> str:
+def _categorize(text: str, paper_type: str) -> str:
     if _contains_any(text, PHYSICS_TERMS):
-        return "Other Possibly Useful"
-    for label, triggers in CATEGORY_RULES:
-        if _contains_any(text, triggers):
-            return label
-    return "Other Possibly Useful"
+        return "Not Relevant"
+    if _contains_any(text, MUON_CORE_TERMS):
+        return "Muon Core"
+    if _contains_any(text, MUON_ADJACENT_TERMS):
+        if paper_type == "Theory":
+            return "Muon-Adjacent Theory"
+        if paper_type == "Experiment":
+            return "Muon-Adjacent Experiments"
+        if paper_type == "Theory + Experiment":
+            return "Muon-Adjacent Theory+Experiments"
+    return "Not Relevant"
 
 
 def _paper_type(text: str) -> str:
@@ -155,8 +173,8 @@ def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[di
 
         paper["signals"] = signals
         paper["relevance_score"] = round(max(score, 0.0), 2)
-        paper["category"] = _categorize(text)
         paper["paper_type"] = _paper_type(text)
+        paper["category"] = _categorize(text, paper["paper_type"])
         ranked.append(paper)
 
     ranked.sort(key=lambda item: (item["relevance_score"], item.get("updated_at", "")), reverse=True)

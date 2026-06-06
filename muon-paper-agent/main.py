@@ -10,7 +10,13 @@ from src.fetch_semantic_scholar import enrich_with_semantic_scholar
 from src.rank import rank_papers
 from src.render_email import render_digest
 from src.send_slack import send_digest_slack
-from src.storage import load_config, load_seen_state, save_digest_markdown, save_seen_state
+from src.storage import (
+    archive_digest_markdown,
+    load_config,
+    load_seen_state,
+    save_digest_markdown,
+    save_seen_state,
+)
 from src.summarize import summarize_papers
 
 
@@ -47,6 +53,7 @@ def main() -> None:
 
     digest = render_digest(summarized_papers, config)
     save_digest_markdown(base_dir / "data" / "daily_digest.md", digest["markdown"])
+    archive_digest_markdown(base_dir / "data" / "archive", digest["subject"], digest["markdown"])
 
     send_digest_slack(digest, config)
     save_seen_state(base_dir / "data" / "seen_papers.json", seen_state, summarized_papers)

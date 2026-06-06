@@ -25,6 +25,14 @@ def save_digest_markdown(path: Path, markdown: str) -> None:
     path.write_text(markdown + "\n", encoding="utf-8")
 
 
+def archive_digest_markdown(directory: Path, subject: str, markdown: str) -> None:
+    directory.mkdir(parents=True, exist_ok=True)
+    stamp = datetime.utcnow().strftime("%Y-%m-%d")
+    archive_path = directory / f"{stamp}.md"
+    archive_text = "\n".join([f"# {subject}", "", markdown.strip()]).strip() + "\n"
+    archive_path.write_text(archive_text, encoding="utf-8")
+
+
 def save_seen_state(path: Path, seen_state: dict[str, Any], papers: list[dict[str, Any]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     seen_papers = seen_state.setdefault("papers", {})

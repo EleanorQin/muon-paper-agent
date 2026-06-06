@@ -11,6 +11,7 @@
 - Falls back to keyword-based summaries if the OpenAI API is unavailable.
 - Sends a daily Slack digest via incoming webhook.
 - Stores paper state in `data/seen_papers.json` to avoid repeat sends.
+- Archives each daily digest in `data/archive/` so old runs stay visible in GitHub.
 
 ## Repository Layout
 
@@ -35,6 +36,8 @@ muon-paper-agent/
   data/
     seen_papers.json
     daily_digest.md
+    archive/
+      YYYY-MM-DD.md
 ```
 
 For the current workspace layout, the active GitHub Actions file is also placed at [`.github/workflows/daily_muon_digest.yml`](/Users/eleanor/Desktop/Candidacy writing exam/.github/workflows/daily_muon_digest.yml). The duplicate copy inside `muon-paper-agent/` keeps the project self-contained if you later make that folder its own repository root.
@@ -81,7 +84,7 @@ Update the `SLACK_WEBHOOK_URL` GitHub secret to point to a webhook for a differe
 2. Inspect the `Run daily digest` step logs.
 3. Confirm secrets are populated and valid.
 4. Check whether the Slack webhook URL is still valid and points to the intended channel.
-5. Look at `data/daily_digest.md` in the repo after a successful run to inspect the rendered digest content.
+5. Look at `data/daily_digest.md` for the latest output and `data/archive/` for historical daily digests.
 
 ## Local Development
 

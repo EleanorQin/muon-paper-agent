@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "muon-paper-agent"
           git config --global user.email "muon-paper-agent@users.noreply.github.com"
-          git add muon-paper-agent/data/seen_papers.json muon-paper-agent/data/daily_digest.md
+          git add muon-paper-agent/data/seen_papers.json muon-paper-agent/data/daily_digest.md muon-paper-agent/data/archive
           git commit -m "Update daily Muon digest state" || echo "No changes to commit"
           git push

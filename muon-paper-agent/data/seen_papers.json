@@ -43,12 +43,16 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-06T07:01:05.981505Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-06T07:09:20.544828Z"
     }
   ],
   "papers": {
     "2510.01377v2": {
       "category": "Muon Core",
-      "last_sent_at": "2026-06-06T07:01:05.981481Z",
+      "last_sent_at": "2026-06-06T07:09:20.544805Z",
       "link": "http://arxiv.org/abs/2510.01377v2",
       "relevance_score": 17.0,
       "title": "DeMuon: A Decentralized Muon for Matrix Optimization over Graphs"
@@ -97,21 +101,21 @@
     },
     "2606.03899v2": {
       "category": "Muon Core",
-      "last_sent_at": "2026-06-06T07:01:05.981465Z",
+      "last_sent_at": "2026-06-06T07:09:20.544791Z",
       "link": "http://arxiv.org/abs/2606.03899v2",
       "relevance_score": 19.5,
       "title": "Denoise First, Orthogonalize Later: Understanding Momentum in Muon via Spectral Filtering"
     },
     "2606.04058v1": {
       "category": "Muon Core",
-      "last_sent_at": "2026-06-06T07:01:05.981477Z",
+      "last_sent_at": "2026-06-06T07:09:20.544802Z",
       "link": "http://arxiv.org/abs/2606.04058v1",
       "relevance_score": 18.5,
       "title": "Spectral Scaling Laws of Muon"
     },
     "2606.04662v1": {
       "category": "Muon Core",
-      "last_sent_at": "2026-06-06T07:01:05.981484Z",
+      "last_sent_at": "2026-06-06T07:09:20.544807Z",
       "link": "http://arxiv.org/abs/2606.04662v1",
       "relevance_score": 14.0,
       "title": "Why Muon Outperforms Adam: A Curvature Perspective"
@@ -195,7 +199,7 @@
     },
     "2606.06100v1": {
       "category": "Muon-Adjacent Experiments",
-      "last_sent_at": "2026-06-06T07:01:05.981498Z",
+      "last_sent_at": "2026-06-06T07:09:20.544821Z",
       "link": "http://arxiv.org/abs/2606.06100v1",
       "relevance_score": 7.0,
       "title": "HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning"
@@ -258,7 +262,7 @@
     },
     "2606.06284v1": {
       "category": "Not Relevant",
-      "last_sent_at": "2026-06-06T07:01:05.981492Z",
+      "last_sent_at": "2026-06-06T07:09:20.544815Z",
       "link": "http://arxiv.org/abs/2606.06284v1",
       "relevance_score": 7.0,
       "title": "ToolChoiceConfusion: Causal Minimal Tool Filtering for Reliable LLM Agents"
@@ -279,7 +283,7 @@
     },
     "2606.06300v1": {
       "category": "Muon-Adjacent Experiments",
-      "last_sent_at": "2026-06-06T07:01:05.981503Z",
+      "last_sent_at": "2026-06-06T07:09:20.544826Z",
       "link": "http://arxiv.org/abs/2606.06300v1",
       "relevance_score": 6.5,
       "title": "Multi-ResNets for Subspace Preconditioning in Constrained Optimization"
@@ -342,7 +346,7 @@
     },
     "2606.06333v1": {
       "category": "Not Relevant",
-      "last_sent_at": "2026-06-06T07:01:05.981501Z",
+      "last_sent_at": "2026-06-06T07:09:20.544824Z",
       "link": "http://arxiv.org/abs/2606.06333v1",
       "relevance_score": 6.5,
       "title": "Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability"
@@ -412,7 +416,7 @@
     },
     "2606.06418v1": {
       "category": "Not Relevant",
-      "last_sent_at": "2026-06-06T07:01:05.981489Z",
+      "last_sent_at": "2026-06-06T07:09:20.544812Z",
       "link": "http://arxiv.org/abs/2606.06418v1",
       "relevance_score": 10.0,
       "title": "Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss"
@@ -454,7 +458,7 @@
     },
     "2606.06470v1": {
       "category": "Muon Core",
-      "last_sent_at": "2026-06-06T07:01:05.981486Z",
+      "last_sent_at": "2026-06-06T07:09:20.544810Z",
       "link": "http://arxiv.org/abs/2606.06470v1",
       "relevance_score": 10.0,
       "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training"

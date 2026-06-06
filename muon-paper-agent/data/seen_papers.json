@@ -15,6 +15,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-06T06:24:32.504842Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-06T06:27:48.586995Z"
     }
   ],
   "papers": {
@@ -74,12 +78,47 @@
       "relevance_score": 10.0,
       "title": "Why Muon Outperforms Adam: A Curvature Perspective"
     },
+    "2606.05785v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586994Z",
+      "link": "http://arxiv.org/abs/2606.05785v1",
+      "relevance_score": 5.0,
+      "title": "Next-Generation Parallel Decoder for LPDR: Architectural Optimization and Class-Balanced GAN-Augmentation"
+    },
+    "2606.05817v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586992Z",
+      "link": "http://arxiv.org/abs/2606.05817v1",
+      "relevance_score": 5.0,
+      "title": "Consistency Training Along the Transformer Stack"
+    },
+    "2606.05843v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586989Z",
+      "link": "http://arxiv.org/abs/2606.05843v1",
+      "relevance_score": 5.0,
+      "title": "Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads"
+    },
+    "2606.05858v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586984Z",
+      "link": "http://arxiv.org/abs/2606.05858v1",
+      "relevance_score": 5.0,
+      "title": "ReverseEOL: Improving Training-free Text Embeddings via Text Reversal in Decoder-only LLMs"
+    },
     "2606.05880v1": {
       "category": "LLM Training Stability / Attention / QK-clip",
       "last_sent_at": "2026-06-06T06:18:15.306195Z",
       "link": "http://arxiv.org/abs/2606.05880v1",
       "relevance_score": 6.5,
       "title": "TAGA: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion"
+    },
+    "2606.05916v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586982Z",
+      "link": "http://arxiv.org/abs/2606.05916v1",
+      "relevance_score": 5.0,
+      "title": "Unveiling the Unknown: Open Vocabulary Object Detection with Scene Graphs"
     },
     "2606.05957v1": {
       "category": "LLM Training Stability / Attention / QK-clip",
@@ -95,12 +134,47 @@
       "relevance_score": 7.0,
       "title": "HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning"
     },
+    "2606.06159v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586981Z",
+      "link": "http://arxiv.org/abs/2606.06159v1",
+      "relevance_score": 5.0,
+      "title": "ITP-STDP: An Intrinsic-Timing Power-of-Two Learning Engine for On-Chip SNN Training"
+    },
+    "2606.06217v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586979Z",
+      "link": "http://arxiv.org/abs/2606.06217v1",
+      "relevance_score": 5.0,
+      "title": "DisasterBench: A Multimodal Benchmark for UAV-Based Disaster Response in Complex Environments"
+    },
+    "2606.06228v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586976Z",
+      "link": "http://arxiv.org/abs/2606.06228v1",
+      "relevance_score": 5.0,
+      "title": "SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing"
+    },
+    "2606.06256v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:27:48.586974Z",
+      "link": "http://arxiv.org/abs/2606.06256v1",
+      "relevance_score": 5.0,
+      "title": "RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention"
+    },
     "2606.06279v1": {
       "category": "Direct Muon",
       "last_sent_at": "2026-06-06T06:12:07.515023Z",
       "link": "http://arxiv.org/abs/2606.06279v1",
       "relevance_score": 7.0,
       "title": "Discovery of hidden order in the Shastry-Sutherland magnet Nd2Be2GeO7"
+    },
+    "2606.06280v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-06-06T06:27:48.586965Z",
+      "link": "http://arxiv.org/abs/2606.06280v1",
+      "relevance_score": 5.0,
+      "title": "Second order splitting dynamics for stochastic monotone inclusions with closed loop distribution"
     },
     "2606.06281v1": {
       "category": "Not Relevant",

@@ -32,6 +32,34 @@ OPTIMIZATION_TERMS = [
     "newton-schulz",
 ]
 
+THEORY_TERMS = [
+    "theorem",
+    "proof",
+    "lemma",
+    "proposition",
+    "corollary",
+    "convergence",
+    "bound",
+    "theoretical",
+    "quadratic",
+    "curvature perspective",
+    "analysis",
+]
+
+EXPERIMENT_TERMS = [
+    "experiment",
+    "empirical",
+    "benchmark",
+    "ablation",
+    "evaluation",
+    "pretraining",
+    "training efficiency",
+    "results",
+    "dataset",
+    "implementation",
+    "scalability",
+]
+
 CATEGORY_RULES = [
     ("Direct Muon", ["muon optimizer", "orthogonalized momentum"]),
     ("Orthogonalized Updates / Newton-Schulz", ["orthogonalized", "newton-schulz", "matrix sign"]),
@@ -80,6 +108,18 @@ def _categorize(text: str) -> str:
     return "Other Possibly Useful"
 
 
+def _paper_type(text: str) -> str:
+    has_theory = _contains_any(text, THEORY_TERMS)
+    has_experiment = _contains_any(text, EXPERIMENT_TERMS)
+    if has_theory and has_experiment:
+        return "Theory + Experiment"
+    if has_theory:
+        return "Theory"
+    if has_experiment:
+        return "Experiment"
+    return "Unclear"
+
+
 def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[dict[str, Any]]:
     weights = config["ranking"]["signal_weights"]
     ranked: list[dict[str, Any]] = []
@@ -116,6 +156,7 @@ def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[di
         paper["signals"] = signals
         paper["relevance_score"] = round(max(score, 0.0), 2)
         paper["category"] = _categorize(text)
+        paper["paper_type"] = _paper_type(text)
         ranked.append(paper)
 
     ranked.sort(key=lambda item: (item["relevance_score"], item.get("updated_at", "")), reverse=True)

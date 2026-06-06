@@ -7,9 +7,10 @@
 - Searches arXiv for papers from the last 48 hours using Muon-adjacent keywords.
 - Scores each paper using explicit relevance signals.
 - Classifies papers into Muon-relevant categories.
+- Labels each paper as `Theory`, `Experiment`, `Theory + Experiment`, or `Unclear`.
 - Summarizes the top matches with an OpenAI model when available.
 - Falls back to keyword-based summaries if the OpenAI API is unavailable.
-- Sends a daily Slack digest via incoming webhook.
+- Sends a daily Slack digest via incoming webhook, including abstract snippets.
 - Stores paper state in `data/seen_papers.json` to avoid repeat sends.
 - Archives each daily digest in `data/archive/` so old runs stay visible in GitHub.
 

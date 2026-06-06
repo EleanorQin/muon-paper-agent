@@ -7,13 +7,16 @@ from typing import Any
 def _paper_block(index: int, paper: dict[str, Any]) -> str:
     summary = paper["digest_summary"]
     authors = ", ".join(paper.get("authors", [])[:6]) or "Unknown authors"
+    abstract = (paper.get("summary", "") or "").strip()
     return "\n".join(
         [
             f"{index}. {paper['title']}",
             f"Authors: {authors}",
             f"Link: {paper['link']}",
             f"Category: {paper['category']}",
+            f"Paper type: {paper.get('paper_type', 'Unclear')}",
             f"Relevance score: {paper['relevance_score']}",
+            f"Abstract: {abstract}",
             f"One-sentence summary: {summary['one_sentence_summary']}",
             f"Why it matters for Muon: {summary['why_it_matters']}",
             f"Technical notes: {summary['technical_notes']}",

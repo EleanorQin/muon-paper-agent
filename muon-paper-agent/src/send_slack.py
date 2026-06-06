@@ -17,10 +17,12 @@ def _truncate(text: str, limit: int) -> str:
 
 def _paper_lines(index: int, paper: dict[str, Any]) -> str:
     summary = paper["digest_summary"]
+    abstract = (paper.get("summary", "") or "").strip()
     return "\n".join(
         [
             f"*{index}. <{paper['link']}|{paper['title']}>*",
-            f"Category: {paper['category']} | Score: {paper['relevance_score']}",
+            f"Category: {paper['category']} | Type: {paper.get('paper_type', 'Unclear')} | Score: {paper['relevance_score']}",
+            f"Abstract: {_truncate(abstract, 280)}",
             f"Summary: {_truncate(summary['one_sentence_summary'], 280)}",
             f"Why it matters: {_truncate(summary['why_it_matters'], 280)}",
             f"Action: {summary['recommended_action']} | Use: {summary['potential_use']}",
@@ -70,7 +72,7 @@ def _build_payload(digest: dict[str, Any]) -> dict[str, Any]:
 
     if len(papers) > len(highlighted):
         remainder = [
-            f"{index}. <{paper['link']}|{paper['title']}> ({paper['relevance_score']}, {paper['category']})"
+            f"{index}. <{paper['link']}|{paper['title']}> ({paper['relevance_score']}, {paper['category']}, {paper.get('paper_type', 'Unclear')})"
             for index, paper in enumerate(papers[len(highlighted):], start=len(highlighted) + 1)
         ]
         blocks.append(

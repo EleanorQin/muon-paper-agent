@@ -3,7 +3,82 @@
     {
       "paper_count": 0,
       "sent_at": "2026-06-06T06:03:35.352548Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-06T06:12:07.515041Z"
     }
   ],
-  "papers": {}
+  "papers": {
+    "2606.06279v1": {
+      "category": "Direct Muon",
+      "last_sent_at": "2026-06-06T06:12:07.515023Z",
+      "link": "http://arxiv.org/abs/2606.06279v1",
+      "relevance_score": 7.0,
+      "title": "Discovery of hidden order in the Shastry-Sutherland magnet Nd2Be2GeO7"
+    },
+    "2606.06284v1": {
+      "category": "LLM Training Stability / Attention / QK-clip",
+      "last_sent_at": "2026-06-06T06:12:07.515020Z",
+      "link": "http://arxiv.org/abs/2606.06284v1",
+      "relevance_score": 7.0,
+      "title": "ToolChoiceConfusion: Causal Minimal Tool Filtering for Reliable LLM Agents"
+    },
+    "2606.06300v1": {
+      "category": "Matrix Preconditioning / Shampoo / Second-order",
+      "last_sent_at": "2026-06-06T06:12:07.515028Z",
+      "link": "http://arxiv.org/abs/2606.06300v1",
+      "relevance_score": 6.5,
+      "title": "Multi-ResNets for Subspace Preconditioning in Constrained Optimization"
+    },
+    "2606.06308v1": {
+      "category": "Other Possibly Useful",
+      "last_sent_at": "2026-06-06T06:12:07.515034Z",
+      "link": "http://arxiv.org/abs/2606.06308v1",
+      "relevance_score": 6.0,
+      "title": "Attitude-Aided Linear Calibration of Triaxial Accelerometers"
+    },
+    "2606.06333v1": {
+      "category": "LLM Training Stability / Attention / QK-clip",
+      "last_sent_at": "2026-06-06T06:12:07.515025Z",
+      "link": "http://arxiv.org/abs/2606.06333v1",
+      "relevance_score": 6.5,
+      "title": "Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability"
+    },
+    "2606.06409v1": {
+      "category": "Direct Muon",
+      "last_sent_at": "2026-06-06T06:12:07.515018Z",
+      "link": "http://arxiv.org/abs/2606.06409v1",
+      "relevance_score": 7.0,
+      "title": "A high-energy neutrino flare associated with nearby bright interacting supernova SN 2021foa"
+    },
+    "2606.06418v1": {
+      "category": "Direct Muon",
+      "last_sent_at": "2026-06-06T06:12:07.515015Z",
+      "link": "http://arxiv.org/abs/2606.06418v1",
+      "relevance_score": 13.0,
+      "title": "Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss"
+    },
+    "2606.06470v1": {
+      "category": "Direct Muon",
+      "last_sent_at": "2026-06-06T06:12:07.515006Z",
+      "link": "http://arxiv.org/abs/2606.06470v1",
+      "relevance_score": 13.0,
+      "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training"
+    },
+    "2606.06475v1": {
+      "category": "Other Possibly Useful",
+      "last_sent_at": "2026-06-06T06:12:07.515039Z",
+      "link": "http://arxiv.org/abs/2606.06475v1",
+      "relevance_score": 5.0,
+      "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models"
+    },
+    "2606.06483v1": {
+      "category": "Spectral Norm / Low-rank Geometry",
+      "last_sent_at": "2026-06-06T06:12:07.515037Z",
+      "link": "http://arxiv.org/abs/2606.06483v1",
+      "relevance_score": 5.0,
+      "title": "Statistically and Computationally Optimal Estimation and Inference of Common Subspaces"
+    }
+  }
 }

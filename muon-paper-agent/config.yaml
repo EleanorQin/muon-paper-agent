@@ -8,25 +8,22 @@ keywords:
   - Newton-Schulz
   - matrix sign iteration
   - spectral norm optimizer
-  - spectral constrained optimization
   - Shampoo optimizer
   - matrix preconditioning
   - low-rank optimizer
-  - optimizer
-  - preconditioner
-  - second-order optimization
   - transformer training
   - large language model optimization
   - LLM optimizer stability
-  - attention
   - logit clipping
   - QK clip
 source_filters:
   allowed_category_prefixes:
-    - cs.
+    - cs.AI
+    - cs.CL
+    - cs.LG
+    - cs.LT
+    - cs.NE
     - stat.ML
-    - math.OC
-    - math.NA
     - eess.
   blocked_category_prefixes:
     - astro-ph
@@ -52,6 +49,7 @@ ranking:
     recency: 2.0
     citation_bonus: 1.0
     particle_physics_penalty: 10.0
+    generic_math_optimization_penalty: 6.0
 digest:
   max_papers: 10
   highlighted_papers: 3

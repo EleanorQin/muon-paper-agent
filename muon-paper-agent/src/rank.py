@@ -32,6 +32,29 @@ OPTIMIZATION_TERMS = [
     "newton-schulz",
 ]
 
+ML_CONTEXT_TERMS = [
+    "llm",
+    "language model",
+    "transformer",
+    "pretraining",
+    "fine-tuning",
+    "neural network",
+    "deep learning",
+    "model training",
+    "attention",
+    "autoregressive",
+]
+
+GENERIC_MATH_OPT_TERMS = [
+    "monotone operator",
+    "hilbert space",
+    "cocoercive",
+    "forward-backward splitting",
+    "maximal monotone",
+    "variational inequality",
+    "performative prediction",
+]
+
 THEORY_TERMS = [
     "theorem",
     "proof",
@@ -138,6 +161,17 @@ def _paper_type(text: str) -> str:
     return "Unclear"
 
 
+def _is_muon_core(text: str) -> bool:
+    return _contains_any(text, MUON_CORE_TERMS)
+
+
+def _is_muon_adjacent(text: str) -> bool:
+    has_adjacent_term = _contains_any(text, MUON_ADJACENT_TERMS)
+    has_ml_context = _contains_any(text, ML_CONTEXT_TERMS)
+    has_muon_context = "muon" in text or _contains_any(text, ["orthogonalized", "newton-schulz", "shampoo", "matrix preconditioning"])
+    return has_adjacent_term and (has_ml_context or has_muon_context)
+
+
 def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[dict[str, Any]]:
     weights = config["ranking"]["signal_weights"]
     ranked: list[dict[str, Any]] = []
@@ -147,6 +181,8 @@ def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[di
         has_muon_term = "muon" in text
         has_optimization_context = _contains_any(text, OPTIMIZATION_TERMS)
         has_physics_context = _contains_any(text, PHYSICS_TERMS)
+        has_ml_context = _contains_any(text, ML_CONTEXT_TERMS)
+        has_generic_math_opt = _contains_any(text, GENERIC_MATH_OPT_TERMS)
         signals = {
             "direct_muon_match": _contains_any(text, ["muon optimizer", "orthogonalized momentum"]) or (has_muon_term and has_optimization_context and not has_physics_context),
             "optimizer_match": _contains_any(text, ["optimizer", "optimization", "training"]),
@@ -166,6 +202,8 @@ def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[di
         score += _recency_score(str(paper.get("updated_at", ""))) * float(weights.get("recency", 0.0))
         if has_physics_context:
             score -= float(weights.get("particle_physics_penalty", 0.0))
+        if has_generic_math_opt and not has_ml_context and not has_muon_term:
+            score -= float(weights.get("generic_math_optimization_penalty", 0.0))
 
         semantic = paper.get("semantic_scholar", {})
         if isinstance(semantic, dict) and semantic.get("citation_count", 0):
@@ -174,7 +212,19 @@ def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[di
         paper["signals"] = signals
         paper["relevance_score"] = round(max(score, 0.0), 2)
         paper["paper_type"] = _paper_type(text)
-        paper["category"] = _categorize(text, paper["paper_type"])
+        if _is_muon_core(text):
+            paper["category"] = "Muon Core"
+        elif _is_muon_adjacent(text):
+            if paper["paper_type"] == "Theory":
+                paper["category"] = "Muon-Adjacent Theory"
+            elif paper["paper_type"] == "Experiment":
+                paper["category"] = "Muon-Adjacent Experiments"
+            elif paper["paper_type"] == "Theory + Experiment":
+                paper["category"] = "Muon-Adjacent Theory+Experiments"
+            else:
+                paper["category"] = "Muon-Adjacent Theory"
+        else:
+            paper["category"] = "Not Relevant"
         ranked.append(paper)
 
     ranked.sort(key=lambda item: (item["relevance_score"], item.get("updated_at", "")), reverse=True)

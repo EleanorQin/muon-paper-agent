@@ -1,0 +1,41 @@
+lookback_hours: 48
+max_results_per_query: 25
+keywords:
+  - Muon
+  - orthogonalized optimizer
+  - orthogonalized gradient
+  - Newton-Schulz
+  - matrix sign iteration
+  - spectral norm optimizer
+  - spectral constrained optimization
+  - Shampoo optimizer
+  - matrix preconditioning
+  - low-rank optimizer
+  - LLM optimizer stability
+  - attention
+  - logit clipping
+  - QK clip
+ranking:
+  category_thresholds:
+    must_read: 10.0
+    skim: 6.0
+  signal_weights:
+    direct_muon_match: 6.0
+    optimizer_match: 2.0
+    orthogonalization_match: 3.0
+    spectral_norm_match: 2.5
+    llm_training_stability_match: 2.0
+    bilevel_relevance_match: 1.5
+    second_order_match: 2.0
+    low_rank_geometry_match: 1.5
+    recency: 2.0
+    citation_bonus: 1.0
+digest:
+  max_papers: 10
+  highlighted_papers: 3
+  weak_match_threshold: 4.0
+  summary_model: gpt-4.1-mini
+email:
+  subject_prefix: "Daily Muon Paper Digest"
+state:
+  resend_if_score_improves_by: 3.0

@@ -1,0 +1,75 @@
+from __future__ import annotations
+
+from datetime import datetime
+from typing import Any
+
+
+def _paper_block(index: int, paper: dict[str, Any]) -> str:
+    summary = paper["digest_summary"]
+    authors = ", ".join(paper.get("authors", [])[:6]) or "Unknown authors"
+    return "\n".join(
+        [
+            f"{index}. {paper['title']}",
+            f"Authors: {authors}",
+            f"Link: {paper['link']}",
+            f"Category: {paper['category']}",
+            f"Relevance score: {paper['relevance_score']}",
+            f"One-sentence summary: {summary['one_sentence_summary']}",
+            f"Why it matters for Muon: {summary['why_it_matters']}",
+            f"Technical notes: {summary['technical_notes']}",
+            f"Recommended action: {summary['recommended_action']}",
+            f"Potential use in my work: {summary['potential_use']}",
+        ]
+    )
+
+
+def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[str, Any]:
+    today = datetime.now().date().isoformat()
+    max_highlighted = int(config["digest"]["highlighted_papers"])
+    weak_threshold = float(config["digest"]["weak_match_threshold"])
+
+    strong_papers = [paper for paper in papers if paper["relevance_score"] >= weak_threshold]
+    highlighted = strong_papers[:max_highlighted]
+
+    if not strong_papers:
+        subject = f"{config['email']['subject_prefix']} - {today}"
+        weak_lines = [
+            "No important new papers today.",
+            "",
+            "Weak matches:",
+        ]
+        weak_lines.extend(
+            f"- {paper['title']} ({paper['relevance_score']}) - {paper['link']}" for paper in papers[:max_highlighted]
+        )
+        if not papers:
+            weak_lines.append("- No recent papers matched the current search window.")
+        body = "\n".join(weak_lines)
+        return {
+            "subject": subject,
+            "plain_text": body,
+            "markdown": body,
+            "papers": papers,
+            "highlighted": [],
+        }
+
+    subject = f"{config['email']['subject_prefix']} - {today}"
+    sections = ["# Daily Muon Paper Digest", "", "## Top Highlights", ""]
+
+    for index, paper in enumerate(highlighted, start=1):
+        sections.append(_paper_block(index, paper))
+        sections.append("")
+
+    sections.append("## Full Top 10")
+    sections.append("")
+    for index, paper in enumerate(papers, start=1):
+        sections.append(_paper_block(index, paper))
+        sections.append("")
+
+    markdown = "\n".join(sections).strip()
+    return {
+        "subject": subject,
+        "plain_text": markdown,
+        "markdown": markdown,
+        "papers": papers,
+        "highlighted": highlighted,
+    }

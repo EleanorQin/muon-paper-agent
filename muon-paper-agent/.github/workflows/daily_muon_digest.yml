@@ -1,0 +1,46 @@
+name: Daily Muon Paper Digest
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+      timezone: "America/Los_Angeles"
+  workflow_dispatch:
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        working-directory: muon-paper-agent
+
+      - name: Run daily digest
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python main.py
+        working-directory: muon-paper-agent
+
+      - name: Commit updated seen papers
+        run: |
+          git config --global user.name "muon-paper-agent"
+          git config --global user.email "muon-paper-agent@users.noreply.github.com"
+          git add muon-paper-agent/data/seen_papers.json muon-paper-agent/data/daily_digest.md
+          git commit -m "Update daily Muon digest state" || echo "No changes to commit"
+          git push

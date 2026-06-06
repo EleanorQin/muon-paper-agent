@@ -3,9 +3,37 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from typing import Any
 
+PHYSICS_TERMS = [
+    "neutrino",
+    "supernova",
+    "cosmic ray",
+    "muon collider",
+    "high-energy",
+    "astrophysical",
+    "magnet",
+    "hadron",
+    "detector",
+    "icecube",
+    "gamma ray",
+]
+
+OPTIMIZATION_TERMS = [
+    "optimizer",
+    "optimization",
+    "training",
+    "gradient",
+    "precondition",
+    "llm",
+    "language model",
+    "attention",
+    "transformer",
+    "matrix",
+    "shampoo",
+    "newton-schulz",
+]
 
 CATEGORY_RULES = [
-    ("Direct Muon", ["muon"]),
+    ("Direct Muon", ["muon optimizer", "orthogonalized momentum"]),
     ("Orthogonalized Updates / Newton-Schulz", ["orthogonalized", "newton-schulz", "matrix sign"]),
     ("Matrix Preconditioning / Shampoo / Second-order", ["preconditioning", "shampoo", "second-order", "natural gradient"]),
     ("Spectral Norm / Low-rank Geometry", ["spectral norm", "spectral", "low-rank"]),
@@ -44,6 +72,8 @@ def _recency_score(updated_at: str) -> float:
 
 
 def _categorize(text: str) -> str:
+    if _contains_any(text, PHYSICS_TERMS):
+        return "Other Possibly Useful"
     for label, triggers in CATEGORY_RULES:
         if _contains_any(text, triggers):
             return label
@@ -56,8 +86,11 @@ def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[di
 
     for paper in papers:
         text = _combined_text(paper)
+        has_muon_term = "muon" in text
+        has_optimization_context = _contains_any(text, OPTIMIZATION_TERMS)
+        has_physics_context = _contains_any(text, PHYSICS_TERMS)
         signals = {
-            "direct_muon_match": _contains_any(text, ["muon optimizer", "muon", "orthogonalized momentum"]),
+            "direct_muon_match": _contains_any(text, ["muon optimizer", "orthogonalized momentum"]) or (has_muon_term and has_optimization_context and not has_physics_context),
             "optimizer_match": _contains_any(text, ["optimizer", "optimization", "training"]),
             "orthogonalization_match": _contains_any(text, ["orthogonal", "orthogonalized", "newton-schulz", "matrix sign"]),
             "spectral_norm_match": _contains_any(text, ["spectral norm", "spectral", "logit clipping", "qk clip"]),
@@ -73,13 +106,15 @@ def rank_papers(papers: list[dict[str, Any]], config: dict[str, Any]) -> list[di
                 score += float(weights.get(signal_name, 0.0))
 
         score += _recency_score(str(paper.get("updated_at", ""))) * float(weights.get("recency", 0.0))
+        if has_physics_context:
+            score -= float(weights.get("particle_physics_penalty", 0.0))
 
         semantic = paper.get("semantic_scholar", {})
         if isinstance(semantic, dict) and semantic.get("citation_count", 0):
             score += min(float(semantic.get("citation_count", 0)) / 50.0, 1.0) * float(weights.get("citation_bonus", 0.0))
 
         paper["signals"] = signals
-        paper["relevance_score"] = round(score, 2)
+        paper["relevance_score"] = round(max(score, 0.0), 2)
         paper["category"] = _categorize(text)
         ranked.append(paper)
 

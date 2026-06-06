@@ -1,5 +1,6 @@
 lookback_hours: 96
 max_results_per_query: 50
+fetch_mode: per_keyword
 keywords:
   - Muon
   - orthogonalized optimizer
@@ -20,6 +21,21 @@ keywords:
   - attention
   - logit clipping
   - QK clip
+source_filters:
+  allowed_category_prefixes:
+    - cs.
+    - stat.ML
+    - math.OC
+    - math.NA
+    - eess.
+  blocked_category_prefixes:
+    - astro-ph
+    - cond-mat
+    - gr-qc
+    - hep-
+    - nucl-
+    - physics
+    - quant-ph
 ranking:
   category_thresholds:
     must_read: 10.0
@@ -35,6 +51,7 @@ ranking:
     low_rank_geometry_match: 1.5
     recency: 2.0
     citation_bonus: 1.0
+    particle_physics_penalty: 10.0
 digest:
   max_papers: 10
   highlighted_papers: 3

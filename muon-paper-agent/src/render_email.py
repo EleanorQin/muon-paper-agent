@@ -69,7 +69,7 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
         sections.append("")
 
     remainder = relevant_papers[max_highlighted : config["digest"]["max_papers"]]
-    if len(relevant_papers) >= config["digest"]["max_papers"] and remainder:
+    if remainder:
         sections.append("## Additional Papers")
         sections.append("")
         for index, paper in enumerate(remainder, start=max_highlighted + 1):

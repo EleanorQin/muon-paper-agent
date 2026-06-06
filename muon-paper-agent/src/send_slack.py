@@ -76,7 +76,7 @@ def _build_payload(digest: dict[str, Any]) -> dict[str, Any]:
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": "*Additional papers:*\n" + _truncate("\n".join(remainder), 2900),
+                    "text": "*Additional papers (6-10):*\n" + _truncate("\n".join(remainder), 2900),
                 },
             }
         )

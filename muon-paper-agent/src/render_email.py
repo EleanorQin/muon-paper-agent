@@ -24,6 +24,13 @@ def _paper_block(index: int, paper: dict[str, Any]) -> str:
     )
 
 
+def _paper_brief_line(index: int, paper: dict[str, Any]) -> str:
+    return (
+        f"{index}. {paper['title']} | {paper['category']} | {paper.get('paper_type', 'Unclear')} "
+        f"| Score: {paper['relevance_score']} | {paper['link']}"
+    )
+
+
 def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[str, Any]:
     today = datetime.now().date().isoformat()
     max_highlighted = int(config["digest"]["highlighted_papers"])
@@ -61,11 +68,12 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
         sections.append(_paper_block(index, paper))
         sections.append("")
 
-    sections.append("## Full Top 10")
-    sections.append("")
-    for index, paper in enumerate(relevant_papers[: config["digest"]["max_papers"]], start=1):
-        sections.append(_paper_block(index, paper))
+    remainder = relevant_papers[max_highlighted : config["digest"]["max_papers"]]
+    if remainder:
+        sections.append("## Additional Papers")
         sections.append("")
+        for index, paper in enumerate(remainder, start=max_highlighted + 1):
+            sections.append(_paper_brief_line(index, paper))
 
     markdown = "\n".join(sections).strip()
     return {

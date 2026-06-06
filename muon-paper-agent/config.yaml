@@ -1,5 +1,5 @@
-lookback_hours: 48
-max_results_per_query: 25
+lookback_hours: 96
+max_results_per_query: 50
 keywords:
   - Muon
   - orthogonalized optimizer
@@ -11,6 +11,11 @@ keywords:
   - Shampoo optimizer
   - matrix preconditioning
   - low-rank optimizer
+  - optimizer
+  - preconditioner
+  - second-order optimization
+  - transformer training
+  - large language model optimization
   - LLM optimizer stability
   - attention
   - logit clipping

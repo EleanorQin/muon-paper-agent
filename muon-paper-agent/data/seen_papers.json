@@ -27,6 +27,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-06T06:33:59.482574Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-06T06:36:27.739150Z"
     }
   ],
   "papers": {
@@ -268,6 +272,13 @@
       "relevance_score": 6.5,
       "title": "Multi-ResNets for Subspace Preconditioning in Constrained Optimization"
     },
+    "2606.06302v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739149Z",
+      "link": "http://arxiv.org/abs/2606.06302v1",
+      "relevance_score": 3.0,
+      "title": "Tangram: Unlocking Non-Uniform KV Cache for Efficient Multi-turn LLM Serving"
+    },
     "2606.06308v1": {
       "category": "Other Possibly Useful",
       "last_sent_at": "2026-06-06T06:12:07.515034Z",
@@ -282,6 +293,20 @@
       "relevance_score": 5.0,
       "title": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling"
     },
+    "2606.06311v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739147Z",
+      "link": "http://arxiv.org/abs/2606.06311v1",
+      "relevance_score": 3.0,
+      "title": "AIS-Based Vessel Trajectory Prediction Using Memory-Augmented Neural Networks"
+    },
+    "2606.06312v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739145Z",
+      "link": "http://arxiv.org/abs/2606.06312v1",
+      "relevance_score": 3.0,
+      "title": "Meridian: Metric-Semantic Primitive Matching for Cross-View Geo-Localization Beyond Urban Environments"
+    },
     "2606.06320v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-06T06:24:32.504830Z",
@@ -295,6 +320,13 @@
       "link": "http://arxiv.org/abs/2606.06324v1",
       "relevance_score": 5.0,
       "title": "From Failed Trajectories to Reliable LLM Agents: Diagnosing and Repairing Harness Flaws"
+    },
+    "2606.06325v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739141Z",
+      "link": "http://arxiv.org/abs/2606.06325v1",
+      "relevance_score": 3.0,
+      "title": "Data valuation model for non-monetary exchanges"
     },
     "2606.06333v1": {
       "category": "LLM Training Stability / Attention / QK-clip",
@@ -324,6 +356,34 @@
       "relevance_score": 4.0,
       "title": "Optimally taming biases in black-box models for efficient semiparametric estimation"
     },
+    "2606.06370v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739140Z",
+      "link": "http://arxiv.org/abs/2606.06370v1",
+      "relevance_score": 3.0,
+      "title": "Ensuring Interaction Safety in Multitask Exoskeleton Control: A Simulation-Trained Variable Impedance Framework"
+    },
+    "2606.06384v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739138Z",
+      "link": "http://arxiv.org/abs/2606.06384v1",
+      "relevance_score": 3.0,
+      "title": "Estimation of the sub-Gaussian parameter"
+    },
+    "2606.06386v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739137Z",
+      "link": "http://arxiv.org/abs/2606.06386v1",
+      "relevance_score": 3.0,
+      "title": "On GPU Implementation for Multi-Precision Integer Division"
+    },
+    "2606.06388v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739136Z",
+      "link": "http://arxiv.org/abs/2606.06388v1",
+      "relevance_score": 3.0,
+      "title": "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration"
+    },
     "2606.06405v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-06T06:33:59.482551Z",
@@ -344,6 +404,20 @@
       "link": "http://arxiv.org/abs/2606.06418v1",
       "relevance_score": 13.0,
       "title": "Double Preconditioning (DoPr): Optimization for Test-Time Performance, not Validation Loss"
+    },
+    "2606.06421v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739134Z",
+      "link": "http://arxiv.org/abs/2606.06421v1",
+      "relevance_score": 3.0,
+      "title": "Modeling, Optimizing and Exploring Multi-Die FPGA Routing Architectures"
+    },
+    "2606.06440v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:36:27.739128Z",
+      "link": "http://arxiv.org/abs/2606.06440v1",
+      "relevance_score": 3.0,
+      "title": "Causal Atlases from Entropic Inference: Bayesian Networks beyond Optimal DAGs"
     },
     "2606.06447v1": {
       "category": "Not Relevant",

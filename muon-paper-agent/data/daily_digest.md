@@ -1,21 +1,4 @@
-# Daily Muon Paper Digest
+No important new papers today.
 
-## Top Highlights
-
-1. Second order splitting dynamics for stochastic monotone inclusions with closed loop distribution
-Authors: Wutao Si, Hamza Ennaji, Jalal Fadili
-Link: http://arxiv.org/abs/2606.06280v1
-Category: Muon-Adjacent Theory
-Paper type: Theory
-Relevance score: 5.0
-Abstract: In this paper, we investigate the problem of finding a zero of the sum of a maximal monotone operator $A$ and a cocoercive operator $\Bm$ in a Hilbert space. This formulation naturally captures stochastic optimization problems with decision-dependent distributions, often referred to as performative prediction. We propose and analyze continuous-time second-order dynamics governed by a distributionally evaluated forward-backward splitting operator. We establish the existence and uniqueness of the equilibrium point under a general uniform monotonicity assumption. In this setting, employing a vanishing viscous damping coefficient, we prove the strong convergence of the trajectories to the equilibrium, accompanied by fast asymptotic convergence rates for the velocities. Furthermore, when the regularizing operator is strongly monotone, we consider a constant Polyak-type damping coefficient and we establish global exponential convergence rates for the dynamical system.
-
-## Full Top 10
-
-1. Second order splitting dynamics for stochastic monotone inclusions with closed loop distribution
-Authors: Wutao Si, Hamza Ennaji, Jalal Fadili
-Link: http://arxiv.org/abs/2606.06280v1
-Category: Muon-Adjacent Theory
-Paper type: Theory
-Relevance score: 5.0
-Abstract: In this paper, we investigate the problem of finding a zero of the sum of a maximal monotone operator $A$ and a cocoercive operator $\Bm$ in a Hilbert space. This formulation naturally captures stochastic optimization problems with decision-dependent distributions, often referred to as performative prediction. We propose and analyze continuous-time second-order dynamics governed by a distributionally evaluated forward-backward splitting operator. We establish the existence and uniqueness of the equilibrium point under a general uniform monotonicity assumption. In this setting, employing a vanishing viscous damping coefficient, we prove the strong convergence of the trajectories to the equilibrium, accompanied by fast asymptotic convergence rates for the velocities. Furthermore, when the regularizing operator is strongly monotone, we consider a constant Polyak-type damping coefficient and we establish global exponential convergence rates for the dynamical system.
+Weak matches:
+- Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models (0.0) - http://arxiv.org/abs/2606.03748v1

@@ -19,6 +19,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-06T06:27:48.586995Z"
+    },
+    {
+      "paper_count": 3,
+      "sent_at": "2026-06-06T06:31:07.398516Z"
     }
   ],
   "papers": {
@@ -57,6 +61,20 @@
       "relevance_score": 6.0,
       "title": "EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs"
     },
+    "2606.03398v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:31:07.398493Z",
+      "link": "http://arxiv.org/abs/2606.03398v1",
+      "relevance_score": 0.0,
+      "title": "Causal Evidence of Stack Representations in Modeling Counter Languages Using Transformers"
+    },
+    "2606.03748v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-06-06T06:31:07.398491Z",
+      "link": "http://arxiv.org/abs/2606.03748v1",
+      "relevance_score": 0.0,
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models"
+    },
     "2606.03899v2": {
       "category": "Spectral Norm / Low-rank Geometry",
       "last_sent_at": "2026-06-06T06:18:15.306180Z",
@@ -77,6 +95,13 @@
       "link": "http://arxiv.org/abs/2606.04662v1",
       "relevance_score": 10.0,
       "title": "Why Muon Outperforms Adam: A Curvature Perspective"
+    },
+    "2606.05474v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-06T06:31:07.398482Z",
+      "link": "http://arxiv.org/abs/2606.05474v1",
+      "relevance_score": 3.5,
+      "title": "AlloGen: Conformation-Selective Binder Generation with Differential State Scoring"
     },
     "2606.05785v1": {
       "category": "Not Relevant",

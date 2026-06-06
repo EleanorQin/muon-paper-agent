@@ -7,9 +7,83 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-06T06:12:07.515041Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-06T06:18:15.306203Z"
     }
   ],
   "papers": {
+    "2510.01377v2": {
+      "category": "Orthogonalized Updates / Newton-Schulz",
+      "last_sent_at": "2026-06-06T06:18:15.306188Z",
+      "link": "http://arxiv.org/abs/2510.01377v2",
+      "relevance_score": 13.0,
+      "title": "DeMuon: A Decentralized Muon for Matrix Optimization over Graphs"
+    },
+    "2601.10222v2": {
+      "category": "Matrix Preconditioning / Shampoo / Second-order",
+      "last_sent_at": "2026-06-06T06:18:15.306201Z",
+      "link": "http://arxiv.org/abs/2601.10222v2",
+      "relevance_score": 6.5,
+      "title": "Introduction to optimization methods for training SciML models"
+    },
+    "2606.00542v2": {
+      "category": "Matrix Preconditioning / Shampoo / Second-order",
+      "last_sent_at": "2026-06-06T06:18:15.306198Z",
+      "link": "http://arxiv.org/abs/2606.00542v2",
+      "relevance_score": 6.5,
+      "title": "Rethinking Bregman Divergences in Kronecker-Factored Optimizers"
+    },
+    "2606.03260v1": {
+      "category": "Spectral Norm / Low-rank Geometry",
+      "last_sent_at": "2026-06-06T06:18:15.306202Z",
+      "link": "http://arxiv.org/abs/2606.03260v1",
+      "relevance_score": 6.0,
+      "title": "EqGINO: Equivariant Geometry-Informed Fourier Neural Operators for 3D PDEs"
+    },
+    "2606.03899v2": {
+      "category": "Spectral Norm / Low-rank Geometry",
+      "last_sent_at": "2026-06-06T06:18:15.306180Z",
+      "link": "http://arxiv.org/abs/2606.03899v2",
+      "relevance_score": 15.5,
+      "title": "Denoise First, Orthogonalize Later: Understanding Momentum in Muon via Spectral Filtering"
+    },
+    "2606.04058v1": {
+      "category": "Spectral Norm / Low-rank Geometry",
+      "last_sent_at": "2026-06-06T06:18:15.306186Z",
+      "link": "http://arxiv.org/abs/2606.04058v1",
+      "relevance_score": 14.5,
+      "title": "Spectral Scaling Laws of Muon"
+    },
+    "2606.04662v1": {
+      "category": "Matrix Preconditioning / Shampoo / Second-order",
+      "last_sent_at": "2026-06-06T06:18:15.306190Z",
+      "link": "http://arxiv.org/abs/2606.04662v1",
+      "relevance_score": 10.0,
+      "title": "Why Muon Outperforms Adam: A Curvature Perspective"
+    },
+    "2606.05880v1": {
+      "category": "LLM Training Stability / Attention / QK-clip",
+      "last_sent_at": "2026-06-06T06:18:15.306195Z",
+      "link": "http://arxiv.org/abs/2606.05880v1",
+      "relevance_score": 6.5,
+      "title": "TAGA: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion"
+    },
+    "2606.05957v1": {
+      "category": "LLM Training Stability / Attention / QK-clip",
+      "last_sent_at": "2026-06-06T06:18:15.306193Z",
+      "link": "http://arxiv.org/abs/2606.05957v1",
+      "relevance_score": 6.5,
+      "title": "Dead Directions: Geometric Singular Learning"
+    },
+    "2606.06100v1": {
+      "category": "LLM Training Stability / Attention / QK-clip",
+      "last_sent_at": "2026-06-06T06:18:15.306192Z",
+      "link": "http://arxiv.org/abs/2606.06100v1",
+      "relevance_score": 7.0,
+      "title": "HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning"
+    },
     "2606.06279v1": {
       "category": "Direct Muon",
       "last_sent_at": "2026-06-06T06:12:07.515023Z",

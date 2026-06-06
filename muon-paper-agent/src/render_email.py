@@ -32,7 +32,7 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
     highlighted = strong_papers[:max_highlighted]
 
     if not strong_papers:
-        subject = f"{config['email']['subject_prefix']} - {today}"
+        subject = f"{config['notification']['subject_prefix']} - {today}"
         weak_lines = [
             "No important new papers today.",
             "",
@@ -52,7 +52,7 @@ def render_digest(papers: list[dict[str, Any]], config: dict[str, Any]) -> dict[
             "highlighted": [],
         }
 
-    subject = f"{config['email']['subject_prefix']} - {today}"
+    subject = f"{config['notification']['subject_prefix']} - {today}"
     sections = ["# Daily Muon Paper Digest", "", "## Top Highlights", ""]
 
     for index, paper in enumerate(highlighted, start=1):

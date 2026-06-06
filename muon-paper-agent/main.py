@@ -9,7 +9,7 @@ from src.fetch_openreview import enrich_with_openreview
 from src.fetch_semantic_scholar import enrich_with_semantic_scholar
 from src.rank import rank_papers
 from src.render_email import render_digest
-from src.send_email import send_digest_email
+from src.send_slack import send_digest_slack
 from src.storage import load_config, load_seen_state, save_digest_markdown, save_seen_state
 from src.summarize import summarize_papers
 
@@ -48,7 +48,7 @@ def main() -> None:
     digest = render_digest(summarized_papers, config)
     save_digest_markdown(base_dir / "data" / "daily_digest.md", digest["markdown"])
 
-    send_digest_email(digest, config)
+    send_digest_slack(digest, config)
     save_seen_state(base_dir / "data" / "seen_papers.json", seen_state, summarized_papers)
 
     logger.info(

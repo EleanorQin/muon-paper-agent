@@ -1,6 +1,6 @@
 # Muon Paper Agent
 
-`muon-paper-agent` is a GitHub Actions driven research scout for Muon-related papers. Every morning it searches recent papers, ranks them for Muon relevance, builds a compact digest, and emails the result.
+`muon-paper-agent` is a GitHub Actions driven research scout for Muon-related papers. Every morning it searches recent papers, ranks them for Muon relevance, builds a compact digest, and posts the result to Slack.
 
 ## What It Does
 
@@ -9,7 +9,7 @@
 - Classifies papers into Muon-relevant categories.
 - Summarizes the top matches with an OpenAI model when available.
 - Falls back to keyword-based summaries if the OpenAI API is unavailable.
-- Sends a daily email via SMTP.
+- Sends a daily Slack digest via incoming webhook.
 - Stores paper state in `data/seen_papers.json` to avoid repeat sends.
 
 ## Repository Layout
@@ -30,7 +30,7 @@ muon-paper-agent/
     rank.py
     summarize.py
     render_email.py
-    send_email.py
+    send_slack.py
     storage.py
   data/
     seen_papers.json
@@ -45,14 +45,18 @@ Add these repository secrets in `Settings -> Secrets and variables -> Actions`:
 
 - `OPENAI_API_KEY`
 - `SEMANTIC_SCHOLAR_API_KEY`
-- `SMTP_HOST`
-- `SMTP_PORT`
-- `SMTP_USERNAME`
-- `SMTP_PASSWORD`
-- `EMAIL_FROM`
-- `EMAIL_TO`
+- `SLACK_WEBHOOK_URL`
 
 `SEMANTIC_SCHOLAR_API_KEY` is optional. If it is missing, enrichment is skipped.
+`SLACK_WEBHOOK_URL` is the incoming webhook URL for the Slack channel that should receive the digest.
+
+## Creating the Slack Webhook
+
+1. Create a Slack app at [api.slack.com/apps](https://api.slack.com/apps).
+2. Enable `Incoming Webhooks`.
+3. Click `Add New Webhook to Workspace`.
+4. Pick the channel where you want the digest posted.
+5. Copy the generated webhook URL and save it as the `SLACK_WEBHOOK_URL` GitHub secret.
 
 ## Manual Run
 
@@ -67,16 +71,16 @@ The workflow also runs every day at `9:00 AM America/Los_Angeles`.
 
 Edit `config.yaml` and update the `keywords` list. The arXiv query builder will OR these terms together.
 
-## Changing the Email Recipient
+## Changing the Slack Destination
 
-Update the `EMAIL_TO` GitHub secret. You can also change `EMAIL_FROM` if your SMTP provider requires a different sender address.
+Update the `SLACK_WEBHOOK_URL` GitHub secret to point to a webhook for a different channel.
 
 ## Debugging Failed Runs
 
 1. Open the latest workflow run in `Actions`.
 2. Inspect the `Run daily digest` step logs.
 3. Confirm secrets are populated and valid.
-4. Check whether the SMTP provider blocked login or required an app password.
+4. Check whether the Slack webhook URL is still valid and points to the intended channel.
 5. Look at `data/daily_digest.md` in the repo after a successful run to inspect the rendered digest content.
 
 ## Local Development

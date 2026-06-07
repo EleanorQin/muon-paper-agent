@@ -51,6 +51,10 @@
     {
       "paper_count": 0,
       "sent_at": "2026-06-06T16:35:13.365413Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-07T16:34:59.537108Z"
     }
   ],
   "papers": {
@@ -208,12 +212,40 @@
       "relevance_score": 7.0,
       "title": "HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning"
     },
+    "2606.06158v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537106Z",
+      "link": "http://arxiv.org/abs/2606.06158v1",
+      "relevance_score": 2.0,
+      "title": "Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting"
+    },
     "2606.06159v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-06T06:27:48.586981Z",
       "link": "http://arxiv.org/abs/2606.06159v1",
       "relevance_score": 5.0,
       "title": "ITP-STDP: An Intrinsic-Timing Power-of-Two Learning Engine for On-Chip SNN Training"
+    },
+    "2606.06160v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537103Z",
+      "link": "http://arxiv.org/abs/2606.06160v1",
+      "relevance_score": 2.0,
+      "title": "Where does Absolute Position come from in decoder-only Transformers?"
+    },
+    "2606.06162v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537100Z",
+      "link": "http://arxiv.org/abs/2606.06162v1",
+      "relevance_score": 2.0,
+      "title": "Learning to Contest: Decentralized Robust Fairness in Cooperative MARL via Cross-Attention"
+    },
+    "2606.06168v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537094Z",
+      "link": "http://arxiv.org/abs/2606.06168v1",
+      "relevance_score": 2.0,
+      "title": "ProSarc: Prosody-Aware Sarcasm Recognition Framework via Temporal Prosodic Incongruity"
     },
     "2606.06217v1": {
       "category": "Not Relevant",
@@ -222,12 +254,26 @@
       "relevance_score": 5.0,
       "title": "DisasterBench: A Multimodal Benchmark for UAV-Based Disaster Response in Complex Environments"
     },
+    "2606.06219v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537092Z",
+      "link": "http://arxiv.org/abs/2606.06219v1",
+      "relevance_score": 2.0,
+      "title": "CLEAR: Cognition and Latent Evaluation for Adaptive Routing in End-to-End Autonomous Driving"
+    },
     "2606.06228v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-06T06:27:48.586976Z",
       "link": "http://arxiv.org/abs/2606.06228v1",
       "relevance_score": 5.0,
       "title": "SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing"
+    },
+    "2606.06239v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537090Z",
+      "link": "http://arxiv.org/abs/2606.06239v1",
+      "relevance_score": 2.0,
+      "title": "Foundation Models for Wireless Communications: From PHY Intelligence to Network Autonomy"
     },
     "2606.06249v1": {
       "category": "Not Relevant",
@@ -236,12 +282,40 @@
       "relevance_score": 4.5,
       "title": "GRAMformer: Any-Order Modality Interactions via Volumetric Multimodal Cross-Attention"
     },
+    "2606.06250v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537087Z",
+      "link": "http://arxiv.org/abs/2606.06250v1",
+      "relevance_score": 2.0,
+      "title": "Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM"
+    },
+    "2606.06252v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537085Z",
+      "link": "http://arxiv.org/abs/2606.06252v1",
+      "relevance_score": 2.0,
+      "title": "Closing the Loop on Latent Reasoning via Test-Time Reconstruction"
+    },
     "2606.06256v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-06T06:27:48.586974Z",
       "link": "http://arxiv.org/abs/2606.06256v1",
       "relevance_score": 5.0,
       "title": "RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention"
+    },
+    "2606.06273v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537082Z",
+      "link": "http://arxiv.org/abs/2606.06273v1",
+      "relevance_score": 2.0,
+      "title": "Adapting Diffusion Language Models for Lossless Pixel-Level Image Transmission"
+    },
+    "2606.06275v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-07T16:34:59.537072Z",
+      "link": "http://arxiv.org/abs/2606.06275v1",
+      "relevance_score": 2.0,
+      "title": "Domain Diversity, Motivation, Inclusion, and Feedback in Software Modelling Education"
     },
     "2606.06279v1": {
       "category": "Direct Muon",

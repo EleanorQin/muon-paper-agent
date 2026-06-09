@@ -59,9 +59,20 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-08T17:12:43.261971Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-09T17:00:34.433866Z"
     }
   ],
   "papers": {
+    "2509.14562v4": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-09T17:00:34.433738Z",
+      "link": "http://arxiv.org/abs/2509.14562v4",
+      "relevance_score": 19.0,
+      "title": "LiMuon: Light and Fast Muon Optimizer for Large Models"
+    },
     "2510.01377v2": {
       "category": "Muon Core",
       "last_sent_at": "2026-06-06T07:09:20.544805Z",
@@ -75,6 +86,13 @@
       "link": "http://arxiv.org/abs/2601.10222v2",
       "relevance_score": 6.5,
       "title": "Introduction to optimization methods for training SciML models"
+    },
+    "2604.09967v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-09T17:00:34.433747Z",
+      "link": "http://arxiv.org/abs/2604.09967v2",
+      "relevance_score": 17.0,
+      "title": "Muon$^2$: Boosting Muon via Adaptive Second-Moment Preconditioning"
     },
     "2606.00542v2": {
       "category": "Matrix Preconditioning / Shampoo / Second-order",
@@ -642,6 +660,62 @@
       "link": "http://arxiv.org/abs/2606.07496v1",
       "relevance_score": 4.5,
       "title": "Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization"
+    },
+    "2606.08388v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-09T17:00:34.433850Z",
+      "link": "http://arxiv.org/abs/2606.08388v1",
+      "relevance_score": 16.0,
+      "title": "The Spectral Dynamics and Noise Geometry of Muon"
+    },
+    "2606.08783v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-09T17:00:34.433750Z",
+      "link": "http://arxiv.org/abs/2606.08783v1",
+      "relevance_score": 16.0,
+      "title": "OptMuon: Closed-Loop Orthogonalized Momentum Methods for Stochastic Optimization with Zero-Noise Optimality"
+    },
+    "2606.09486v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-09T17:00:34.433854Z",
+      "link": "http://arxiv.org/abs/2606.09486v1",
+      "relevance_score": 7.5,
+      "title": "LangRetrieval: Language-Guided Self-Evolving Satellite-to-Radar Retrieval via CSI-Driven Reward"
+    },
+    "2606.09507v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-09T17:00:34.433863Z",
+      "link": "http://arxiv.org/abs/2606.09507v1",
+      "relevance_score": 6.5,
+      "title": "Prisma-World: Camera-Controllable Multi-Agent Video World Model"
+    },
+    "2606.09658v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-09T17:00:34.433852Z",
+      "link": "http://arxiv.org/abs/2606.09658v1",
+      "relevance_score": 15.0,
+      "title": "Muon Learns More Robust and Transferable Features than Adam"
+    },
+    "2606.09738v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-09T17:00:34.433860Z",
+      "link": "http://arxiv.org/abs/2606.09738v1",
+      "relevance_score": 7.0,
+      "title": "HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents"
+    },
+    "2606.09811v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-09T17:00:34.433864Z",
+      "link": "http://arxiv.org/abs/2606.09811v1",
+      "relevance_score": 5.5,
+      "title": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing"
+    },
+    "2606.09821v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-09T17:00:34.433856Z",
+      "link": "http://arxiv.org/abs/2606.09821v1",
+      "relevance_score": 7.0,
+      "title": "Rethinking the Divergence Regularization in LLM RL"
     }
   }
 }

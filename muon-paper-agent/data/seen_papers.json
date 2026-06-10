@@ -67,6 +67,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-10T17:13:37.910219Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-10T17:14:47.389803Z"
     }
   ],
   "papers": {
@@ -742,6 +746,41 @@
       "relevance_score": 6.5,
       "title": "Geometry-Aware Reinforcement Learning for 2D Irregular Nesting"
     },
+    "2606.10829v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389802Z",
+      "link": "http://arxiv.org/abs/2606.10829v1",
+      "relevance_score": 5.0,
+      "title": "Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models"
+    },
+    "2606.10839v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389800Z",
+      "link": "http://arxiv.org/abs/2606.10839v1",
+      "relevance_score": 5.0,
+      "title": "HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation"
+    },
+    "2606.10913v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389797Z",
+      "link": "http://arxiv.org/abs/2606.10913v1",
+      "relevance_score": 5.0,
+      "title": "Conservation Laws from Data Symmetry in Neural Networks"
+    },
+    "2606.10939v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389793Z",
+      "link": "http://arxiv.org/abs/2606.10939v1",
+      "relevance_score": 5.0,
+      "title": "PENet+: A Lightweight Residual Transformer Framework for Efficient Image Steganalysis"
+    },
+    "2606.10968v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389791Z",
+      "link": "http://arxiv.org/abs/2606.10968v1",
+      "relevance_score": 5.0,
+      "title": "Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning"
+    },
     "2606.10972v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-10T17:13:37.910216Z",
@@ -749,12 +788,47 @@
       "relevance_score": 5.5,
       "title": "Optimizing 2D Input Representations and Sub-phase Fusion Strategies for Differential Diagnosis of Asthma and COPD Using CNN- and GRU-Based Networks"
     },
+    "2606.10974v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389789Z",
+      "link": "http://arxiv.org/abs/2606.10974v1",
+      "relevance_score": 5.0,
+      "title": "Language-Driven Cost Optimization for Autonomous Driving"
+    },
     "2606.10989v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-06-10T17:13:37.910202Z",
       "link": "http://arxiv.org/abs/2606.10989v1",
       "relevance_score": 7.5,
       "title": "Null-Space Constrained Low-Rank Adaptation for Response-Specified Large Language Model Unlearning"
+    },
+    "2606.11015v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-10T17:14:47.389787Z",
+      "link": "http://arxiv.org/abs/2606.11015v1",
+      "relevance_score": 5.0,
+      "title": "Structure from Reasoning, Numbers from Search: On-Premise Open LLMs as Structural Priors for Coupled MIMO Controller Tuning"
+    },
+    "2606.11046v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389784Z",
+      "link": "http://arxiv.org/abs/2606.11046v1",
+      "relevance_score": 5.0,
+      "title": "Does Reasoning Preserve Alignment? On the Trustworthiness of Large Reasoning Models"
+    },
+    "2606.11052v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:14:47.389782Z",
+      "link": "http://arxiv.org/abs/2606.11052v1",
+      "relevance_score": 5.0,
+      "title": "Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It"
+    },
+    "2606.11081v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-10T17:14:47.389773Z",
+      "link": "http://arxiv.org/abs/2606.11081v1",
+      "relevance_score": 5.0,
+      "title": "Unifying Local Communications and Local Updates for LLM Pretraining"
     },
     "2606.11110v1": {
       "category": "Muon-Adjacent Theory",

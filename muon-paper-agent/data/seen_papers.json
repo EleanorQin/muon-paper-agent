@@ -63,6 +63,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-09T17:00:34.433866Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-10T17:13:37.910219Z"
     }
   ],
   "papers": {
@@ -716,6 +720,76 @@
       "link": "http://arxiv.org/abs/2606.09821v1",
       "relevance_score": 7.0,
       "title": "Rethinking the Divergence Regularization in LLM RL"
+    },
+    "2606.10406v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-10T17:13:37.910199Z",
+      "link": "http://arxiv.org/abs/2606.10406v1",
+      "relevance_score": 11.5,
+      "title": "FOGO: Forgetting-aware Orthogonalization Optimizer"
+    },
+    "2606.10469v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-10T17:13:37.910206Z",
+      "link": "http://arxiv.org/abs/2606.10469v1",
+      "relevance_score": 7.0,
+      "title": "A Mean-Field Analysis of Multi-Head Self-Attention under Cross-Entropy Training"
+    },
+    "2606.10611v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:13:37.910208Z",
+      "link": "http://arxiv.org/abs/2606.10611v1",
+      "relevance_score": 6.5,
+      "title": "Geometry-Aware Reinforcement Learning for 2D Irregular Nesting"
+    },
+    "2606.10972v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:13:37.910216Z",
+      "link": "http://arxiv.org/abs/2606.10972v1",
+      "relevance_score": 5.5,
+      "title": "Optimizing 2D Input Representations and Sub-phase Fusion Strategies for Differential Diagnosis of Asthma and COPD Using CNN- and GRU-Based Networks"
+    },
+    "2606.10989v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-10T17:13:37.910202Z",
+      "link": "http://arxiv.org/abs/2606.10989v1",
+      "relevance_score": 7.5,
+      "title": "Null-Space Constrained Low-Rank Adaptation for Response-Specified Large Language Model Unlearning"
+    },
+    "2606.11110v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-06-10T17:13:37.910204Z",
+      "link": "http://arxiv.org/abs/2606.11110v1",
+      "relevance_score": 7.0,
+      "title": "Fixed-Threshold One-Bit Toeplitz Covariance Estimation under Sparse-Ruler Sampling"
+    },
+    "2606.11119v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:13:37.910214Z",
+      "link": "http://arxiv.org/abs/2606.11119v1",
+      "relevance_score": 5.5,
+      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning"
+    },
+    "2606.11123v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:13:37.910189Z",
+      "link": "http://arxiv.org/abs/2606.11123v1",
+      "relevance_score": 14.0,
+      "title": "Overcoming Rank Collapse in Feedback Alignment"
+    },
+    "2606.11155v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:13:37.910218Z",
+      "link": "http://arxiv.org/abs/2606.11155v1",
+      "relevance_score": 5.0,
+      "title": "Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models"
+    },
+    "2606.11167v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-10T17:13:37.910210Z",
+      "link": "http://arxiv.org/abs/2606.11167v1",
+      "relevance_score": 5.5,
+      "title": "Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models"
     }
   }
 }

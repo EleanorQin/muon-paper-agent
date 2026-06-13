@@ -79,6 +79,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-12T17:05:47.349828Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-13T16:36:09.156511Z"
     }
   ],
   "papers": {
@@ -943,6 +947,13 @@
       "relevance_score": 5.5,
       "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models"
     },
+    "2606.12629v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156506Z",
+      "link": "http://arxiv.org/abs/2606.12629v1",
+      "relevance_score": 4.0,
+      "title": "Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns"
+    },
     "2606.12662v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-12T17:05:47.349812Z",
@@ -950,12 +961,61 @@
       "relevance_score": 5.5,
       "title": "BASENet: Band-Adapted Speech Enhancement Network with Cross-Band Attention"
     },
+    "2606.12847v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156502Z",
+      "link": "http://arxiv.org/abs/2606.12847v1",
+      "relevance_score": 4.0,
+      "title": "Language-Guided Abstraction for Visual Reasoning"
+    },
+    "2606.12898v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156500Z",
+      "link": "http://arxiv.org/abs/2606.12898v1",
+      "relevance_score": 4.0,
+      "title": "Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension"
+    },
     "2606.12921v1": {
       "category": "Muon Core",
       "last_sent_at": "2026-06-12T17:05:47.349794Z",
       "link": "http://arxiv.org/abs/2606.12921v1",
       "relevance_score": 19.0,
       "title": "LoRA-Muon: Spectral Steepest Descent on the Low-Rank Manifold"
+    },
+    "2606.12966v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156498Z",
+      "link": "http://arxiv.org/abs/2606.12966v1",
+      "relevance_score": 4.0,
+      "title": "Circuit Synchronization Precedes Generalization: Causal Evidence from Fourier Structure in Grokking Transformers"
+    },
+    "2606.13022v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156478Z",
+      "link": "http://arxiv.org/abs/2606.13022v1",
+      "relevance_score": 4.0,
+      "title": "Quality-Preserving Imperceptible Adversarial Attack on Skeleton-based Human Action Recognition"
+    },
+    "2606.13024v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156476Z",
+      "link": "http://arxiv.org/abs/2606.13024v1",
+      "relevance_score": 4.0,
+      "title": "CausalMoE: A Billion-Scale Multimodal Foundation Model for Granger Causal Discovery with Pattern-Routed Heterogeneous Experts"
+    },
+    "2606.13035v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156474Z",
+      "link": "http://arxiv.org/abs/2606.13035v1",
+      "relevance_score": 4.0,
+      "title": "TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment"
+    },
+    "2606.13168v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156465Z",
+      "link": "http://arxiv.org/abs/2606.13168v1",
+      "relevance_score": 4.0,
+      "title": "When Does Routing Become Interpretable? Causal Probes on Block Attention Residuals"
     },
     "2606.13255v1": {
       "category": "Not Relevant",
@@ -985,12 +1045,26 @@
       "relevance_score": 5.0,
       "title": "MiniMax Sparse Attention"
     },
+    "2606.13488v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156510Z",
+      "link": "http://arxiv.org/abs/2606.13488v1",
+      "relevance_score": 3.5,
+      "title": "Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery"
+    },
     "2606.13566v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-12T17:05:47.349816Z",
       "link": "http://arxiv.org/abs/2606.13566v1",
       "relevance_score": 5.0,
       "title": "A Three-Layer Framework for AI in Scientific Discovery"
+    },
+    "2606.13587v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-13T16:36:09.156508Z",
+      "link": "http://arxiv.org/abs/2606.13587v1",
+      "relevance_score": 3.5,
+      "title": "Towards Effective Waste Segmentation for Automated Waste Recycling in Cluttered Background"
     },
     "2606.13644v1": {
       "category": "Not Relevant",

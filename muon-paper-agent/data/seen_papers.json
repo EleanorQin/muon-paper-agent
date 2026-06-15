@@ -87,9 +87,20 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-14T16:36:54.645060Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-15T17:42:28.760705Z"
     }
   ],
   "papers": {
+    "2405.14154v5": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-15T17:42:28.760701Z",
+      "link": "http://arxiv.org/abs/2405.14154v5",
+      "relevance_score": 6.5,
+      "title": "Cross-Stage Sensorimotor Perception Scheduling and Sparse Map Encoding for Efficient Edge Embodied Navigation"
+    },
     "2509.14562v4": {
       "category": "Muon Core",
       "last_sent_at": "2026-06-09T17:00:34.433738Z",
@@ -1160,6 +1171,69 @@
       "link": "http://arxiv.org/abs/2606.13657v1",
       "relevance_score": 9.5,
       "title": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation"
+    },
+    "2606.13867v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-15T17:42:28.760677Z",
+      "link": "http://arxiv.org/abs/2606.13867v1",
+      "relevance_score": 16.0,
+      "title": "Muon$^p$: Muon with Fractional Spectral Powers"
+    },
+    "2606.14071v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-15T17:42:28.760684Z",
+      "link": "http://arxiv.org/abs/2606.14071v1",
+      "relevance_score": 7.5,
+      "title": "ShearFuse-UNet: Hadamard, DCT, and Shearlet Transform Fusion for Next-Day Wildfire Spread Prediction"
+    },
+    "2606.14187v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-15T17:42:28.760673Z",
+      "link": "http://arxiv.org/abs/2606.14187v1",
+      "relevance_score": 17.5,
+      "title": "Zeta: Dual Whitening for Matrix Optimization via Coordinate-Adaptive Preconditioning"
+    },
+    "2606.14217v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-15T17:42:28.760681Z",
+      "link": "http://arxiv.org/abs/2606.14217v1",
+      "relevance_score": 8.0,
+      "title": "Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction"
+    },
+    "2606.14248v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-15T17:42:28.760697Z",
+      "link": "http://arxiv.org/abs/2606.14248v1",
+      "relevance_score": 6.5,
+      "title": "Spectrum Aware Illumination Estimation Using Multispectral Image"
+    },
+    "2606.14307v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-15T17:42:28.760703Z",
+      "link": "http://arxiv.org/abs/2606.14307v1",
+      "relevance_score": 5.5,
+      "title": "Pano3D: Unified 3D Reconstruction and Panoptic Segmentation"
+    },
+    "2606.14321v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-15T17:42:28.760687Z",
+      "link": "http://arxiv.org/abs/2606.14321v1",
+      "relevance_score": 7.0,
+      "title": "MaskedFOP: Polyglot Speaker Identification under Missing Visual Modality via Cascaded Graph Label Propagation"
+    },
+    "2606.14560v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-15T17:42:28.760662Z",
+      "link": "http://arxiv.org/abs/2606.14560v1",
+      "relevance_score": 18.0,
+      "title": "Free Heavy-Tailed Lunch for Muon: A Theoretical Justification of Empirical Success"
+    },
+    "2606.14690v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-15T17:42:28.760691Z",
+      "link": "http://arxiv.org/abs/2606.14690v1",
+      "relevance_score": 6.5,
+      "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation"
     }
   }
 }

@@ -91,6 +91,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-15T17:42:28.760705Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-16T17:46:02.120108Z"
     }
   ],
   "papers": {
@@ -878,6 +882,13 @@
       "relevance_score": 14.0,
       "title": "Overcoming Rank Collapse in Feedback Alignment"
     },
+    "2606.11123v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-16T17:46:02.120030Z",
+      "link": "http://arxiv.org/abs/2606.11123v2",
+      "relevance_score": 13.5,
+      "title": "Overcoming Rank Collapse in Feedback Alignment"
+    },
     "2606.11155v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-10T17:13:37.910218Z",
@@ -1234,6 +1245,69 @@
       "link": "http://arxiv.org/abs/2606.14690v1",
       "relevance_score": 6.5,
       "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation"
+    },
+    "2606.15268v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-16T17:46:02.120035Z",
+      "link": "http://arxiv.org/abs/2606.15268v1",
+      "relevance_score": 9.5,
+      "title": "When to use what Schatten-$p$ norm in deep learning?"
+    },
+    "2606.15702v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-06-16T17:46:02.120039Z",
+      "link": "http://arxiv.org/abs/2606.15702v1",
+      "relevance_score": 8.0,
+      "title": "Schattor: Schatten-family methods for deep learning optimization"
+    },
+    "2606.16310v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-16T17:46:02.120041Z",
+      "link": "http://arxiv.org/abs/2606.16310v1",
+      "relevance_score": 7.5,
+      "title": "QK-Normed MLA: QK normalization without full key caching"
+    },
+    "2606.16371v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-16T17:46:02.120021Z",
+      "link": "http://arxiv.org/abs/2606.16371v1",
+      "relevance_score": 18.0,
+      "title": "CacheMuon: Using Temporal Preconditioning To Approximate Polar Factor"
+    },
+    "2606.16479v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-16T17:46:02.120107Z",
+      "link": "http://arxiv.org/abs/2606.16479v1",
+      "relevance_score": 6.5,
+      "title": "Uncertainty Quality of VGGT: An Analysis on the DTU Benchmark Dataset"
+    },
+    "2606.16730v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-16T17:46:02.120105Z",
+      "link": "http://arxiv.org/abs/2606.16730v1",
+      "relevance_score": 6.5,
+      "title": "Attention is Just Another Name for Coupling?: A Fast-Slow ODE Perspective on Hierarchical Pretraining"
+    },
+    "2606.16847v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-16T17:46:02.120037Z",
+      "link": "http://arxiv.org/abs/2606.16847v1",
+      "relevance_score": 8.0,
+      "title": "Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens"
+    },
+    "2606.16899v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-16T17:46:02.120033Z",
+      "link": "http://arxiv.org/abs/2606.16899v1",
+      "relevance_score": 11.0,
+      "title": "Fantastic Pretraining Optimizers and Where to Find Them II: Hyperball Optimization"
+    },
+    "2606.16993v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-16T17:46:02.120045Z",
+      "link": "http://arxiv.org/abs/2606.16993v1",
+      "relevance_score": 6.5,
+      "title": "DreamX-World 1.0: A General-Purpose Interactive World Model"
     }
   }
 }

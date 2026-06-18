@@ -99,6 +99,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-17T17:08:09.383113Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-18T17:09:24.241671Z"
     }
   ],
   "papers": {
@@ -1382,6 +1386,76 @@
       "link": "http://arxiv.org/abs/2606.18216v1",
       "relevance_score": 5.5,
       "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients"
+    },
+    "2606.18375v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241647Z",
+      "link": "http://arxiv.org/abs/2606.18375v1",
+      "relevance_score": 6.5,
+      "title": "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation"
+    },
+    "2606.18439v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241629Z",
+      "link": "http://arxiv.org/abs/2606.18439v1",
+      "relevance_score": 9.0,
+      "title": "RegimeVGGT: Layer-Wise Spatially Preserving Redundancy Removal for Visual Geometry Grounded Transformer"
+    },
+    "2606.18738v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241640Z",
+      "link": "http://arxiv.org/abs/2606.18738v1",
+      "relevance_score": 7.5,
+      "title": "GRIDEX: Grid-Grounded Forensic Explanations for Deepfake Spectrogram Analysis"
+    },
+    "2606.19151v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241668Z",
+      "link": "http://arxiv.org/abs/2606.19151v1",
+      "relevance_score": 5.0,
+      "title": "The Market in the Model: Latent Diffusion as Neural Economy"
+    },
+    "2606.19269v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241666Z",
+      "link": "http://arxiv.org/abs/2606.19269v1",
+      "relevance_score": 5.0,
+      "title": "Scoring Backends Matter More Than Pooling: A Systematic Study of Training-Free Anomalous Sound Detection under Domain Shift"
+    },
+    "2606.19303v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241662Z",
+      "link": "http://arxiv.org/abs/2606.19303v1",
+      "relevance_score": 5.0,
+      "title": "P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution"
+    },
+    "2606.19316v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241644Z",
+      "link": "http://arxiv.org/abs/2606.19316v1",
+      "relevance_score": 7.0,
+      "title": "NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field"
+    },
+    "2606.19317v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241656Z",
+      "link": "http://arxiv.org/abs/2606.19317v1",
+      "relevance_score": 5.5,
+      "title": "Explaining Attention with Program Synthesis"
+    },
+    "2606.19327v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241653Z",
+      "link": "http://arxiv.org/abs/2606.19327v1",
+      "relevance_score": 5.5,
+      "title": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation"
+    },
+    "2606.19336v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-18T17:09:24.241650Z",
+      "link": "http://arxiv.org/abs/2606.19336v1",
+      "relevance_score": 5.5,
+      "title": "Learning User Simulators with Turing Rewards"
     }
   }
 }

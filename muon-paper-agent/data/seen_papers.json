@@ -103,6 +103,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-18T17:09:24.241671Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-19T16:53:34.821712Z"
     }
   ],
   "papers": {
@@ -133,6 +137,13 @@
       "link": "http://arxiv.org/abs/2601.10222v2",
       "relevance_score": 6.5,
       "title": "Introduction to optimization methods for training SciML models"
+    },
+    "2602.04396v2": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-06-19T16:53:34.821693Z",
+      "link": "http://arxiv.org/abs/2602.04396v2",
+      "relevance_score": 6.5,
+      "title": "LoRDO: Distributed Low-Rank Optimization with Infrequent Communication"
     },
     "2604.09967v2": {
       "category": "Muon Core",
@@ -1456,6 +1467,69 @@
       "link": "http://arxiv.org/abs/2606.19336v1",
       "relevance_score": 5.5,
       "title": "Learning User Simulators with Turing Rewards"
+    },
+    "2606.19946v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-19T16:53:34.821681Z",
+      "link": "http://arxiv.org/abs/2606.19946v1",
+      "relevance_score": 8.0,
+      "title": "GEMS: Geometric Constraints Enable Multi-Semantic Superposition in LLMs"
+    },
+    "2606.20419v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-19T16:53:34.821690Z",
+      "link": "http://arxiv.org/abs/2606.20419v1",
+      "relevance_score": 7.5,
+      "title": "Spectral Query-Key Product Weight Steering for Training-Free VLM Hallucination Mitigation"
+    },
+    "2606.20450v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-19T16:53:34.821697Z",
+      "link": "http://arxiv.org/abs/2606.20450v1",
+      "relevance_score": 6.0,
+      "title": "Max-Min Rate Fairness Optimization for Multi-User Pinching-Antenna NOMA Systems"
+    },
+    "2606.20474v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-19T16:53:34.821706Z",
+      "link": "http://arxiv.org/abs/2606.20474v1",
+      "relevance_score": 5.5,
+      "title": "UltraQuant: 4-bit KV Caching for Context-Heavy Agents"
+    },
+    "2606.20496v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-19T16:53:34.821695Z",
+      "link": "http://arxiv.org/abs/2606.20496v1",
+      "relevance_score": 6.0,
+      "title": "CoarseSolvers for Exascale Solution of Poisson Problems"
+    },
+    "2606.20508v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-19T16:53:34.821701Z",
+      "link": "http://arxiv.org/abs/2606.20508v1",
+      "relevance_score": 5.5,
+      "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?"
+    },
+    "2606.20547v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-19T16:53:34.821711Z",
+      "link": "http://arxiv.org/abs/2606.20547v1",
+      "relevance_score": 5.0,
+      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups"
+    },
+    "2606.20553v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-19T16:53:34.821699Z",
+      "link": "http://arxiv.org/abs/2606.20553v1",
+      "relevance_score": 5.5,
+      "title": "From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning"
+    },
+    "2606.20563v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-19T16:53:34.821709Z",
+      "link": "http://arxiv.org/abs/2606.20563v1",
+      "relevance_score": 5.0,
+      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising"
     }
   }
 }

@@ -111,6 +111,10 @@
     {
       "paper_count": 0,
       "sent_at": "2026-06-20T16:43:30.476589Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-21T16:38:41.632286Z"
     }
   ],
   "papers": {
@@ -1478,6 +1482,76 @@
       "link": "http://arxiv.org/abs/2606.19946v1",
       "relevance_score": 8.0,
       "title": "GEMS: Geometric Constraints Enable Multi-Semantic Superposition in LLMs"
+    },
+    "2606.20087v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632285Z",
+      "link": "http://arxiv.org/abs/2606.20087v1",
+      "relevance_score": 4.0,
+      "title": "Multi-Head Attention-Based Feature Extractor Integration with Soft Actor-Critic for Porosity Prediction and Process Parameter Optimization in Additive Manufacturing"
+    },
+    "2606.20097v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632282Z",
+      "link": "http://arxiv.org/abs/2606.20097v1",
+      "relevance_score": 4.0,
+      "title": "HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization"
+    },
+    "2606.20101v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632279Z",
+      "link": "http://arxiv.org/abs/2606.20101v1",
+      "relevance_score": 4.0,
+      "title": "Hybrid Diffusion Transformer for Instruction-Guided Audio Editing via Rectified Flow"
+    },
+    "2606.20110v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632275Z",
+      "link": "http://arxiv.org/abs/2606.20110v1",
+      "relevance_score": 4.0,
+      "title": "FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model"
+    },
+    "2606.20112v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632273Z",
+      "link": "http://arxiv.org/abs/2606.20112v1",
+      "relevance_score": 4.0,
+      "title": "Pixel-Level Residual Diffusion Transformer: Scalable 3D CT Volume Generation"
+    },
+    "2606.20373v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632271Z",
+      "link": "http://arxiv.org/abs/2606.20373v1",
+      "relevance_score": 4.0,
+      "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning"
+    },
+    "2606.20374v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632269Z",
+      "link": "http://arxiv.org/abs/2606.20374v1",
+      "relevance_score": 4.0,
+      "title": "ARGUS: Production-Scale Tracing and Performance Diagnosis for over 10,000-GPU Clusters"
+    },
+    "2606.20394v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632266Z",
+      "link": "http://arxiv.org/abs/2606.20394v1",
+      "relevance_score": 4.0,
+      "title": "Agentic AutoResearch forSpace Autonomy: An Auditable, LLM-Driven Research Agent for Aerospace Control Problems"
+    },
+    "2606.20401v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632263Z",
+      "link": "http://arxiv.org/abs/2606.20401v1",
+      "relevance_score": 4.0,
+      "title": "PowerAgentBench-Dyn: A Benchmark for Agentic AI in Power System Dynamic Studies"
+    },
+    "2606.20414v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-21T16:38:41.632252Z",
+      "link": "http://arxiv.org/abs/2606.20414v1",
+      "relevance_score": 4.0,
+      "title": "ExSpike: A General Full-Event Neuromorphic Architecture for Exploiting Irregular Sparsity with Event Compression"
     },
     "2606.20419v1": {
       "category": "Not Relevant",

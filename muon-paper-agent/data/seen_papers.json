@@ -119,6 +119,10 @@
     {
       "paper_count": 9,
       "sent_at": "2026-06-22T17:36:31.271328Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-23T16:54:24.161883Z"
     }
   ],
   "papers": {
@@ -1675,6 +1679,76 @@
       "link": "http://arxiv.org/abs/2606.20563v1",
       "relevance_score": 5.0,
       "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising"
+    },
+    "2606.22835v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-23T16:54:24.161866Z",
+      "link": "http://arxiv.org/abs/2606.22835v1",
+      "relevance_score": 7.5,
+      "title": "OrthoMotion:Disentangling Camera and Subject Motion via Geometry Semantics Orthogonal Attention"
+    },
+    "2606.22946v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-23T16:54:24.161859Z",
+      "link": "http://arxiv.org/abs/2606.22946v1",
+      "relevance_score": 10.5,
+      "title": "Neural Operator Processes for Probabilistic Operator Learning under Partial Observations"
+    },
+    "2606.23063v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-23T16:54:24.161871Z",
+      "link": "http://arxiv.org/abs/2606.23063v1",
+      "relevance_score": 7.0,
+      "title": "Attention-Spectrum Regularization for Replay-Free Continual Multimodal LLMs"
+    },
+    "2606.23357v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-23T16:54:24.161869Z",
+      "link": "http://arxiv.org/abs/2606.23357v1",
+      "relevance_score": 7.0,
+      "title": "SOAP-Bubbles: Structured Weight Uncertainty for Neural Networks"
+    },
+    "2606.23557v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-23T16:54:24.161881Z",
+      "link": "http://arxiv.org/abs/2606.23557v1",
+      "relevance_score": 6.5,
+      "title": "Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views"
+    },
+    "2606.23568v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-06-23T16:54:24.161879Z",
+      "link": "http://arxiv.org/abs/2606.23568v1",
+      "relevance_score": 6.5,
+      "title": "SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression"
+    },
+    "2606.23581v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-23T16:54:24.161876Z",
+      "link": "http://arxiv.org/abs/2606.23581v1",
+      "relevance_score": 6.5,
+      "title": "Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse"
+    },
+    "2606.23637v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-23T16:54:24.161864Z",
+      "link": "http://arxiv.org/abs/2606.23637v1",
+      "relevance_score": 9.5,
+      "title": "Muown Implicitly Performs Angular Step-size Decay"
+    },
+    "2606.23665v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-23T16:54:24.161862Z",
+      "link": "http://arxiv.org/abs/2606.23665v1",
+      "relevance_score": 10.0,
+      "title": "PHAST-Net: Attention-Guided, Physics-Informed Network for Unified Estimation of Ideal Time-Frequency Representations"
+    },
+    "2606.23676v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-23T16:54:24.161848Z",
+      "link": "http://arxiv.org/abs/2606.23676v1",
+      "relevance_score": 11.5,
+      "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?"
     }
   }
 }

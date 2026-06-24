@@ -123,6 +123,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-23T16:54:24.161883Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-24T16:49:26.172035Z"
     }
   ],
   "papers": {
@@ -959,6 +963,13 @@
       "relevance_score": 6.5,
       "title": "A Riemannian Approach to Low-Rank Optimal Transport"
     },
+    "2606.12120v2": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-24T16:49:26.172019Z",
+      "link": "http://arxiv.org/abs/2606.12120v2",
+      "relevance_score": 5.5,
+      "title": "A Riemannian Approach to Low-Rank Optimal Transport"
+    },
     "2606.12365v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-11T17:23:29.371162Z",
@@ -1749,6 +1760,69 @@
       "link": "http://arxiv.org/abs/2606.23676v1",
       "relevance_score": 11.5,
       "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?"
+    },
+    "2606.24165v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172006Z",
+      "link": "http://arxiv.org/abs/2606.24165v1",
+      "relevance_score": 7.5,
+      "title": "Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models"
+    },
+    "2606.24539v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172015Z",
+      "link": "http://arxiv.org/abs/2606.24539v1",
+      "relevance_score": 6.5,
+      "title": "PointVG-R: Internalizing Geometric Reasoning in MLLMs for Precise Pointing Localization via Visual Chain of Thought"
+    },
+    "2606.24605v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172033Z",
+      "link": "http://arxiv.org/abs/2606.24605v1",
+      "relevance_score": 5.0,
+      "title": "ScaleToT: Generalizing Structured LLM Reasoning for Billion-Scale Low-Activity User Modeling"
+    },
+    "2606.24609v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172031Z",
+      "link": "http://arxiv.org/abs/2606.24609v1",
+      "relevance_score": 5.0,
+      "title": "CONDUCTOR: An LLM-Orchestrated Digital Twin for Uncertainty-Aware Distribution Grid Operations"
+    },
+    "2606.24667v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172028Z",
+      "link": "http://arxiv.org/abs/2606.24667v1",
+      "relevance_score": 5.0,
+      "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling"
+    },
+    "2606.24669v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172023Z",
+      "link": "http://arxiv.org/abs/2606.24669v1",
+      "relevance_score": 5.0,
+      "title": "LaGO: Latent Action Guidance for Online Reinforcement Learning"
+    },
+    "2606.24774v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172021Z",
+      "link": "http://arxiv.org/abs/2606.24774v1",
+      "relevance_score": 5.0,
+      "title": "Revealing Training Data Exposure in Vision Language Large Models via Parameter Gradients"
+    },
+    "2606.24841v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-24T16:49:26.172017Z",
+      "link": "http://arxiv.org/abs/2606.24841v1",
+      "relevance_score": 5.5,
+      "title": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models"
+    },
+    "2606.24844v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-24T16:49:26.172012Z",
+      "link": "http://arxiv.org/abs/2606.24844v1",
+      "relevance_score": 7.0,
+      "title": "Bridging the Manifold Gap: Riemannian Residual Line Search for One-Step Image Editing"
     }
   }
 }

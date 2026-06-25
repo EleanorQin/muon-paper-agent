@@ -127,6 +127,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-24T16:49:26.172035Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-25T16:51:26.754042Z"
     }
   ],
   "papers": {
@@ -1823,6 +1827,76 @@
       "link": "http://arxiv.org/abs/2606.24844v1",
       "relevance_score": 7.0,
       "title": "Bridging the Manifold Gap: Riemannian Residual Line Search for One-Step Image Editing"
+    },
+    "2606.25215v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754029Z",
+      "link": "http://arxiv.org/abs/2606.25215v1",
+      "relevance_score": 6.5,
+      "title": "Reflective VLA: In-Context Action Consequences Make VLAs Generalize"
+    },
+    "2606.25293v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754027Z",
+      "link": "http://arxiv.org/abs/2606.25293v1",
+      "relevance_score": 6.5,
+      "title": "Communicability-Inspired Positional Encoding (CIPE)"
+    },
+    "2606.25579v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-25T16:51:26.754025Z",
+      "link": "http://arxiv.org/abs/2606.25579v1",
+      "relevance_score": 6.5,
+      "title": "Cross-Attention Multimodal Learning for Predicting Response to Neoadjuvant Imatinib in Gastrointestinal Stromal Tumors: A Multicenter Retrospective Study"
+    },
+    "2606.25871v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754019Z",
+      "link": "http://arxiv.org/abs/2606.25871v1",
+      "relevance_score": 8.0,
+      "title": "AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search"
+    },
+    "2606.25971v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754031Z",
+      "link": "http://arxiv.org/abs/2606.25971v1",
+      "relevance_score": 6.0,
+      "title": "Improving Neural Network Training by Decoupling the Magnitude and Direction of Weight Vectors"
+    },
+    "2606.25975v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-25T16:51:26.754010Z",
+      "link": "http://arxiv.org/abs/2606.25975v1",
+      "relevance_score": 15.5,
+      "title": "Tensorion: A Tensor-Aware Generalization of the Muon Optimizer"
+    },
+    "2606.26047v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754041Z",
+      "link": "http://arxiv.org/abs/2606.26047v1",
+      "relevance_score": 5.5,
+      "title": "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations"
+    },
+    "2606.26080v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754038Z",
+      "link": "http://arxiv.org/abs/2606.26080v1",
+      "relevance_score": 5.5,
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
+    },
+    "2606.26087v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754022Z",
+      "link": "http://arxiv.org/abs/2606.26087v1",
+      "relevance_score": 7.0,
+      "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation"
+    },
+    "2606.26095v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-25T16:51:26.754036Z",
+      "link": "http://arxiv.org/abs/2606.26095v1",
+      "relevance_score": 5.5,
+      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation"
     }
   }
 }

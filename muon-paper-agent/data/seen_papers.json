@@ -131,6 +131,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-25T16:51:26.754042Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-26T16:45:31.660916Z"
     }
   ],
   "papers": {
@@ -1897,6 +1901,76 @@
       "link": "http://arxiv.org/abs/2606.26095v1",
       "relevance_score": 5.5,
       "title": "Learning Action Priors for Cross-embodiment Robot Manipulation"
+    },
+    "2606.27096v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-26T16:45:31.660909Z",
+      "link": "http://arxiv.org/abs/2606.27096v1",
+      "relevance_score": 5.5,
+      "title": "Transformer-Based Classification of Bacterial Raman Spectra with LOOCV"
+    },
+    "2606.27153v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-26T16:45:31.660892Z",
+      "link": "http://arxiv.org/abs/2606.27153v1",
+      "relevance_score": 20.0,
+      "title": "DMuon: Efficient Distributed Muon Training with Near-Adam Overhead"
+    },
+    "2606.27216v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-26T16:45:31.660884Z",
+      "link": "http://arxiv.org/abs/2606.27216v1",
+      "relevance_score": 20.5,
+      "title": "Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization"
+    },
+    "2606.27229v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-26T16:45:31.660914Z",
+      "link": "http://arxiv.org/abs/2606.27229v1",
+      "relevance_score": 5.0,
+      "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention"
+    },
+    "2606.27291v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-26T16:45:31.660904Z",
+      "link": "http://arxiv.org/abs/2606.27291v1",
+      "relevance_score": 5.5,
+      "title": "Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search"
+    },
+    "2606.27345v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-26T16:45:31.660895Z",
+      "link": "http://arxiv.org/abs/2606.27345v1",
+      "relevance_score": 7.0,
+      "title": "RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation"
+    },
+    "2606.27350v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-26T16:45:31.660902Z",
+      "link": "http://arxiv.org/abs/2606.27350v1",
+      "relevance_score": 5.5,
+      "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research"
+    },
+    "2606.27354v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-26T16:45:31.660900Z",
+      "link": "http://arxiv.org/abs/2606.27354v1",
+      "relevance_score": 5.5,
+      "title": "Error-Conditioned Neural Solvers"
+    },
+    "2606.27364v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-26T16:45:31.660912Z",
+      "link": "http://arxiv.org/abs/2606.27364v1",
+      "relevance_score": 5.0,
+      "title": "PhysiFormer: Learning to Simulate Mechanics in World Space"
+    },
+    "2606.27369v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-26T16:45:31.660897Z",
+      "link": "http://arxiv.org/abs/2606.27369v1",
+      "relevance_score": 5.5,
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs"
     }
   }
 }

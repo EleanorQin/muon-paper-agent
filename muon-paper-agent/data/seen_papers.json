@@ -139,6 +139,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-27T16:29:03.536792Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-28T16:31:14.411735Z"
     }
   ],
   "papers": {
@@ -1913,6 +1917,13 @@
       "relevance_score": 5.5,
       "title": "Learning Action Priors for Cross-embodiment Robot Manipulation"
     },
+    "2606.26472v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411711Z",
+      "link": "http://arxiv.org/abs/2606.26472v1",
+      "relevance_score": 4.0,
+      "title": "Epiphany-Aware KV Cache Eviction Without the Attention Matrix"
+    },
     "2606.26488v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-27T16:29:03.536790Z",
@@ -1948,6 +1959,13 @@
       "relevance_score": 4.0,
       "title": "Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction"
     },
+    "2606.26861v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-06-28T16:31:14.411719Z",
+      "link": "http://arxiv.org/abs/2606.26861v1",
+      "relevance_score": 3.5,
+      "title": "Cascaded Multi-Granularity Pruning for On-Device LLM Inference in Industrial IoT"
+    },
     "2606.26918v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-27T16:29:03.536774Z",
@@ -1968,6 +1986,13 @@
       "link": "http://arxiv.org/abs/2606.27096v1",
       "relevance_score": 5.5,
       "title": "Transformer-Based Classification of Bacterial Raman Spectra with LOOCV"
+    },
+    "2606.27140v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411717Z",
+      "link": "http://arxiv.org/abs/2606.27140v1",
+      "relevance_score": 3.5,
+      "title": "fTNN: a tensor neural network for fractional PDEs"
     },
     "2606.27153v1": {
       "category": "Muon Core",
@@ -1990,6 +2015,13 @@
       "relevance_score": 20.5,
       "title": "Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization"
     },
+    "2606.27217v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411734Z",
+      "link": "http://arxiv.org/abs/2606.27217v1",
+      "relevance_score": 2.0,
+      "title": "CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms"
+    },
     "2606.27226v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-27T16:29:03.536761Z",
@@ -2004,12 +2036,40 @@
       "relevance_score": 5.0,
       "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention"
     },
+    "2606.27243v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411732Z",
+      "link": "http://arxiv.org/abs/2606.27243v1",
+      "relevance_score": 2.0,
+      "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems"
+    },
     "2606.27291v1": {
       "category": "Muon-Adjacent Experiments",
       "last_sent_at": "2026-06-26T16:45:31.660904Z",
       "link": "http://arxiv.org/abs/2606.27291v1",
       "relevance_score": 5.5,
       "title": "Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search"
+    },
+    "2606.27292v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411730Z",
+      "link": "http://arxiv.org/abs/2606.27292v1",
+      "relevance_score": 2.0,
+      "title": "BOWConnect: Parallel Bayesian Optimization over Windows with Learned Local Cost Maps for Sample-Efficient Kinodynamic Motion Planning"
+    },
+    "2606.27315v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411726Z",
+      "link": "http://arxiv.org/abs/2606.27315v1",
+      "relevance_score": 2.0,
+      "title": "Blackwell Approachability and Gradient Equilibrium are Equivalent"
+    },
+    "2606.27325v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411724Z",
+      "link": "http://arxiv.org/abs/2606.27325v1",
+      "relevance_score": 2.0,
+      "title": "Not All Actions Are Equal: Rethinking Conditioning for Dexterous World Model"
     },
     "2606.27345v1": {
       "category": "Not Relevant",
@@ -2045,6 +2105,20 @@
       "link": "http://arxiv.org/abs/2606.27369v1",
       "relevance_score": 5.5,
       "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs"
+    },
+    "2606.27372v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411722Z",
+      "link": "http://arxiv.org/abs/2606.27372v1",
+      "relevance_score": 2.0,
+      "title": "DnA: Denoising Attention for Visual Tasks"
+    },
+    "2606.27373v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-28T16:31:14.411721Z",
+      "link": "http://arxiv.org/abs/2606.27373v1",
+      "relevance_score": 2.0,
+      "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models"
     }
   }
 }

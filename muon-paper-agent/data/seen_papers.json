@@ -143,6 +143,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-28T16:31:14.411735Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-29T17:06:10.202900Z"
     }
   ],
   "papers": {
@@ -2119,6 +2123,76 @@
       "link": "http://arxiv.org/abs/2606.27373v1",
       "relevance_score": 2.0,
       "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models"
+    },
+    "2606.27715v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-29T17:06:10.202864Z",
+      "link": "http://arxiv.org/abs/2606.27715v1",
+      "relevance_score": 12.0,
+      "title": "Aurora: A Leverage-Aware Spectral Optimizer"
+    },
+    "2606.27748v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-29T17:06:10.202896Z",
+      "link": "http://arxiv.org/abs/2606.27748v1",
+      "relevance_score": 4.5,
+      "title": "Flexformer: Flexible Linear Transformer with Learnable Attention Kernel"
+    },
+    "2606.28012v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-29T17:06:10.202888Z",
+      "link": "http://arxiv.org/abs/2606.28012v1",
+      "relevance_score": 5.0,
+      "title": "Curriculum-guided Change Detection Training: Toward Accurate Serac Fall Monitoring"
+    },
+    "2606.28046v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-29T17:06:10.202893Z",
+      "link": "http://arxiv.org/abs/2606.28046v1",
+      "relevance_score": 4.5,
+      "title": "Optimized Beamforming and Bandwidth Allocation in Multi-Antenna UAV-Assisted Vehicular Networks"
+    },
+    "2606.28092v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-29T17:06:10.202875Z",
+      "link": "http://arxiv.org/abs/2606.28092v1",
+      "relevance_score": 8.0,
+      "title": "Diffusion Model Attribution via Spectral Coupling of Denoiser Responses"
+    },
+    "2606.28116v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-29T17:06:10.202883Z",
+      "link": "http://arxiv.org/abs/2606.28116v1",
+      "relevance_score": 6.5,
+      "title": "Mechanism-Driven Monitors for Preemptive Detection of LLM Training Instability"
+    },
+    "2606.28134v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-29T17:06:10.202881Z",
+      "link": "http://arxiv.org/abs/2606.28134v1",
+      "relevance_score": 6.5,
+      "title": "Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection"
+    },
+    "2606.28144v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-29T17:06:10.202885Z",
+      "link": "http://arxiv.org/abs/2606.28144v1",
+      "relevance_score": 5.5,
+      "title": "Monocular Avatar Reconstruction via Cascaded Diffusion Priors and UV-Space Differentiable Shading"
+    },
+    "2606.28266v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-29T17:06:10.202898Z",
+      "link": "http://arxiv.org/abs/2606.28266v1",
+      "relevance_score": 4.0,
+      "title": "RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning"
+    },
+    "2606.28307v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-29T17:06:10.202878Z",
+      "link": "http://arxiv.org/abs/2606.28307v1",
+      "relevance_score": 6.5,
+      "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization"
     }
   }
 }

@@ -147,6 +147,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-29T17:06:10.202900Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-06-30T16:51:34.045700Z"
     }
   ],
   "papers": {
@@ -2193,6 +2197,76 @@
       "link": "http://arxiv.org/abs/2606.28307v1",
       "relevance_score": 6.5,
       "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization"
+    },
+    "2606.29176v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-30T16:51:34.045676Z",
+      "link": "http://arxiv.org/abs/2606.29176v1",
+      "relevance_score": 16.5,
+      "title": "Dead-Direction Conditioners: Gauge-Equivariant Preconditioning for Deep Networks"
+    },
+    "2606.30003v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-30T16:51:34.045693Z",
+      "link": "http://arxiv.org/abs/2606.30003v1",
+      "relevance_score": 6.5,
+      "title": "GeoEdit: Geometry-Aware Object Editing via Dual-Branch Denoising"
+    },
+    "2606.30258v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-06-30T16:51:34.045688Z",
+      "link": "http://arxiv.org/abs/2606.30258v1",
+      "relevance_score": 6.5,
+      "title": "KnowsTFM: Knowledge-Informed Fine-Tuning of Small Tabular Foundation Models"
+    },
+    "2606.30314v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-30T16:51:34.045684Z",
+      "link": "http://arxiv.org/abs/2606.30314v1",
+      "relevance_score": 7.5,
+      "title": "Real-Time Underwater Image Enhancement via Frequency-Guided Dual-Path Attention"
+    },
+    "2606.30455v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-30T16:51:34.045686Z",
+      "link": "http://arxiv.org/abs/2606.30455v1",
+      "relevance_score": 6.5,
+      "title": "Curvature-Weighted Gradient Diversity: A Noise Measure for Geometry-Adaptive SGD Schedules"
+    },
+    "2606.30461v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-30T16:51:34.045666Z",
+      "link": "http://arxiv.org/abs/2606.30461v1",
+      "relevance_score": 24.0,
+      "title": "MuonSSM: Orthogonalizing State Space Models for Sequence Modeling"
+    },
+    "2606.30509v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-06-30T16:51:34.045679Z",
+      "link": "http://arxiv.org/abs/2606.30509v1",
+      "relevance_score": 13.0,
+      "title": "Muon learns balanced solutions in matrix factorization without slow saddle-to-saddle dynamics"
+    },
+    "2606.30611v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-30T16:51:34.045699Z",
+      "link": "http://arxiv.org/abs/2606.30611v1",
+      "relevance_score": 5.5,
+      "title": "Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding"
+    },
+    "2606.30634v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-06-30T16:51:34.045681Z",
+      "link": "http://arxiv.org/abs/2606.30634v1",
+      "relevance_score": 11.5,
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining"
+    },
+    "2606.30642v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-06-30T16:51:34.045696Z",
+      "link": "http://arxiv.org/abs/2606.30642v1",
+      "relevance_score": 5.5,
+      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training"
     }
   }
 }

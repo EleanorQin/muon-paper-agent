@@ -151,6 +151,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-06-30T16:51:34.045700Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-01T16:58:07.182421Z"
     }
   ],
   "papers": {
@@ -2267,6 +2271,76 @@
       "link": "http://arxiv.org/abs/2606.30642v1",
       "relevance_score": 5.5,
       "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training"
+    },
+    "2606.31160v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182420Z",
+      "link": "http://arxiv.org/abs/2606.31160v1",
+      "relevance_score": 5.0,
+      "title": "Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving"
+    },
+    "2606.31184v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182418Z",
+      "link": "http://arxiv.org/abs/2606.31184v1",
+      "relevance_score": 5.0,
+      "title": "Transformers as Bayesian In-Context Experimenters: Smoothness-Adaptive Efficient ATE Estimation"
+    },
+    "2606.31270v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182415Z",
+      "link": "http://arxiv.org/abs/2606.31270v1",
+      "relevance_score": 5.0,
+      "title": "Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents"
+    },
+    "2606.31278v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182411Z",
+      "link": "http://arxiv.org/abs/2606.31278v1",
+      "relevance_score": 5.0,
+      "title": "Editing Everything Everywhere All at Once"
+    },
+    "2606.31367v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182409Z",
+      "link": "http://arxiv.org/abs/2606.31367v1",
+      "relevance_score": 5.0,
+      "title": "Evidence Triangulation for Multimodal Fact-Checking in the Wild"
+    },
+    "2606.31378v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182407Z",
+      "link": "http://arxiv.org/abs/2606.31378v1",
+      "relevance_score": 5.0,
+      "title": "MAPE: Defending Against Transferable Adversarial Attacks Using Multi-Source Adversarial Perturbations Elimination"
+    },
+    "2606.31413v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182405Z",
+      "link": "http://arxiv.org/abs/2606.31413v1",
+      "relevance_score": 5.0,
+      "title": "Learning to Select, Not Relearn: Hard-Routed Mixtures of Reasoning LoRAs"
+    },
+    "2606.31585v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182391Z",
+      "link": "http://arxiv.org/abs/2606.31585v1",
+      "relevance_score": 6.5,
+      "title": "DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers"
+    },
+    "2606.31690v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182403Z",
+      "link": "http://arxiv.org/abs/2606.31690v1",
+      "relevance_score": 5.0,
+      "title": "Resource-Efficient WiFi CSI Sensing via Exploiting the Age of Samples"
+    },
+    "2606.31982v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-01T16:58:07.182400Z",
+      "link": "http://arxiv.org/abs/2606.31982v1",
+      "relevance_score": 5.5,
+      "title": "ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs"
     }
   }
 }

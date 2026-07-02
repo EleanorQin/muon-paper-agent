@@ -155,6 +155,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-01T16:58:07.182421Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-02T16:39:08.868588Z"
     }
   ],
   "papers": {
@@ -2272,6 +2276,13 @@
       "relevance_score": 5.5,
       "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training"
     },
+    "2606.30813v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-02T16:39:08.868569Z",
+      "link": "http://arxiv.org/abs/2606.30813v1",
+      "relevance_score": 12.0,
+      "title": "Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization"
+    },
     "2606.31160v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-01T16:58:07.182420Z",
@@ -2328,6 +2339,13 @@
       "relevance_score": 6.5,
       "title": "DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers"
     },
+    "2606.31591v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-02T16:39:08.868566Z",
+      "link": "http://arxiv.org/abs/2606.31591v1",
+      "relevance_score": 12.5,
+      "title": "Evil Spectra: How Optimisers can Amplify or Suppress Emergent Misalignment"
+    },
     "2606.31690v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-01T16:58:07.182403Z",
@@ -2341,6 +2359,62 @@
       "link": "http://arxiv.org/abs/2606.31982v1",
       "relevance_score": 5.5,
       "title": "ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs"
+    },
+    "2607.00494v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-02T16:39:08.868578Z",
+      "link": "http://arxiv.org/abs/2607.00494v1",
+      "relevance_score": 6.5,
+      "title": "HieDG: A Hierarchical Discrete Geometry-Guided Framework for Multi-Animal Tracking"
+    },
+    "2607.01124v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-02T16:39:08.868558Z",
+      "link": "http://arxiv.org/abs/2607.01124v1",
+      "relevance_score": 16.0,
+      "title": "Muon as a Residual Connection"
+    },
+    "2607.01125v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-02T16:39:08.868575Z",
+      "link": "http://arxiv.org/abs/2607.01125v1",
+      "relevance_score": 6.5,
+      "title": "ZO-Act: Efficient Zeroth-Order Fine-Tuning via One-Shot Activation-Informed Low-Rank Subspaces"
+    },
+    "2607.01128v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-02T16:39:08.868573Z",
+      "link": "http://arxiv.org/abs/2607.01128v1",
+      "relevance_score": 6.5,
+      "title": "GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems"
+    },
+    "2607.01185v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-02T16:39:08.868587Z",
+      "link": "http://arxiv.org/abs/2607.01185v1",
+      "relevance_score": 5.5,
+      "title": "Neural Certificate Pricing for Combinatorial Optimization Problems"
+    },
+    "2607.01204v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-02T16:39:08.868585Z",
+      "link": "http://arxiv.org/abs/2607.01204v1",
+      "relevance_score": 5.5,
+      "title": "TiRex-2: Generalizing TiRex to Multivariate Data and Streaming"
+    },
+    "2607.01205v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-02T16:39:08.868571Z",
+      "link": "http://arxiv.org/abs/2607.01205v1",
+      "relevance_score": 7.0,
+      "title": "Linkify: Learning from Interface-Augmented Assembly Graphs"
+    },
+    "2607.01224v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-02T16:39:08.868582Z",
+      "link": "http://arxiv.org/abs/2607.01224v1",
+      "relevance_score": 5.5,
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill"
     }
   }
 }

@@ -159,6 +159,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-02T16:39:08.868588Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-03T16:34:43.958675Z"
     }
   ],
   "papers": {
@@ -2415,6 +2419,76 @@
       "link": "http://arxiv.org/abs/2607.01224v1",
       "relevance_score": 5.5,
       "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill"
+    },
+    "2607.01630v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958658Z",
+      "link": "http://arxiv.org/abs/2607.01630v1",
+      "relevance_score": 8.0,
+      "title": "DRDN: Decoupled Representation Dynamic Network for From-Scratch ViT Class-Incremental Learning"
+    },
+    "2607.01642v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958656Z",
+      "link": "http://arxiv.org/abs/2607.01642v1",
+      "relevance_score": 8.0,
+      "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
+    },
+    "2607.01817v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958654Z",
+      "link": "http://arxiv.org/abs/2607.01817v1",
+      "relevance_score": 8.0,
+      "title": "HCMS: Head-Chunked Multi-Stream Pipeline for Communication-Computation Overlap in Long-Sequence Parallel Attention"
+    },
+    "2607.01978v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-03T16:34:43.958641Z",
+      "link": "http://arxiv.org/abs/2607.01978v1",
+      "relevance_score": 9.5,
+      "title": "Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing"
+    },
+    "2607.02199v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-03T16:34:43.958663Z",
+      "link": "http://arxiv.org/abs/2607.02199v1",
+      "relevance_score": 7.5,
+      "title": "Fourier Preconditioning for Neural Feature Learning"
+    },
+    "2607.02305v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958661Z",
+      "link": "http://arxiv.org/abs/2607.02305v1",
+      "relevance_score": 7.5,
+      "title": "Beyond Beamforming: Phase-and-Gain Channel Shaping via Rotatable Antenna Arrays"
+    },
+    "2607.02360v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958673Z",
+      "link": "http://arxiv.org/abs/2607.02360v1",
+      "relevance_score": 6.5,
+      "title": "GAP-GDRNet: Geometry-Aware Monocular Visual Pose Sensing on a Single-Target Synthetic Spacecraft Dataset"
+    },
+    "2607.02386v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958672Z",
+      "link": "http://arxiv.org/abs/2607.02386v1",
+      "relevance_score": 6.5,
+      "title": "Transformer Geometry Observatory TGO-II: Representational Similarity Observatory"
+    },
+    "2607.02407v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958650Z",
+      "link": "http://arxiv.org/abs/2607.02407v1",
+      "relevance_score": 8.5,
+      "title": "Text-Driven 3D Indoor Scene Synthesis in Non-Manhattan Environments"
+    },
+    "2607.02464v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-03T16:34:43.958668Z",
+      "link": "http://arxiv.org/abs/2607.02464v1",
+      "relevance_score": 6.5,
+      "title": "Will Scaling Improve Social Simulation with LLMs?"
     }
   }
 }

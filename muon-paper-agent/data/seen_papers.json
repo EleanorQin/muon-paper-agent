@@ -163,6 +163,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-03T16:34:43.958675Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-04T16:25:51.960876Z"
     }
   ],
   "papers": {
@@ -2420,6 +2424,13 @@
       "relevance_score": 5.5,
       "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill"
     },
+    "2607.01455v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-04T16:25:51.960733Z",
+      "link": "http://arxiv.org/abs/2607.01455v1",
+      "relevance_score": 5.5,
+      "title": "Token Geometry"
+    },
     "2607.01630v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-03T16:34:43.958658Z",
@@ -2434,6 +2445,13 @@
       "relevance_score": 8.0,
       "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
     },
+    "2607.01768v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960731Z",
+      "link": "http://arxiv.org/abs/2607.01768v1",
+      "relevance_score": 5.5,
+      "title": "JointHOI: Jointly Generating Contact Maps Enhances Hand Object Interaction Generation"
+    },
     "2607.01817v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-03T16:34:43.958654Z",
@@ -2441,12 +2459,33 @@
       "relevance_score": 8.0,
       "title": "HCMS: Head-Chunked Multi-Stream Pipeline for Communication-Computation Overlap in Long-Sequence Parallel Attention"
     },
+    "2607.01885v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960728Z",
+      "link": "http://arxiv.org/abs/2607.01885v1",
+      "relevance_score": 5.5,
+      "title": "Diversity-aware View Partitioning for Scalable VGGT"
+    },
+    "2607.01938v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960726Z",
+      "link": "http://arxiv.org/abs/2607.01938v1",
+      "relevance_score": 5.5,
+      "title": "PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation"
+    },
     "2607.01978v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-07-03T16:34:43.958641Z",
       "link": "http://arxiv.org/abs/2607.01978v1",
       "relevance_score": 9.5,
       "title": "Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing"
+    },
+    "2607.02010v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960717Z",
+      "link": "http://arxiv.org/abs/2607.02010v1",
+      "relevance_score": 5.5,
+      "title": "InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories"
     },
     "2607.02199v1": {
       "category": "Muon-Adjacent Experiments",
@@ -2489,6 +2528,41 @@
       "link": "http://arxiv.org/abs/2607.02464v1",
       "relevance_score": 6.5,
       "title": "Will Scaling Improve Social Simulation with LLMs?"
+    },
+    "2607.02479v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960747Z",
+      "link": "http://arxiv.org/abs/2607.02479v1",
+      "relevance_score": 5.0,
+      "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$"
+    },
+    "2607.02494v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960745Z",
+      "link": "http://arxiv.org/abs/2607.02494v1",
+      "relevance_score": 5.0,
+      "title": "Towards Robustness against Typographic Attack with Training-free Concept Localization"
+    },
+    "2607.02497v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960742Z",
+      "link": "http://arxiv.org/abs/2607.02497v1",
+      "relevance_score": 5.0,
+      "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation"
+    },
+    "2607.02508v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960738Z",
+      "link": "http://arxiv.org/abs/2607.02508v1",
+      "relevance_score": 5.0,
+      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?"
+    },
+    "2607.02509v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-04T16:25:51.960735Z",
+      "link": "http://arxiv.org/abs/2607.02509v1",
+      "relevance_score": 5.0,
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning"
     }
   }
 }

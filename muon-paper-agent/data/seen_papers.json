@@ -167,6 +167,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-04T16:25:51.960876Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-05T16:26:18.515796Z"
     }
   ],
   "papers": {
@@ -2459,12 +2463,26 @@
       "relevance_score": 8.0,
       "title": "HCMS: Head-Chunked Multi-Stream Pipeline for Communication-Computation Overlap in Long-Sequence Parallel Attention"
     },
+    "2607.01869v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515794Z",
+      "link": "http://arxiv.org/abs/2607.01869v1",
+      "relevance_score": 4.0,
+      "title": "QWERTY: Training-Free Motion Control via Query-Warped Video Diffusion Transformers"
+    },
     "2607.01885v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-04T16:25:51.960728Z",
       "link": "http://arxiv.org/abs/2607.01885v1",
       "relevance_score": 5.5,
       "title": "Diversity-aware View Partitioning for Scalable VGGT"
+    },
+    "2607.01901v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515792Z",
+      "link": "http://arxiv.org/abs/2607.01901v1",
+      "relevance_score": 4.0,
+      "title": "SABER: A Semantic-Aligned Brain Network Analysis Framework via Multi-scale Hypergraphs"
     },
     "2607.01938v1": {
       "category": "Not Relevant",
@@ -2487,12 +2505,47 @@
       "relevance_score": 5.5,
       "title": "InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories"
     },
+    "2607.02062v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515789Z",
+      "link": "http://arxiv.org/abs/2607.02062v1",
+      "relevance_score": 4.0,
+      "title": "LMPAN: A Lightweight Multi-Path Alignment Network for Joint Full-Duplex Acoustic Echo Cancellation and Noise Suppression"
+    },
+    "2607.02139v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515784Z",
+      "link": "http://arxiv.org/abs/2607.02139v1",
+      "relevance_score": 4.0,
+      "title": "AdaCount: Training-Free Similarity-Guided Spatial and Feature Adaptation for Zero-Shot Object Counting"
+    },
     "2607.02199v1": {
       "category": "Muon-Adjacent Experiments",
       "last_sent_at": "2026-07-03T16:34:43.958663Z",
       "link": "http://arxiv.org/abs/2607.02199v1",
       "relevance_score": 7.5,
       "title": "Fourier Preconditioning for Neural Feature Learning"
+    },
+    "2607.02283v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515759Z",
+      "link": "http://arxiv.org/abs/2607.02283v1",
+      "relevance_score": 4.0,
+      "title": "Dendritic In-Context Learning in a Single-Layer Spiking Neural Network"
+    },
+    "2607.02300v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515758Z",
+      "link": "http://arxiv.org/abs/2607.02300v1",
+      "relevance_score": 4.0,
+      "title": "Search-based Testing of Vision Language Models for In-Car Scene Understanding"
+    },
+    "2607.02303v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515756Z",
+      "link": "http://arxiv.org/abs/2607.02303v1",
+      "relevance_score": 4.0,
+      "title": "A Hippocampus for Linear Attention: An Exact Memory for What the Recurrent State Forgets"
     },
     "2607.02305v1": {
       "category": "Not Relevant",
@@ -2501,6 +2554,13 @@
       "relevance_score": 7.5,
       "title": "Beyond Beamforming: Phase-and-Gain Channel Shaping via Rotatable Antenna Arrays"
     },
+    "2607.02328v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-05T16:26:18.515753Z",
+      "link": "http://arxiv.org/abs/2607.02328v1",
+      "relevance_score": 4.0,
+      "title": "Cross-Audit Projection for Model Risk Prediction"
+    },
     "2607.02360v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-03T16:34:43.958673Z",
@@ -2508,12 +2568,26 @@
       "relevance_score": 6.5,
       "title": "GAP-GDRNet: Geometry-Aware Monocular Visual Pose Sensing on a Single-Target Synthetic Spacecraft Dataset"
     },
+    "2607.02376v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515750Z",
+      "link": "http://arxiv.org/abs/2607.02376v1",
+      "relevance_score": 4.0,
+      "title": "Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems"
+    },
     "2607.02386v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-03T16:34:43.958672Z",
       "link": "http://arxiv.org/abs/2607.02386v1",
       "relevance_score": 6.5,
       "title": "Transformer Geometry Observatory TGO-II: Representational Similarity Observatory"
+    },
+    "2607.02391v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-05T16:26:18.515741Z",
+      "link": "http://arxiv.org/abs/2607.02391v1",
+      "relevance_score": 4.0,
+      "title": "WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs"
     },
     "2607.02407v1": {
       "category": "Not Relevant",

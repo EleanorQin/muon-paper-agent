@@ -171,6 +171,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-05T16:26:18.515796Z"
+    },
+    {
+      "paper_count": 5,
+      "sent_at": "2026-07-06T17:07:22.480704Z"
     }
   ],
   "papers": {
@@ -2596,6 +2600,20 @@
       "relevance_score": 8.5,
       "title": "Text-Driven 3D Indoor Scene Synthesis in Non-Manhattan Environments"
     },
+    "2607.02437v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-06T17:07:22.480702Z",
+      "link": "http://arxiv.org/abs/2607.02437v1",
+      "relevance_score": 2.0,
+      "title": "Extreme Adaptive Transformer for Time Series Forecasting"
+    },
+    "2607.02443v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-06T17:07:22.480700Z",
+      "link": "http://arxiv.org/abs/2607.02443v1",
+      "relevance_score": 2.0,
+      "title": "Improved Approximation Algorithms for n-Pairs Shortest Paths"
+    },
     "2607.02464v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-03T16:34:43.958668Z",
@@ -2609,6 +2627,13 @@
       "link": "http://arxiv.org/abs/2607.02479v1",
       "relevance_score": 5.0,
       "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$"
+    },
+    "2607.02486v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-06T17:07:22.480703Z",
+      "link": "http://arxiv.org/abs/2607.02486v1",
+      "relevance_score": 0.0,
+      "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training"
     },
     "2607.02494v1": {
       "category": "Not Relevant",
@@ -2624,6 +2649,13 @@
       "relevance_score": 5.0,
       "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation"
     },
+    "2607.02503v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-06T17:07:22.480698Z",
+      "link": "http://arxiv.org/abs/2607.02503v1",
+      "relevance_score": 2.0,
+      "title": "VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation"
+    },
     "2607.02508v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-04T16:25:51.960738Z",
@@ -2637,6 +2669,13 @@
       "link": "http://arxiv.org/abs/2607.02509v1",
       "relevance_score": 5.0,
       "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning"
+    },
+    "2607.02516v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-06T17:07:22.480691Z",
+      "link": "http://arxiv.org/abs/2607.02516v1",
+      "relevance_score": 3.5,
+      "title": "Alignment Is All You Need For X-to-4D Generation"
     }
   }
 }

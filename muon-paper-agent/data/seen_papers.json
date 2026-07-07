@@ -175,6 +175,10 @@
     {
       "paper_count": 5,
       "sent_at": "2026-07-06T17:07:22.480704Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-07T16:50:53.835411Z"
     }
   ],
   "papers": {
@@ -198,6 +202,13 @@
       "link": "http://arxiv.org/abs/2510.01377v2",
       "relevance_score": 17.0,
       "title": "DeMuon: A Decentralized Muon for Matrix Optimization over Graphs"
+    },
+    "2512.04632v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-07T16:50:53.835382Z",
+      "link": "http://arxiv.org/abs/2512.04632v2",
+      "relevance_score": 19.5,
+      "title": "Turbo-Muon: Almost-Orthogonal Pre-Conditioning for Fast Muon Updates"
     },
     "2601.10222v2": {
       "category": "Matrix Preconditioning / Shampoo / Second-order",
@@ -2676,6 +2687,69 @@
       "link": "http://arxiv.org/abs/2607.02516v1",
       "relevance_score": 3.5,
       "title": "Alignment Is All You Need For X-to-4D Generation"
+    },
+    "2607.03519v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-07T16:50:53.835394Z",
+      "link": "http://arxiv.org/abs/2607.03519v1",
+      "relevance_score": 8.0,
+      "title": "On the Convergence of Adam, Revisited"
+    },
+    "2607.04422v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-07T16:50:53.835391Z",
+      "link": "http://arxiv.org/abs/2607.04422v1",
+      "relevance_score": 16.0,
+      "title": "Full-Stack FP4: Stable LLM Pretraining with Quantized Projections, Optimizers, and Attention"
+    },
+    "2607.04478v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-07T16:50:53.835406Z",
+      "link": "http://arxiv.org/abs/2607.04478v1",
+      "relevance_score": 6.5,
+      "title": "PulmoSight-XAI: An Explainable Multi-View Attention Ensemble with Gradient Boosting Meta-Learning for Multi-Label Chest X-Ray Classification"
+    },
+    "2607.05114v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-07T16:50:53.835401Z",
+      "link": "http://arxiv.org/abs/2607.05114v1",
+      "relevance_score": 6.5,
+      "title": "Localized LoRA-MoE: Block-wise Low-Rank Experts With Adaptive Routing"
+    },
+    "2607.05201v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-07T16:50:53.835396Z",
+      "link": "http://arxiv.org/abs/2607.05201v1",
+      "relevance_score": 7.5,
+      "title": "FlatManifold: Robust Continual Learning under Severe Label Noise and Domain Shifts via Intrinsic Manifold Flattening"
+    },
+    "2607.05207v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-07T16:50:53.835399Z",
+      "link": "http://arxiv.org/abs/2607.05207v1",
+      "relevance_score": 7.0,
+      "title": "Probing Geospatial SSL Representations with Environmental Signals"
+    },
+    "2607.05347v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-07T16:50:53.835398Z",
+      "link": "http://arxiv.org/abs/2607.05347v1",
+      "relevance_score": 7.0,
+      "title": "WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images"
+    },
+    "2607.05376v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-07T16:50:53.835409Z",
+      "link": "http://arxiv.org/abs/2607.05376v1",
+      "relevance_score": 5.5,
+      "title": "MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing"
+    },
+    "2607.05378v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-07T16:50:53.835408Z",
+      "link": "http://arxiv.org/abs/2607.05378v1",
+      "relevance_score": 5.5,
+      "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents"
     }
   }
 }

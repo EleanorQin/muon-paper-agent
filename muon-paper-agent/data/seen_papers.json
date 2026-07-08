@@ -179,6 +179,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-07T16:50:53.835411Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-08T16:35:17.886379Z"
     }
   ],
   "papers": {
@@ -2450,6 +2454,13 @@
       "relevance_score": 5.5,
       "title": "Token Geometry"
     },
+    "2607.01455v2": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-08T16:35:17.886346Z",
+      "link": "http://arxiv.org/abs/2607.01455v2",
+      "relevance_score": 6.5,
+      "title": "Token Geometry"
+    },
     "2607.01630v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-03T16:34:43.958658Z",
@@ -2750,6 +2761,69 @@
       "link": "http://arxiv.org/abs/2607.05378v1",
       "relevance_score": 5.5,
       "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents"
+    },
+    "2607.05866v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-08T16:35:17.886351Z",
+      "link": "http://arxiv.org/abs/2607.05866v1",
+      "relevance_score": 6.5,
+      "title": "Differentially Private Natural Gradient Descent"
+    },
+    "2607.05895v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-08T16:35:17.886325Z",
+      "link": "http://arxiv.org/abs/2607.05895v1",
+      "relevance_score": 14.0,
+      "title": "MatrixFSDP: communication-free matrix optimizers under ZeRO-3 parameter sharding"
+    },
+    "2607.06269v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-08T16:35:17.886344Z",
+      "link": "http://arxiv.org/abs/2607.06269v1",
+      "relevance_score": 6.5,
+      "title": "From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution"
+    },
+    "2607.06424v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-08T16:35:17.886338Z",
+      "link": "http://arxiv.org/abs/2607.06424v1",
+      "relevance_score": 7.5,
+      "title": "XRFormer: Multiscale Tokenization for XRF Representation Learning"
+    },
+    "2607.06519v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-08T16:35:17.886378Z",
+      "link": "http://arxiv.org/abs/2607.06519v1",
+      "relevance_score": 5.5,
+      "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference"
+    },
+    "2607.06523v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-08T16:35:17.886342Z",
+      "link": "http://arxiv.org/abs/2607.06523v1",
+      "relevance_score": 7.0,
+      "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression"
+    },
+    "2607.06540v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-08T16:35:17.886354Z",
+      "link": "http://arxiv.org/abs/2607.06540v1",
+      "relevance_score": 5.5,
+      "title": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs"
+    },
+    "2607.06546v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-08T16:35:17.886335Z",
+      "link": "http://arxiv.org/abs/2607.06546v1",
+      "relevance_score": 8.0,
+      "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion"
+    },
+    "2607.06559v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-08T16:35:17.886340Z",
+      "link": "http://arxiv.org/abs/2607.06559v1",
+      "relevance_score": 7.0,
+      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation"
     }
   }
 }

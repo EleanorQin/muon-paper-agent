@@ -187,6 +187,10 @@
     {
       "paper_count": 0,
       "sent_at": "2026-07-09T16:59:07.272323Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-10T16:44:34.944219Z"
     }
   ],
   "papers": {
@@ -238,6 +242,13 @@
       "link": "http://arxiv.org/abs/2602.04396v2",
       "relevance_score": 6.5,
       "title": "LoRDO: Distributed Low-Rank Optimization with Infrequent Communication"
+    },
+    "2603.00910v2": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-10T16:44:34.944214Z",
+      "link": "http://arxiv.org/abs/2603.00910v2",
+      "relevance_score": 7.0,
+      "title": "Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization"
     },
     "2604.09967v2": {
       "category": "Muon Core",
@@ -1793,6 +1804,13 @@
       "relevance_score": 7.0,
       "title": "SOAP-Bubbles: Structured Weight Uncertainty for Neural Networks"
     },
+    "2606.23357v2": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-10T16:44:34.944211Z",
+      "link": "http://arxiv.org/abs/2606.23357v2",
+      "relevance_score": 7.0,
+      "title": "SOAP-Bubbles: Structured Weight Uncertainty for Neural Networks"
+    },
     "2606.23557v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-06-23T16:54:24.161881Z",
@@ -2828,6 +2846,62 @@
       "link": "http://arxiv.org/abs/2607.06559v1",
       "relevance_score": 7.0,
       "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation"
+    },
+    "2607.06772v2": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-10T16:44:34.944196Z",
+      "link": "http://arxiv.org/abs/2607.06772v2",
+      "relevance_score": 9.5,
+      "title": "Efficient Long-Horizon Learning for Learned Optimization"
+    },
+    "2607.07204v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-10T16:44:34.944202Z",
+      "link": "http://arxiv.org/abs/2607.07204v1",
+      "relevance_score": 8.0,
+      "title": "Restricted Dynamic Geometric Complexity: Certificates for Structured Preconditioning"
+    },
+    "2607.07206v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-10T16:44:34.944183Z",
+      "link": "http://arxiv.org/abs/2607.07206v1",
+      "relevance_score": 11.5,
+      "title": "Geometric--Nongeometric Optimizer Calculus: A Modular Language for Reachable Gradient Methods"
+    },
+    "2607.07478v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-10T16:44:34.944204Z",
+      "link": "http://arxiv.org/abs/2607.07478v1",
+      "relevance_score": 7.5,
+      "title": "FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention"
+    },
+    "2607.07953v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-10T16:44:34.944193Z",
+      "link": "http://arxiv.org/abs/2607.07953v1",
+      "relevance_score": 11.0,
+      "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
+    },
+    "2607.08337v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-10T16:44:34.944216Z",
+      "link": "http://arxiv.org/abs/2607.08337v1",
+      "relevance_score": 6.5,
+      "title": "AutoAnchor: Stable Diffusion Unlearning Using Cross-Attention as a Manifold Surrogate"
+    },
+    "2607.08717v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-10T16:44:34.944199Z",
+      "link": "http://arxiv.org/abs/2607.08717v1",
+      "relevance_score": 9.0,
+      "title": "Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems"
+    },
+    "2607.08733v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-10T16:44:34.944206Z",
+      "link": "http://arxiv.org/abs/2607.08733v1",
+      "relevance_score": 7.0,
+      "title": "Super Weights in LLMs and the Failure of Selective Training"
     }
   }
 }

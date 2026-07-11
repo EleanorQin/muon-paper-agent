@@ -191,6 +191,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-10T16:44:34.944219Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-11T16:20:46.909282Z"
     }
   ],
   "papers": {
@@ -2875,6 +2879,13 @@
       "relevance_score": 7.5,
       "title": "FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention"
     },
+    "2607.07706v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909263Z",
+      "link": "http://arxiv.org/abs/2607.07706v1",
+      "relevance_score": 5.0,
+      "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization"
+    },
     "2607.07953v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-07-10T16:44:34.944193Z",
@@ -2882,12 +2893,61 @@
       "relevance_score": 11.0,
       "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
     },
+    "2607.08073v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909267Z",
+      "link": "http://arxiv.org/abs/2607.08073v1",
+      "relevance_score": 4.5,
+      "title": "Cross-Modal Generative Framework for Signal Translation from Fetal-Maternal Electrocardiograms to Fetal Doppler Waveforms"
+    },
     "2607.08337v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-10T16:44:34.944216Z",
       "link": "http://arxiv.org/abs/2607.08337v1",
       "relevance_score": 6.5,
       "title": "AutoAnchor: Stable Diffusion Unlearning Using Cross-Attention as a Manifold Surrogate"
+    },
+    "2607.08489v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909280Z",
+      "link": "http://arxiv.org/abs/2607.08489v1",
+      "relevance_score": 4.0,
+      "title": "VEGAS: Human-Aligned Video Caption Evaluation via Gaze"
+    },
+    "2607.08499v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909260Z",
+      "link": "http://arxiv.org/abs/2607.08499v1",
+      "relevance_score": 5.0,
+      "title": "Cross-seed explainability using Procrustes-conditioned Joint End-to-end Top-K Sparse Autoencoders"
+    },
+    "2607.08575v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909278Z",
+      "link": "http://arxiv.org/abs/2607.08575v1",
+      "relevance_score": 4.0,
+      "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation"
+    },
+    "2607.08602v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909275Z",
+      "link": "http://arxiv.org/abs/2607.08602v1",
+      "relevance_score": 4.0,
+      "title": "Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance"
+    },
+    "2607.08605v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909271Z",
+      "link": "http://arxiv.org/abs/2607.08605v1",
+      "relevance_score": 4.0,
+      "title": "When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities"
+    },
+    "2607.08646v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909269Z",
+      "link": "http://arxiv.org/abs/2607.08646v1",
+      "relevance_score": 4.0,
+      "title": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing"
     },
     "2607.08717v1": {
       "category": "Not Relevant",
@@ -2902,6 +2962,20 @@
       "link": "http://arxiv.org/abs/2607.08733v1",
       "relevance_score": 7.0,
       "title": "Super Weights in LLMs and the Failure of Selective Training"
+    },
+    "2607.08734v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909251Z",
+      "link": "http://arxiv.org/abs/2607.08734v1",
+      "relevance_score": 5.0,
+      "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs"
+    },
+    "2607.08769v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-11T16:20:46.909265Z",
+      "link": "http://arxiv.org/abs/2607.08769v1",
+      "relevance_score": 4.5,
+      "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction"
     }
   }
 }

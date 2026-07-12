@@ -195,6 +195,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-11T16:20:46.909282Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-12T16:22:48.168693Z"
     }
   ],
   "papers": {
@@ -260,6 +264,13 @@
       "link": "http://arxiv.org/abs/2604.09967v2",
       "relevance_score": 17.0,
       "title": "Muon$^2$: Boosting Muon via Adaptive Second-Moment Preconditioning"
+    },
+    "2605.14982v2": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-07-12T16:22:48.168678Z",
+      "link": "http://arxiv.org/abs/2605.14982v2",
+      "relevance_score": 4.0,
+      "title": "Second-Order Actor-Critic Methods for Discounted MDPs via Policy Hessian Decomposition"
     },
     "2606.00542v2": {
       "category": "Matrix Preconditioning / Shampoo / Second-order",
@@ -2886,12 +2897,33 @@
       "relevance_score": 5.0,
       "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization"
     },
+    "2607.07880v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168682Z",
+      "link": "http://arxiv.org/abs/2607.07880v1",
+      "relevance_score": 4.0,
+      "title": "GIRAF: Towards Generalizable Human Interactions with Articulated Objects"
+    },
+    "2607.07937v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168680Z",
+      "link": "http://arxiv.org/abs/2607.07937v1",
+      "relevance_score": 4.0,
+      "title": "When Debiasing Backfires: Counterintuitive Side Effects of Preprocessing-Based Stereotype Mitigation"
+    },
     "2607.07953v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-07-10T16:44:34.944193Z",
       "link": "http://arxiv.org/abs/2607.07953v1",
       "relevance_score": 11.0,
       "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing"
+    },
+    "2607.08025v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168687Z",
+      "link": "http://arxiv.org/abs/2607.08025v1",
+      "relevance_score": 3.5,
+      "title": "PGD-NO: A Neural Operator with Precomputed Geometry Decomposition for 3D Million-scale Physics Simulations"
     },
     "2607.08073v1": {
       "category": "Not Relevant",
@@ -2900,12 +2932,40 @@
       "relevance_score": 4.5,
       "title": "Cross-Modal Generative Framework for Signal Translation from Fetal-Maternal Electrocardiograms to Fetal Doppler Waveforms"
     },
+    "2607.08186v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168676Z",
+      "link": "http://arxiv.org/abs/2607.08186v1",
+      "relevance_score": 4.0,
+      "title": "Hidden Decoding at Scale: Latent Computation Scaling for Large Language Models"
+    },
     "2607.08337v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-10T16:44:34.944216Z",
       "link": "http://arxiv.org/abs/2607.08337v1",
       "relevance_score": 6.5,
       "title": "AutoAnchor: Stable Diffusion Unlearning Using Cross-Attention as a Manifold Surrogate"
+    },
+    "2607.08374v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168674Z",
+      "link": "http://arxiv.org/abs/2607.08374v1",
+      "relevance_score": 4.0,
+      "title": "Large-Language-Models-as-a-Judge in Theory-Agnostic Adaptive Metric-Alignment for Prototypical Networks in Personality Recognition"
+    },
+    "2607.08404v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168671Z",
+      "link": "http://arxiv.org/abs/2607.08404v1",
+      "relevance_score": 4.0,
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery"
+    },
+    "2607.08409v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168662Z",
+      "link": "http://arxiv.org/abs/2607.08409v1",
+      "relevance_score": 4.0,
+      "title": "When Synthetic Speech Is All You Have: Better Call GRPO"
     },
     "2607.08489v1": {
       "category": "Not Relevant",
@@ -2969,6 +3029,20 @@
       "link": "http://arxiv.org/abs/2607.08734v1",
       "relevance_score": 5.0,
       "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs"
+    },
+    "2607.08744v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168692Z",
+      "link": "http://arxiv.org/abs/2607.08744v1",
+      "relevance_score": 2.0,
+      "title": "Algorithmic Expert Aggregation"
+    },
+    "2607.08763v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-12T16:22:48.168690Z",
+      "link": "http://arxiv.org/abs/2607.08763v1",
+      "relevance_score": 2.0,
+      "title": "OpenCoF: Learning to Reason Through Video Generation"
     },
     "2607.08769v1": {
       "category": "Not Relevant",

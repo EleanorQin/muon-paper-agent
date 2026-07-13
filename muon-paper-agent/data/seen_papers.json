@@ -199,6 +199,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-12T16:22:48.168693Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-13T16:50:26.711830Z"
     }
   ],
   "papers": {
@@ -3050,6 +3054,76 @@
       "link": "http://arxiv.org/abs/2607.08769v1",
       "relevance_score": 4.5,
       "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction"
+    },
+    "2607.09029v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-13T16:50:26.711810Z",
+      "link": "http://arxiv.org/abs/2607.09029v1",
+      "relevance_score": 5.5,
+      "title": "MOSAIC: Adaptive Inter-layer Composition for Efficient Heterogeneous Vision-Language Models"
+    },
+    "2607.09060v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711808Z",
+      "link": "http://arxiv.org/abs/2607.09060v1",
+      "relevance_score": 5.5,
+      "title": "Dec-MARVEL: Decentralized Multi-Agent Exploration without Communication under Budget Constraints"
+    },
+    "2607.09084v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711828Z",
+      "link": "http://arxiv.org/abs/2607.09084v1",
+      "relevance_score": 4.0,
+      "title": "A Survey on the Green Development of Large Models: From Resource-Efficient Architectures to Hardware-Software Co-Design"
+    },
+    "2607.09086v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711826Z",
+      "link": "http://arxiv.org/abs/2607.09086v1",
+      "relevance_score": 4.0,
+      "title": "Subtoken Vision Transformer for Fine-grained Recognition"
+    },
+    "2607.09135v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711823Z",
+      "link": "http://arxiv.org/abs/2607.09135v1",
+      "relevance_score": 4.0,
+      "title": "Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy"
+    },
+    "2607.09143v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711794Z",
+      "link": "http://arxiv.org/abs/2607.09143v1",
+      "relevance_score": 6.5,
+      "title": "Weaving Light and Time: Unified Harmonic-Geometric Representation Learning for Dense RGB-Event Parsing"
+    },
+    "2607.09399v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711818Z",
+      "link": "http://arxiv.org/abs/2607.09399v1",
+      "relevance_score": 4.0,
+      "title": "Fully Trainable Deep Differentiable Logic Gate Networks and Lookup Table Networks"
+    },
+    "2607.09492v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711816Z",
+      "link": "http://arxiv.org/abs/2607.09492v1",
+      "relevance_score": 4.0,
+      "title": "Multimodal Reward Hacking in Reinforcement Learning"
+    },
+    "2607.09537v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711813Z",
+      "link": "http://arxiv.org/abs/2607.09537v1",
+      "relevance_score": 4.5,
+      "title": "GatedLinear: Adaptive Routing of Complementary Linear Bases for Time Series Forecasting"
+    },
+    "2607.09593v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-13T16:50:26.711804Z",
+      "link": "http://arxiv.org/abs/2607.09593v1",
+      "relevance_score": 6.0,
+      "title": "Characterization of the basin of convexity for multi-snapshot spike deconvolution via variable projection"
     }
   }
 }

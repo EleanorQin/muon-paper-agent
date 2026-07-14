@@ -203,6 +203,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-13T16:50:26.711830Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-14T16:31:48.872766Z"
     }
   ],
   "papers": {
@@ -2873,12 +2877,26 @@
       "relevance_score": 9.5,
       "title": "Efficient Long-Horizon Learning for Learned Optimization"
     },
+    "2607.06772v3": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-14T16:31:48.872746Z",
+      "link": "http://arxiv.org/abs/2607.06772v3",
+      "relevance_score": 9.5,
+      "title": "Efficient Long-Horizon Learning for Learned Optimization"
+    },
     "2607.07204v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-07-10T16:44:34.944202Z",
       "link": "http://arxiv.org/abs/2607.07204v1",
       "relevance_score": 8.0,
       "title": "Restricted Dynamic Geometric Complexity: Certificates for Structured Preconditioning"
+    },
+    "2607.07204v2": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-07-14T16:31:48.872733Z",
+      "link": "http://arxiv.org/abs/2607.07204v2",
+      "relevance_score": 11.0,
+      "title": "Restricted Dynamic Geometric Complexity: Path-Space Reduction and M\u00f6bius--Jacobi Response"
     },
     "2607.07206v1": {
       "category": "Muon-Adjacent Theory+Experiments",
@@ -3124,6 +3142,62 @@
       "link": "http://arxiv.org/abs/2607.09593v1",
       "relevance_score": 6.0,
       "title": "Characterization of the basin of convexity for multi-snapshot spike deconvolution via variable projection"
+    },
+    "2607.10648v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-14T16:31:48.872762Z",
+      "link": "http://arxiv.org/abs/2607.10648v1",
+      "relevance_score": 5.5,
+      "title": "MUX-USCT: A Noise-Robust Neural Network for Ultrasound Computed Tomography"
+    },
+    "2607.11183v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-14T16:31:48.872744Z",
+      "link": "http://arxiv.org/abs/2607.11183v1",
+      "relevance_score": 10.0,
+      "title": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results"
+    },
+    "2607.11577v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-14T16:31:48.872759Z",
+      "link": "http://arxiv.org/abs/2607.11577v1",
+      "relevance_score": 5.5,
+      "title": "Structure-Feature Aligned Graph Learning via Alternating Constrained Optimization"
+    },
+    "2607.11666v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-14T16:31:48.872750Z",
+      "link": "http://arxiv.org/abs/2607.11666v1",
+      "relevance_score": 7.0,
+      "title": "How to Tame Grokking: Representation Geometry as a Control Signal"
+    },
+    "2607.11746v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-14T16:31:48.872764Z",
+      "link": "http://arxiv.org/abs/2607.11746v1",
+      "relevance_score": 5.0,
+      "title": "HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS"
+    },
+    "2607.11827v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-14T16:31:48.872754Z",
+      "link": "http://arxiv.org/abs/2607.11827v1",
+      "relevance_score": 5.5,
+      "title": "Sparse Robust Optimal Control in Continuous-Time: A Computationally Viable Approach"
+    },
+    "2607.11875v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-14T16:31:48.872748Z",
+      "link": "http://arxiv.org/abs/2607.11875v1",
+      "relevance_score": 7.0,
+      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks"
+    },
+    "2607.11883v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-14T16:31:48.872753Z",
+      "link": "http://arxiv.org/abs/2607.11883v1",
+      "relevance_score": 5.5,
+      "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data"
     }
   }
 }

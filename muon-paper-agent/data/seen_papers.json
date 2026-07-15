@@ -207,6 +207,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-14T16:31:48.872766Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-15T16:34:26.591393Z"
     }
   ],
   "papers": {
@@ -3157,6 +3161,13 @@
       "relevance_score": 10.0,
       "title": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results"
     },
+    "2607.11183v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-15T16:34:26.591356Z",
+      "link": "http://arxiv.org/abs/2607.11183v2",
+      "relevance_score": 10.0,
+      "title": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results"
+    },
     "2607.11577v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-14T16:31:48.872759Z",
@@ -3192,12 +3203,75 @@
       "relevance_score": 7.0,
       "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks"
     },
+    "2607.11875v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-15T16:34:26.591371Z",
+      "link": "http://arxiv.org/abs/2607.11875v2",
+      "relevance_score": 7.0,
+      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks"
+    },
     "2607.11883v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-14T16:31:48.872753Z",
       "link": "http://arxiv.org/abs/2607.11883v1",
       "relevance_score": 5.5,
       "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data"
+    },
+    "2607.12752v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-15T16:34:26.591376Z",
+      "link": "http://arxiv.org/abs/2607.12752v1",
+      "relevance_score": 6.5,
+      "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation"
+    },
+    "2607.12782v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-15T16:34:26.591374Z",
+      "link": "http://arxiv.org/abs/2607.12782v1",
+      "relevance_score": 7.0,
+      "title": "MBTI: A Multi-Branch Efficient Fine-Tuning Framework for Hyperspectral Image Classification with Foundation Models"
+    },
+    "2607.12832v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-15T16:34:26.591379Z",
+      "link": "http://arxiv.org/abs/2607.12832v1",
+      "relevance_score": 6.0,
+      "title": "Contrast-Free ICA and Causal Inference via Wasserstein Distances to the Gaussian"
+    },
+    "2607.12863v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-15T16:34:26.591391Z",
+      "link": "http://arxiv.org/abs/2607.12863v1",
+      "relevance_score": 5.0,
+      "title": "Toward Localizing and Repairing Bias in Transformer Attention Heads"
+    },
+    "2607.12875v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-15T16:34:26.591389Z",
+      "link": "http://arxiv.org/abs/2607.12875v1",
+      "relevance_score": 5.0,
+      "title": "MetaInfer: A Knowledge Only LLM Inference Engine Generator SKILL Toolbox"
+    },
+    "2607.12986v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-15T16:34:26.591386Z",
+      "link": "http://arxiv.org/abs/2607.12986v1",
+      "relevance_score": 5.5,
+      "title": "Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation"
+    },
+    "2607.12993v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-15T16:34:26.591368Z",
+      "link": "http://arxiv.org/abs/2607.12993v1",
+      "relevance_score": 7.0,
+      "title": "X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras"
+    },
+    "2607.13013v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-15T16:34:26.591365Z",
+      "link": "http://arxiv.org/abs/2607.13013v1",
+      "relevance_score": 7.0,
+      "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model"
     }
   }
 }

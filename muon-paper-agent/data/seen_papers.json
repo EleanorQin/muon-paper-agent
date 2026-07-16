@@ -211,6 +211,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-15T16:34:26.591393Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-16T16:32:52.302445Z"
     }
   ],
   "papers": {
@@ -276,6 +280,13 @@
       "link": "http://arxiv.org/abs/2604.09967v2",
       "relevance_score": 17.0,
       "title": "Muon$^2$: Boosting Muon via Adaptive Second-Moment Preconditioning"
+    },
+    "2605.07914v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-16T16:32:52.302425Z",
+      "link": "http://arxiv.org/abs/2605.07914v2",
+      "relevance_score": 8.5,
+      "title": "Flatness and Gradient Alignment Are Both Necessary: Spectral-Aware Gradient-Aligned Exploration for Multi-Distribution Learning"
     },
     "2605.14982v2": {
       "category": "Muon-Adjacent Theory",
@@ -2510,6 +2521,13 @@
       "relevance_score": 6.5,
       "title": "Token Geometry"
     },
+    "2607.01455v3": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-16T16:32:52.302434Z",
+      "link": "http://arxiv.org/abs/2607.01455v3",
+      "relevance_score": 6.5,
+      "title": "Token Geometry"
+    },
     "2607.01630v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-03T16:34:43.958658Z",
@@ -2888,6 +2906,13 @@
       "relevance_score": 9.5,
       "title": "Efficient Long-Horizon Learning for Learned Optimization"
     },
+    "2607.06772v4": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-16T16:32:52.302422Z",
+      "link": "http://arxiv.org/abs/2607.06772v4",
+      "relevance_score": 9.5,
+      "title": "Efficient Long-Horizon Learning for Learned Optimization"
+    },
     "2607.07204v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-07-10T16:44:34.944202Z",
@@ -3217,6 +3242,13 @@
       "relevance_score": 5.5,
       "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data"
     },
+    "2607.12704v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-16T16:32:52.302443Z",
+      "link": "http://arxiv.org/abs/2607.12704v2",
+      "relevance_score": 5.0,
+      "title": "Label-Decoupled Style Augmentation for Domain Generalization in Multi-Label Remote Sensing Scene Classification"
+    },
     "2607.12752v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-15T16:34:26.591376Z",
@@ -3266,12 +3298,54 @@
       "relevance_score": 7.0,
       "title": "X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras"
     },
+    "2607.12993v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-16T16:32:52.302427Z",
+      "link": "http://arxiv.org/abs/2607.12993v2",
+      "relevance_score": 7.0,
+      "title": "X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras"
+    },
     "2607.13013v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-15T16:34:26.591365Z",
       "link": "http://arxiv.org/abs/2607.13013v1",
       "relevance_score": 7.0,
       "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model"
+    },
+    "2607.13246v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-16T16:32:52.302412Z",
+      "link": "http://arxiv.org/abs/2607.13246v1",
+      "relevance_score": 22.0,
+      "title": "Reassessing Muon for Matrix Factorization"
+    },
+    "2607.13522v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-16T16:32:52.302431Z",
+      "link": "http://arxiv.org/abs/2607.13522v1",
+      "relevance_score": 6.5,
+      "title": "Kepler-Encoder-v0.1: Towards a Multimodal Embedding Model for Robots"
+    },
+    "2607.13943v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-07-16T16:32:52.302429Z",
+      "link": "http://arxiv.org/abs/2607.13943v1",
+      "relevance_score": 6.5,
+      "title": "Beyond the $d^{2.5}$-mixing bound for Dikin walks on polytopes"
+    },
+    "2607.14070v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-16T16:32:52.302440Z",
+      "link": "http://arxiv.org/abs/2607.14070v1",
+      "relevance_score": 5.5,
+      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes"
+    },
+    "2607.14088v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-16T16:32:52.302438Z",
+      "link": "http://arxiv.org/abs/2607.14088v1",
+      "relevance_score": 5.5,
+      "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders"
     }
   }
 }

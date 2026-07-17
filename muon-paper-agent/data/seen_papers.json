@@ -215,6 +215,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-16T16:32:52.302445Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-17T16:29:43.007066Z"
     }
   ],
   "papers": {
@@ -3346,6 +3350,76 @@
       "link": "http://arxiv.org/abs/2607.14088v1",
       "relevance_score": 5.5,
       "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders"
+    },
+    "2607.14466v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-17T16:29:43.007053Z",
+      "link": "http://arxiv.org/abs/2607.14466v1",
+      "relevance_score": 7.0,
+      "title": "Interleaved Noise Injection Improves Clean, Corrupted, and OOD Performance"
+    },
+    "2607.14521v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-17T16:29:43.007046Z",
+      "link": "http://arxiv.org/abs/2607.14521v1",
+      "relevance_score": 8.0,
+      "title": "Uni-AdaVD: Universal Concept Erasure for Visual Generation via Orthogonal Value Decomposition"
+    },
+    "2607.14536v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-17T16:29:43.007037Z",
+      "link": "http://arxiv.org/abs/2607.14536v1",
+      "relevance_score": 22.0,
+      "title": "Muse: Representation Geometry of Muon Beyond Normalized Momentum"
+    },
+    "2607.14880v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-17T16:29:43.007051Z",
+      "link": "http://arxiv.org/abs/2607.14880v1",
+      "relevance_score": 7.0,
+      "title": "Measuring Spatial Clustering via Metropolis-Hastings Diffusion Distance"
+    },
+    "2607.15045v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-17T16:29:43.007065Z",
+      "link": "http://arxiv.org/abs/2607.15045v1",
+      "relevance_score": 5.5,
+      "title": "Deep Scene-Driven Ordering of Hadamard Basis for Single-Pixel Spectral Imaging"
+    },
+    "2607.15128v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-17T16:29:43.007049Z",
+      "link": "http://arxiv.org/abs/2607.15128v1",
+      "relevance_score": 7.5,
+      "title": "DAPGNet: Dynamic Adaptive Physics-Guided Graph Diffusion Network for Hyperspectral Image Classification"
+    },
+    "2607.15148v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-17T16:29:43.007063Z",
+      "link": "http://arxiv.org/abs/2607.15148v1",
+      "relevance_score": 5.5,
+      "title": "Modular-CAPA-Based Communication Systems: Joint Activation and Beamforming Design"
+    },
+    "2607.15200v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-17T16:29:43.007060Z",
+      "link": "http://arxiv.org/abs/2607.15200v1",
+      "relevance_score": 5.5,
+      "title": "Mask-Aware Policy Gradients for Diffusion Language Models"
+    },
+    "2607.15271v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-17T16:29:43.007056Z",
+      "link": "http://arxiv.org/abs/2607.15271v1",
+      "relevance_score": 5.5,
+      "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis"
+    },
+    "2607.15278v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-17T16:29:43.007054Z",
+      "link": "http://arxiv.org/abs/2607.15278v1",
+      "relevance_score": 5.5,
+      "title": "Hierarchical Denoising For Multi-Step Visual Reasoning"
     }
   }
 }

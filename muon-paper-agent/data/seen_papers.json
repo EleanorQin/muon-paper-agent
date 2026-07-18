@@ -219,6 +219,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-17T16:29:43.007066Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-18T16:22:09.466880Z"
     }
   ],
   "papers": {
@@ -3372,6 +3376,27 @@
       "relevance_score": 22.0,
       "title": "Muse: Representation Geometry of Muon Beyond Normalized Momentum"
     },
+    "2607.14595v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466878Z",
+      "link": "http://arxiv.org/abs/2607.14595v1",
+      "relevance_score": 4.0,
+      "title": "MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation"
+    },
+    "2607.14710v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466876Z",
+      "link": "http://arxiv.org/abs/2607.14710v1",
+      "relevance_score": 4.0,
+      "title": "Variational Inference for Bird's Eye View Segmentation in Autonomous Driving"
+    },
+    "2607.14727v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466873Z",
+      "link": "http://arxiv.org/abs/2607.14727v1",
+      "relevance_score": 4.0,
+      "title": "WorkDrive: Roadwork Chain of Causation for Autonomous Driving"
+    },
     "2607.14880v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-17T16:29:43.007051Z",
@@ -3379,12 +3404,54 @@
       "relevance_score": 7.0,
       "title": "Measuring Spatial Clustering via Metropolis-Hastings Diffusion Distance"
     },
+    "2607.14898v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466868Z",
+      "link": "http://arxiv.org/abs/2607.14898v1",
+      "relevance_score": 4.0,
+      "title": "FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers"
+    },
+    "2607.14952v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466865Z",
+      "link": "http://arxiv.org/abs/2607.14952v1",
+      "relevance_score": 4.0,
+      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget"
+    },
     "2607.15045v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-17T16:29:43.007065Z",
       "link": "http://arxiv.org/abs/2607.15045v1",
       "relevance_score": 5.5,
       "title": "Deep Scene-Driven Ordering of Hadamard Basis for Single-Pixel Spectral Imaging"
+    },
+    "2607.15047v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466863Z",
+      "link": "http://arxiv.org/abs/2607.15047v1",
+      "relevance_score": 4.0,
+      "title": "Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening"
+    },
+    "2607.15082v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466860Z",
+      "link": "http://arxiv.org/abs/2607.15082v1",
+      "relevance_score": 4.0,
+      "title": "Towards Hierarchical Structure Understanding of Newspaper Images"
+    },
+    "2607.15095v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-18T16:22:09.466856Z",
+      "link": "http://arxiv.org/abs/2607.15095v1",
+      "relevance_score": 4.0,
+      "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents"
+    },
+    "2607.15105v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-18T16:22:09.466852Z",
+      "link": "http://arxiv.org/abs/2607.15105v1",
+      "relevance_score": 4.0,
+      "title": "Long-Context Fine-Tuning with Limited VRAM"
     },
     "2607.15128v1": {
       "category": "Muon-Adjacent Theory+Experiments",
@@ -3406,6 +3473,13 @@
       "link": "http://arxiv.org/abs/2607.15200v1",
       "relevance_score": 5.5,
       "title": "Mask-Aware Policy Gradients for Diffusion Language Models"
+    },
+    "2607.15225v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-07-18T16:22:09.466840Z",
+      "link": "http://arxiv.org/abs/2607.15225v1",
+      "relevance_score": 4.5,
+      "title": "Campaign Diagrams: Visualizing the March Through the Phases of a Workload"
     },
     "2607.15271v1": {
       "category": "Not Relevant",

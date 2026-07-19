@@ -223,6 +223,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-18T16:22:09.466880Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-19T16:22:19.756033Z"
     }
   ],
   "papers": {
@@ -3355,6 +3359,20 @@
       "relevance_score": 5.5,
       "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders"
     },
+    "2607.14236v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756010Z",
+      "link": "http://arxiv.org/abs/2607.14236v1",
+      "relevance_score": 4.0,
+      "title": "Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection"
+    },
+    "2607.14416v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756001Z",
+      "link": "http://arxiv.org/abs/2607.14416v1",
+      "relevance_score": 4.0,
+      "title": "CausalGraphX: A Counterfactual Graph Neural Network Framework for Explainable Systemic Risk Assessment"
+    },
     "2607.14466v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-07-17T16:29:43.007053Z",
@@ -3418,6 +3436,13 @@
       "relevance_score": 4.0,
       "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget"
     },
+    "2607.14970v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756013Z",
+      "link": "http://arxiv.org/abs/2607.14970v1",
+      "relevance_score": 3.5,
+      "title": "Explaining Process Control Optimisation Recommendations via GradientSHAP and Implicit Differentiation"
+    },
     "2607.15045v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-17T16:29:43.007065Z",
@@ -3467,12 +3492,33 @@
       "relevance_score": 5.5,
       "title": "Modular-CAPA-Based Communication Systems: Joint Activation and Beamforming Design"
     },
+    "2607.15172v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756031Z",
+      "link": "http://arxiv.org/abs/2607.15172v1",
+      "relevance_score": 2.0,
+      "title": "AHEAD: Anticipatory Hand-Driven Teleoperation via Human Intent Prediction"
+    },
     "2607.15200v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-17T16:29:43.007060Z",
       "link": "http://arxiv.org/abs/2607.15200v1",
       "relevance_score": 5.5,
       "title": "Mask-Aware Policy Gradients for Diffusion Language Models"
+    },
+    "2607.15211v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756029Z",
+      "link": "http://arxiv.org/abs/2607.15211v1",
+      "relevance_score": 2.0,
+      "title": "MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos"
+    },
+    "2607.15217v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756027Z",
+      "link": "http://arxiv.org/abs/2607.15217v1",
+      "relevance_score": 2.0,
+      "title": "NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation"
     },
     "2607.15225v1": {
       "category": "Muon-Adjacent Theory",
@@ -3481,12 +3527,40 @@
       "relevance_score": 4.5,
       "title": "Campaign Diagrams: Visualizing the March Through the Phases of a Workload"
     },
+    "2607.15227v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756022Z",
+      "link": "http://arxiv.org/abs/2607.15227v1",
+      "relevance_score": 2.0,
+      "title": "Divergent Gaze Patterns in Artistic Viewing: Spatial and Temporal Signatures of Attention Across Autistic Individuals, Artists, and Neurotypical Observers"
+    },
+    "2607.15253v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756020Z",
+      "link": "http://arxiv.org/abs/2607.15253v1",
+      "relevance_score": 2.0,
+      "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search"
+    },
+    "2607.15255v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756018Z",
+      "link": "http://arxiv.org/abs/2607.15255v1",
+      "relevance_score": 2.0,
+      "title": "HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning"
+    },
     "2607.15271v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-17T16:29:43.007056Z",
       "link": "http://arxiv.org/abs/2607.15271v1",
       "relevance_score": 5.5,
       "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis"
+    },
+    "2607.15273v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-19T16:22:19.756016Z",
+      "link": "http://arxiv.org/abs/2607.15273v1",
+      "relevance_score": 2.0,
+      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators"
     },
     "2607.15278v1": {
       "category": "Not Relevant",

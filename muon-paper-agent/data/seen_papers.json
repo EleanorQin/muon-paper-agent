@@ -227,6 +227,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-19T16:22:19.756033Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-20T16:32:56.727068Z"
     }
   ],
   "papers": {
@@ -3568,6 +3572,76 @@
       "link": "http://arxiv.org/abs/2607.15278v1",
       "relevance_score": 5.5,
       "title": "Hierarchical Denoising For Multi-Step Visual Reasoning"
+    },
+    "2607.15449v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727043Z",
+      "link": "http://arxiv.org/abs/2607.15449v1",
+      "relevance_score": 6.0,
+      "title": "Relevant and Irrelevant: A Renormalization Group Analysis of Transformer Attention"
+    },
+    "2607.15456v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-20T16:32:56.727049Z",
+      "link": "http://arxiv.org/abs/2607.15456v1",
+      "relevance_score": 5.5,
+      "title": "Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers"
+    },
+    "2607.15628v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727056Z",
+      "link": "http://arxiv.org/abs/2607.15628v1",
+      "relevance_score": 4.5,
+      "title": "MSTF-Net: A UAV-Oriented Multi-Spectral Video Segmentation Method via Modality-Robust, Scale-Adaptive, and Consistent Fusion"
+    },
+    "2607.15639v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727053Z",
+      "link": "http://arxiv.org/abs/2607.15639v1",
+      "relevance_score": 4.5,
+      "title": "BCG-Former: Toward Pareto-Efficient Hyperspectral Image Classification via Band-Contextual Gating"
+    },
+    "2607.15794v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727047Z",
+      "link": "http://arxiv.org/abs/2607.15794v1",
+      "relevance_score": 5.5,
+      "title": "On the Geometry of Learned Representations in Event-Based Multi-Modal Egomotion Estimation"
+    },
+    "2607.16056v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727051Z",
+      "link": "http://arxiv.org/abs/2607.16056v1",
+      "relevance_score": 4.5,
+      "title": "Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach"
+    },
+    "2607.16133v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727066Z",
+      "link": "http://arxiv.org/abs/2607.16133v1",
+      "relevance_score": 4.0,
+      "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective"
+    },
+    "2607.16169v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-20T16:32:56.727032Z",
+      "link": "http://arxiv.org/abs/2607.16169v1",
+      "relevance_score": 12.0,
+      "title": "When Does Muon Help Agentic Reinforcement Learning?"
+    },
+    "2607.16190v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727064Z",
+      "link": "http://arxiv.org/abs/2607.16190v1",
+      "relevance_score": 4.0,
+      "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation"
+    },
+    "2607.16193v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-20T16:32:56.727061Z",
+      "link": "http://arxiv.org/abs/2607.16193v1",
+      "relevance_score": 4.0,
+      "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs"
     }
   }
 }

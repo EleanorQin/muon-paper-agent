@@ -231,6 +231,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-20T16:32:56.727068Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-21T16:33:41.317164Z"
     }
   ],
   "papers": {
@@ -3629,6 +3633,13 @@
       "relevance_score": 12.0,
       "title": "When Does Muon Help Agentic Reinforcement Learning?"
     },
+    "2607.16169v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-21T16:33:41.317138Z",
+      "link": "http://arxiv.org/abs/2607.16169v2",
+      "relevance_score": 13.5,
+      "title": "When Does Muon Help Agentic Reinforcement Learning?"
+    },
     "2607.16190v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-20T16:32:56.727064Z",
@@ -3642,6 +3653,69 @@
       "link": "http://arxiv.org/abs/2607.16193v1",
       "relevance_score": 4.0,
       "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs"
+    },
+    "2607.17232v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-21T16:33:41.317162Z",
+      "link": "http://arxiv.org/abs/2607.17232v1",
+      "relevance_score": 6.0,
+      "title": "Rate-Distortion-Perception Theory: Redefining the Fundamental Limits of Information Representation"
+    },
+    "2607.17568v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-21T16:33:41.317149Z",
+      "link": "http://arxiv.org/abs/2607.17568v1",
+      "relevance_score": 7.0,
+      "title": "CoCurve: Cross-Module Co-Pruning Curvature for Training-Free Structured LLM Pruning"
+    },
+    "2607.17620v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-21T16:33:41.317127Z",
+      "link": "http://arxiv.org/abs/2607.17620v1",
+      "relevance_score": 20.0,
+      "title": "PoLoRA: A Preconditioned Orthogonalized LoRA Optimizer"
+    },
+    "2607.17715v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-21T16:33:41.317160Z",
+      "link": "http://arxiv.org/abs/2607.17715v1",
+      "relevance_score": 6.5,
+      "title": "C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference"
+    },
+    "2607.17820v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-21T16:33:41.317144Z",
+      "link": "http://arxiv.org/abs/2607.17820v1",
+      "relevance_score": 7.5,
+      "title": "PRiSM: Prototype Regularization for Few-Shot VLMs"
+    },
+    "2607.17822v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-21T16:33:41.317156Z",
+      "link": "http://arxiv.org/abs/2607.17822v1",
+      "relevance_score": 6.5,
+      "title": "Phasor Attention: Mean Root Square Normalization for Phase Manifold Preservation"
+    },
+    "2607.17843v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-21T16:33:41.317141Z",
+      "link": "http://arxiv.org/abs/2607.17843v1",
+      "relevance_score": 11.0,
+      "title": "Mobius Learning: Cyclic Depth Folding in Transformers"
+    },
+    "2607.17884v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-21T16:33:41.317146Z",
+      "link": "http://arxiv.org/abs/2607.17884v1",
+      "relevance_score": 7.0,
+      "title": "ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding"
+    },
+    "2607.17938v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-21T16:33:41.317151Z",
+      "link": "http://arxiv.org/abs/2607.17938v1",
+      "relevance_score": 6.5,
+      "title": "MuViSeg: Multi-View Segment Correspondences from Dense Geometry Priors"
     }
   }
 }

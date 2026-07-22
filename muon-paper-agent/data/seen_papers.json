@@ -235,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-21T16:33:41.317164Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-22T16:34:00.636901Z"
     }
   ],
   "papers": {
@@ -3716,6 +3720,76 @@
       "link": "http://arxiv.org/abs/2607.17938v1",
       "relevance_score": 6.5,
       "title": "MuViSeg: Multi-View Segment Correspondences from Dense Geometry Priors"
+    },
+    "2607.18422v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-22T16:34:00.636889Z",
+      "link": "http://arxiv.org/abs/2607.18422v1",
+      "relevance_score": 6.5,
+      "title": "PAC--Bayes Bounds on Quotient Parameter Spaces: Geometry-induced Implicit-Bias Priors"
+    },
+    "2607.18759v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-22T16:34:00.636887Z",
+      "link": "http://arxiv.org/abs/2607.18759v1",
+      "relevance_score": 6.5,
+      "title": "Relative Positions Generalize, Absolute Positions Memorize: An Implicit-Bias Account of Length Generalization in Attention"
+    },
+    "2607.18773v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-22T16:34:00.636884Z",
+      "link": "http://arxiv.org/abs/2607.18773v1",
+      "relevance_score": 6.5,
+      "title": "Privileged Lesion-Context Relational Distillation for Mask-Free Skin Lesion Classification"
+    },
+    "2607.19058v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-22T16:34:00.636875Z",
+      "link": "http://arxiv.org/abs/2607.19058v1",
+      "relevance_score": 11.0,
+      "title": "Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training"
+    },
+    "2607.19115v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-22T16:34:00.636882Z",
+      "link": "http://arxiv.org/abs/2607.19115v1",
+      "relevance_score": 6.5,
+      "title": "CR-Refiner: An Object-Centric Optimal Transport Reranker for Edit-Conditioned 3D Scene Retrieval"
+    },
+    "2607.19243v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-22T16:34:00.636900Z",
+      "link": "http://arxiv.org/abs/2607.19243v1",
+      "relevance_score": 5.0,
+      "title": "Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs"
+    },
+    "2607.19270v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-22T16:34:00.636894Z",
+      "link": "http://arxiv.org/abs/2607.19270v1",
+      "relevance_score": 5.5,
+      "title": "GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models"
+    },
+    "2607.19271v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-22T16:34:00.636897Z",
+      "link": "http://arxiv.org/abs/2607.19271v1",
+      "relevance_score": 5.0,
+      "title": "Model-Agnostic Meta Learning for Differentiable MPC"
+    },
+    "2607.19331v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-07-22T16:34:00.636864Z",
+      "link": "http://arxiv.org/abs/2607.19331v1",
+      "relevance_score": 11.0,
+      "title": "ISO: An RLVR-Native Optimization Stack"
+    },
+    "2607.19341v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-22T16:34:00.636879Z",
+      "link": "http://arxiv.org/abs/2607.19341v1",
+      "relevance_score": 6.5,
+      "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis"
     }
   }
 }

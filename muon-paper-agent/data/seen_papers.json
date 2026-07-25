@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-06T06:18:15.306203Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-06T06:24:32.504842Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-24T16:40:16.374535Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-25T16:22:05.880415Z"
     }
   ],
   "papers": {
@@ -2790,6 +2790,13 @@
       "relevance_score": 3.5,
       "title": "Alignment Is All You Need For X-to-4D Generation"
     },
+    "2607.02937v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-25T16:22:05.880401Z",
+      "link": "http://arxiv.org/abs/2607.02937v2",
+      "relevance_score": 6.5,
+      "title": "In-span learning: adapting reduced-order models using their own predictions"
+    },
     "2607.03519v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-07T16:50:53.835394Z",
@@ -3294,6 +3301,13 @@
       "relevance_score": 6.0,
       "title": "Contrast-Free ICA and Causal Inference via Wasserstein Distances to the Gaussian"
     },
+    "2607.12832v2": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-25T16:22:05.880402Z",
+      "link": "http://arxiv.org/abs/2607.12832v2",
+      "relevance_score": 6.0,
+      "title": "Contrast-Free ICA and Causal Inference via Wasserstein Distances to the Gaussian"
+    },
     "2607.12863v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-15T16:34:26.591391Z",
@@ -3791,6 +3805,20 @@
       "relevance_score": 6.5,
       "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis"
     },
+    "2607.19390v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-25T16:22:05.880397Z",
+      "link": "http://arxiv.org/abs/2607.19390v2",
+      "relevance_score": 7.0,
+      "title": "The Orthogonalized Read Is a Removable Training Scaffold for Recurrent Memory"
+    },
+    "2607.19771v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-25T16:22:05.880389Z",
+      "link": "http://arxiv.org/abs/2607.19771v1",
+      "relevance_score": 20.0,
+      "title": "An Isotropy-Preserving Spectral Cap for Muon: Theory and Three Case Studies"
+    },
     "2607.20214v1": {
       "category": "Muon-Adjacent Theory",
       "last_sent_at": "2026-07-24T16:40:16.374526Z",
@@ -3819,6 +3847,13 @@
       "relevance_score": 5.5,
       "title": "Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection"
     },
+    "2607.21039v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-25T16:22:05.880395Z",
+      "link": "http://arxiv.org/abs/2607.21039v1",
+      "relevance_score": 8.0,
+      "title": "Regularized Optimization on Grassmann Manifold: Theory, Algorithm and Applications"
+    },
     "2607.21290v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-24T16:40:16.374533Z",
@@ -3840,12 +3875,40 @@
       "relevance_score": 5.0,
       "title": "SHIFT: Self-reconstruction Harnesses Implicit Fine-grained Thinking for Retrieval"
     },
+    "2607.21356v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-25T16:22:05.880411Z",
+      "link": "http://arxiv.org/abs/2607.21356v1",
+      "relevance_score": 5.5,
+      "title": "Emergent Misalignment Recruits a Pre-existing Persona Subspace"
+    },
+    "2607.21419v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-25T16:22:05.880413Z",
+      "link": "http://arxiv.org/abs/2607.21419v1",
+      "relevance_score": 4.0,
+      "title": "PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning"
+    },
+    "2607.21485v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-25T16:22:05.880408Z",
+      "link": "http://arxiv.org/abs/2607.21485v1",
+      "relevance_score": 5.5,
+      "title": "Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation"
+    },
     "2607.21535v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-24T16:40:16.374521Z",
       "link": "http://arxiv.org/abs/2607.21535v1",
       "relevance_score": 5.5,
       "title": "Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context"
+    },
+    "2607.21552v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-25T16:22:05.880399Z",
+      "link": "http://arxiv.org/abs/2607.21552v1",
+      "relevance_score": 6.5,
+      "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning"
     },
     "2607.21553v1": {
       "category": "Not Relevant",
@@ -3860,6 +3923,13 @@
       "link": "http://arxiv.org/abs/2607.21561v1",
       "relevance_score": 5.5,
       "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling"
+    },
+    "2607.21579v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-25T16:22:05.880404Z",
+      "link": "http://arxiv.org/abs/2607.21579v1",
+      "relevance_score": 5.5,
+      "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$"
     }
   }
 }

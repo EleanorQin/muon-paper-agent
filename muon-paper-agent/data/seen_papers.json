@@ -1,10 +1,6 @@
 {
   "history": [
     {
-      "paper_count": 10,
-      "sent_at": "2026-06-06T06:27:48.586995Z"
-    },
-    {
       "paper_count": 3,
       "sent_at": "2026-06-06T06:31:07.398516Z"
     },
@@ -239,6 +235,10 @@
     {
       "paper_count": 0,
       "sent_at": "2026-07-26T16:30:51.375329Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-27T16:45:40.406502Z"
     }
   ],
   "papers": {
@@ -3930,6 +3930,76 @@
       "link": "http://arxiv.org/abs/2607.21579v1",
       "relevance_score": 5.5,
       "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$"
+    },
+    "2607.21716v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406484Z",
+      "link": "http://arxiv.org/abs/2607.21716v1",
+      "relevance_score": 6.0,
+      "title": "A Defense of the Quadratic Model"
+    },
+    "2607.21848v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406487Z",
+      "link": "http://arxiv.org/abs/2607.21848v1",
+      "relevance_score": 5.5,
+      "title": "Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering"
+    },
+    "2607.22086v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406489Z",
+      "link": "http://arxiv.org/abs/2607.22086v1",
+      "relevance_score": 4.5,
+      "title": "MemNMF: Memory-Augmented NMF on LPC Spectra for Anomalous Sound Detection"
+    },
+    "2607.22356v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406500Z",
+      "link": "http://arxiv.org/abs/2607.22356v1",
+      "relevance_score": 4.0,
+      "title": "Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning"
+    },
+    "2607.22430v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406479Z",
+      "link": "http://arxiv.org/abs/2607.22430v1",
+      "relevance_score": 7.5,
+      "title": "On the Identifiability of Controlled World Models"
+    },
+    "2607.22432v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406498Z",
+      "link": "http://arxiv.org/abs/2607.22432v1",
+      "relevance_score": 4.0,
+      "title": "TileSight: A First-Principles Tile-Centric Analytical GPU Performance Model from Cores to Clusters"
+    },
+    "2607.22444v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-27T16:45:40.406472Z",
+      "link": "http://arxiv.org/abs/2607.22444v1",
+      "relevance_score": 11.0,
+      "title": "Hyperball May Not Be a Free Lunch"
+    },
+    "2607.22471v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406495Z",
+      "link": "http://arxiv.org/abs/2607.22471v1",
+      "relevance_score": 4.0,
+      "title": "MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation"
+    },
+    "2607.22489v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-07-27T16:45:40.406482Z",
+      "link": "http://arxiv.org/abs/2607.22489v1",
+      "relevance_score": 6.0,
+      "title": "\\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating"
+    },
+    "2607.22531v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-27T16:45:40.406491Z",
+      "link": "http://arxiv.org/abs/2607.22531v1",
+      "relevance_score": 4.0,
+      "title": "Twins: Learn to Predict Unified Representations with Focal Loss"
     }
   }
 }

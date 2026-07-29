@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-06T06:33:59.482574Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-06T06:36:27.739150Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 0,
       "sent_at": "2026-07-28T16:40:46.323979Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-29T16:32:48.300066Z"
     }
   ],
   "papers": {
@@ -4000,6 +4000,76 @@
       "link": "http://arxiv.org/abs/2607.22531v1",
       "relevance_score": 4.0,
       "title": "Twins: Learn to Predict Unified Representations with Focal Loss"
+    },
+    "2607.23933v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-29T16:32:48.300059Z",
+      "link": "http://arxiv.org/abs/2607.23933v1",
+      "relevance_score": 7.0,
+      "title": "SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving"
+    },
+    "2607.23940v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-29T16:32:48.300041Z",
+      "link": "http://arxiv.org/abs/2607.23940v1",
+      "relevance_score": 11.0,
+      "title": "Variational Boosting for Physics-Informed Neural Networks"
+    },
+    "2607.25338v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-29T16:32:48.300054Z",
+      "link": "http://arxiv.org/abs/2607.25338v1",
+      "relevance_score": 7.0,
+      "title": "Dual-Domain Manifold Modeling for Hyperspectral Image Fusion"
+    },
+    "2607.25380v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-29T16:32:48.300064Z",
+      "link": "http://arxiv.org/abs/2607.25380v1",
+      "relevance_score": 6.0,
+      "title": "Memory for Large Language Models"
+    },
+    "2607.25507v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-29T16:32:48.300052Z",
+      "link": "http://arxiv.org/abs/2607.25507v1",
+      "relevance_score": 7.0,
+      "title": "Phase Structure in Rotary Attention: A Spectral Framework for Semantic Continuity and Execution-Boundary Governance"
+    },
+    "2607.25576v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-29T16:32:48.300047Z",
+      "link": "http://arxiv.org/abs/2607.25576v1",
+      "relevance_score": 9.0,
+      "title": "Matrix-Free Photoacoustic Image Reconstruction via Sensor-Token Self-Attention"
+    },
+    "2607.25924v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-07-29T16:32:48.300062Z",
+      "link": "http://arxiv.org/abs/2607.25924v1",
+      "relevance_score": 6.0,
+      "title": "Secure Energy-Efficient Uplink Transmission in Movable-Element RIS-aided Systems with Movable Antennas and Artificial Noise"
+    },
+    "2607.25967v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-29T16:32:48.300044Z",
+      "link": "http://arxiv.org/abs/2607.25967v1",
+      "relevance_score": 9.0,
+      "title": "Quasi-SVD: Learning a Lie-constrained matrix factorisation for real-time imaging"
+    },
+    "2607.26001v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-29T16:32:48.300030Z",
+      "link": "http://arxiv.org/abs/2607.26001v1",
+      "relevance_score": 17.5,
+      "title": "Sharpness-Aware Minimization and Muon: Robustness under the Spectral Norm"
+    },
+    "2607.26037v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-29T16:32:48.300049Z",
+      "link": "http://arxiv.org/abs/2607.26037v1",
+      "relevance_score": 7.0,
+      "title": "Wonder: Video World Model Done Better"
     }
   }
 }

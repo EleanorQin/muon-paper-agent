@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-06T06:36:27.739150Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-06T06:42:38.501397Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-29T16:32:48.300066Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-30T16:34:13.260382Z"
     }
   ],
   "papers": {
@@ -4015,6 +4015,13 @@
       "relevance_score": 11.0,
       "title": "Variational Boosting for Physics-Informed Neural Networks"
     },
+    "2607.23970v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260366Z",
+      "link": "http://arxiv.org/abs/2607.23970v1",
+      "relevance_score": 5.5,
+      "title": "Understanding Machine Unlearning Through the Lens of Mode Connectivity"
+    },
     "2607.25338v1": {
       "category": "Muon-Adjacent Experiments",
       "last_sent_at": "2026-07-29T16:32:48.300054Z",
@@ -4070,6 +4077,69 @@
       "link": "http://arxiv.org/abs/2607.26037v1",
       "relevance_score": 7.0,
       "title": "Wonder: Video World Model Done Better"
+    },
+    "2607.26196v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260358Z",
+      "link": "http://arxiv.org/abs/2607.26196v1",
+      "relevance_score": 8.0,
+      "title": "Rad-JEPA 3D: Radiology Joint-Embedding Predictive Model for 3D Computed Tomography"
+    },
+    "2607.26706v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260380Z",
+      "link": "http://arxiv.org/abs/2607.26706v1",
+      "relevance_score": 5.0,
+      "title": "TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models"
+    },
+    "2607.26715v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260378Z",
+      "link": "http://arxiv.org/abs/2607.26715v1",
+      "relevance_score": 5.0,
+      "title": "FreeShadow: Training-Free Shadow Removal via Illumination Transfer and Selective Content Preservation in Diffusion Models"
+    },
+    "2607.26760v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260375Z",
+      "link": "http://arxiv.org/abs/2607.26760v1",
+      "relevance_score": 5.0,
+      "title": "Metis: Memory Foundation Model"
+    },
+    "2607.26770v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260361Z",
+      "link": "http://arxiv.org/abs/2607.26770v1",
+      "relevance_score": 6.5,
+      "title": "Vision-TL-Action: Neuro-Symbolic Trajectory Generation from Visual Observations and Temporal Logic"
+    },
+    "2607.26818v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260370Z",
+      "link": "http://arxiv.org/abs/2607.26818v1",
+      "relevance_score": 5.0,
+      "title": "Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory"
+    },
+    "2607.27055v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260369Z",
+      "link": "http://arxiv.org/abs/2607.27055v1",
+      "relevance_score": 5.0,
+      "title": "Learning from the Future: Privileged Self-Distillation for Sequential Recommendation"
+    },
+    "2607.27110v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260347Z",
+      "link": "http://arxiv.org/abs/2607.27110v1",
+      "relevance_score": 8.0,
+      "title": "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring"
+    },
+    "2607.27154v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-30T16:34:13.260363Z",
+      "link": "http://arxiv.org/abs/2607.27154v1",
+      "relevance_score": 5.5,
+      "title": "Anatomy Contextualized Adaption of CT Foundation Models"
     }
   }
 }

@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-06T06:42:38.501397Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-06T06:47:20.912371Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-30T16:34:13.260382Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-07-31T16:37:13.578393Z"
     }
   ],
   "papers": {
@@ -3658,6 +3658,13 @@
       "relevance_score": 13.5,
       "title": "When Does Muon Help Agentic Reinforcement Learning?"
     },
+    "2607.16169v3": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-07-31T16:37:13.578359Z",
+      "link": "http://arxiv.org/abs/2607.16169v3",
+      "relevance_score": 15.5,
+      "title": "When Does Muon Help Agentic Reinforcement Learning?"
+    },
     "2607.16190v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-20T16:32:56.727064Z",
@@ -4140,6 +4147,69 @@
       "link": "http://arxiv.org/abs/2607.27154v1",
       "relevance_score": 5.5,
       "title": "Anatomy Contextualized Adaption of CT Foundation Models"
+    },
+    "2607.27634v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578371Z",
+      "link": "http://arxiv.org/abs/2607.27634v1",
+      "relevance_score": 6.5,
+      "title": "4DHumanDiff: Direct Text-to-4DGS Generation for Consistent 360-Degree Dynamic Humans"
+    },
+    "2607.28243v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578368Z",
+      "link": "http://arxiv.org/abs/2607.28243v1",
+      "relevance_score": 6.5,
+      "title": "EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE"
+    },
+    "2607.28434v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578391Z",
+      "link": "http://arxiv.org/abs/2607.28434v1",
+      "relevance_score": 5.0,
+      "title": "Metaphor Tracer: A Theory-Informed Analysis of Hidden States"
+    },
+    "2607.28460v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578389Z",
+      "link": "http://arxiv.org/abs/2607.28460v1",
+      "relevance_score": 5.0,
+      "title": "Cybersecurity Detection Classification with Reasoning-enabled Language Models"
+    },
+    "2607.28527v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578381Z",
+      "link": "http://arxiv.org/abs/2607.28527v1",
+      "relevance_score": 5.5,
+      "title": "MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems"
+    },
+    "2607.28571v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578378Z",
+      "link": "http://arxiv.org/abs/2607.28571v1",
+      "relevance_score": 5.5,
+      "title": "Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently"
+    },
+    "2607.28581v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578386Z",
+      "link": "http://arxiv.org/abs/2607.28581v1",
+      "relevance_score": 5.0,
+      "title": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation"
+    },
+    "2607.28582v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578376Z",
+      "link": "http://arxiv.org/abs/2607.28582v1",
+      "relevance_score": 5.5,
+      "title": "$\u03b2$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation"
+    },
+    "2607.28611v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-07-31T16:37:13.578373Z",
+      "link": "http://arxiv.org/abs/2607.28611v1",
+      "relevance_score": 5.5,
+      "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers"
     }
   }
 }

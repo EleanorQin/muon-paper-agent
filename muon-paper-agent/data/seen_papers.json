@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-06T06:47:20.912371Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-06T07:01:05.981505Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-07-31T16:37:13.578393Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-01T16:23:29.167627Z"
     }
   ],
   "papers": {
@@ -4155,12 +4155,82 @@
       "relevance_score": 6.5,
       "title": "4DHumanDiff: Direct Text-to-4DGS Generation for Consistent 360-Degree Dynamic Humans"
     },
+    "2607.27830v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167625Z",
+      "link": "http://arxiv.org/abs/2607.27830v1",
+      "relevance_score": 4.0,
+      "title": "Thinking Once Is Enough: Intermediate-Layer Evidence Routing for High-Resolution VQA"
+    },
+    "2607.27922v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167623Z",
+      "link": "http://arxiv.org/abs/2607.27922v1",
+      "relevance_score": 4.0,
+      "title": "Learning Social Robot Navigation By Sensing Human Legs"
+    },
+    "2607.27952v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167620Z",
+      "link": "http://arxiv.org/abs/2607.27952v1",
+      "relevance_score": 4.0,
+      "title": "LAST: The Last Query Token Guides Visual Token Pruning for Edge-Cloud Collaborative MLLM Inference"
+    },
+    "2607.28006v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167616Z",
+      "link": "http://arxiv.org/abs/2607.28006v1",
+      "relevance_score": 4.0,
+      "title": "MMLDSum-LLM: Multimodal Long-Document Summarization with Visual-Alignment and Keyword-Aware"
+    },
+    "2607.28069v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167613Z",
+      "link": "http://arxiv.org/abs/2607.28069v1",
+      "relevance_score": 4.0,
+      "title": "SemPIC: Learning Semantic Position-Independent KV Caches"
+    },
+    "2607.28070v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167611Z",
+      "link": "http://arxiv.org/abs/2607.28070v1",
+      "relevance_score": 4.0,
+      "title": "CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent"
+    },
     "2607.28243v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-31T16:37:13.578368Z",
       "link": "http://arxiv.org/abs/2607.28243v1",
       "relevance_score": 6.5,
       "title": "EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE"
+    },
+    "2607.28301v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167609Z",
+      "link": "http://arxiv.org/abs/2607.28301v1",
+      "relevance_score": 4.0,
+      "title": "HARGO: Heterogeneity-Aware Reward-Guided Optimization for RL Post-Training of LLMs on HPC Tasks"
+    },
+    "2607.28341v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167606Z",
+      "link": "http://arxiv.org/abs/2607.28341v1",
+      "relevance_score": 4.0,
+      "title": "Capturing Token Tendencies for Training-Free Token Pruning in Multimodal Large Language Models"
+    },
+    "2607.28391v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167604Z",
+      "link": "http://arxiv.org/abs/2607.28391v1",
+      "relevance_score": 4.0,
+      "title": "TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction"
+    },
+    "2607.28418v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-01T16:23:29.167594Z",
+      "link": "http://arxiv.org/abs/2607.28418v1",
+      "relevance_score": 4.0,
+      "title": "WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning"
     },
     "2607.28434v1": {
       "category": "Not Relevant",

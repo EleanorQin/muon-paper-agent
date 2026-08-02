@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-06T07:01:05.981505Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-06T07:09:20.544828Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-01T16:23:29.167627Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-02T16:23:13.281747Z"
     }
   ],
   "papers": {
@@ -4148,12 +4148,68 @@
       "relevance_score": 5.5,
       "title": "Anatomy Contextualized Adaption of CT Foundation Models"
     },
+    "2607.27562v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281740Z",
+      "link": "http://arxiv.org/abs/2607.27562v1",
+      "relevance_score": 4.0,
+      "title": "DeepResearch Agent System"
+    },
+    "2607.27591v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281736Z",
+      "link": "http://arxiv.org/abs/2607.27591v1",
+      "relevance_score": 4.0,
+      "title": "Prox: Training-Free FFN Activation Sparsity via Approximate Intermediate-Channel Salience in LLMs"
+    },
+    "2607.27600v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281734Z",
+      "link": "http://arxiv.org/abs/2607.27600v1",
+      "relevance_score": 4.0,
+      "title": "Back from the Future: Key-Value Cache Management by Counter-Causal Surprise"
+    },
+    "2607.27628v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281731Z",
+      "link": "http://arxiv.org/abs/2607.27628v1",
+      "relevance_score": 4.0,
+      "title": "BlindPSNR: A No-Reference Fidelity Predictor for Low-Light Image Enhancement"
+    },
     "2607.27634v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-31T16:37:13.578371Z",
       "link": "http://arxiv.org/abs/2607.27634v1",
       "relevance_score": 6.5,
       "title": "4DHumanDiff: Direct Text-to-4DGS Generation for Consistent 360-Degree Dynamic Humans"
+    },
+    "2607.27692v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281729Z",
+      "link": "http://arxiv.org/abs/2607.27692v1",
+      "relevance_score": 4.0,
+      "title": "Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention"
+    },
+    "2607.27735v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281727Z",
+      "link": "http://arxiv.org/abs/2607.27735v1",
+      "relevance_score": 4.0,
+      "title": "A Sparse Glimpse of the Whole: Train-Free Self-Speculative Decoding"
+    },
+    "2607.27737v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281724Z",
+      "link": "http://arxiv.org/abs/2607.27737v1",
+      "relevance_score": 4.0,
+      "title": "Improving the Robustness/Accuracy Tradeoff Against Adversarial Attacks Using Information Bottleneck Distillation Through Dual Teachers"
+    },
+    "2607.27744v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281714Z",
+      "link": "http://arxiv.org/abs/2607.27744v1",
+      "relevance_score": 4.0,
+      "title": "ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation"
     },
     "2607.27830v1": {
       "category": "Not Relevant",
@@ -4204,6 +4260,13 @@
       "relevance_score": 6.5,
       "title": "EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE"
     },
+    "2607.28300v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281746Z",
+      "link": "http://arxiv.org/abs/2607.28300v1",
+      "relevance_score": 3.5,
+      "title": "MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians"
+    },
     "2607.28301v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-01T16:23:29.167609Z",
@@ -4217,6 +4280,13 @@
       "link": "http://arxiv.org/abs/2607.28341v1",
       "relevance_score": 4.0,
       "title": "Capturing Token Tendencies for Training-Free Token Pruning in Multimodal Large Language Models"
+    },
+    "2607.28382v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-02T16:23:13.281744Z",
+      "link": "http://arxiv.org/abs/2607.28382v1",
+      "relevance_score": 3.5,
+      "title": "SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer"
     },
     "2607.28391v1": {
       "category": "Not Relevant",

@@ -1,10 +1,6 @@
 {
   "history": [
     {
-      "paper_count": 10,
-      "sent_at": "2026-06-06T07:09:20.544828Z"
-    },
-    {
       "paper_count": 0,
       "sent_at": "2026-06-06T16:35:13.365413Z"
     },
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-02T16:23:13.281747Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-03T16:51:42.228731Z"
     }
   ],
   "papers": {
@@ -296,6 +296,13 @@
       "last_sent_at": "2026-07-10T16:44:34.944214Z",
       "link": "http://arxiv.org/abs/2603.00910v2",
       "relevance_score": 7.0,
+      "title": "Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization"
+    },
+    "2603.00910v3": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-03T16:51:42.228711Z",
+      "link": "http://arxiv.org/abs/2603.00910v3",
+      "relevance_score": 6.0,
       "title": "Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization"
     },
     "2604.09967v2": {
@@ -4350,6 +4357,69 @@
       "link": "http://arxiv.org/abs/2607.28611v1",
       "relevance_score": 5.5,
       "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers"
+    },
+    "2607.29135v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-03T16:51:42.228708Z",
+      "link": "http://arxiv.org/abs/2607.29135v1",
+      "relevance_score": 6.5,
+      "title": "HERO: History-Enriched Rollout Training for Long-Horizon Autoregressive Neural Operators"
+    },
+    "2607.29148v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-03T16:51:42.228720Z",
+      "link": "http://arxiv.org/abs/2607.29148v1",
+      "relevance_score": 4.5,
+      "title": "Exploring Efficient Waveform Diffusion Models for Foley Sound Generation"
+    },
+    "2607.29222v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-03T16:51:42.228718Z",
+      "link": "http://arxiv.org/abs/2607.29222v1",
+      "relevance_score": 5.5,
+      "title": "Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?"
+    },
+    "2607.29561v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-03T16:51:42.228730Z",
+      "link": "http://arxiv.org/abs/2607.29561v1",
+      "relevance_score": 4.0,
+      "title": "MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models"
+    },
+    "2607.29568v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-03T16:51:42.228727Z",
+      "link": "http://arxiv.org/abs/2607.29568v1",
+      "relevance_score": 4.0,
+      "title": "DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation"
+    },
+    "2607.29601v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-03T16:51:42.228716Z",
+      "link": "http://arxiv.org/abs/2607.29601v1",
+      "relevance_score": 5.5,
+      "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs"
+    },
+    "2607.29626v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-03T16:51:42.228725Z",
+      "link": "http://arxiv.org/abs/2607.29626v1",
+      "relevance_score": 4.0,
+      "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers"
+    },
+    "2607.29633v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-03T16:51:42.228713Z",
+      "link": "http://arxiv.org/abs/2607.29633v1",
+      "relevance_score": 5.5,
+      "title": "OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting"
+    },
+    "2607.29674v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-03T16:51:42.228698Z",
+      "link": "http://arxiv.org/abs/2607.29674v1",
+      "relevance_score": 12.0,
+      "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback"
     }
   }
 }

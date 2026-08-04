@@ -1,10 +1,6 @@
 {
   "history": [
     {
-      "paper_count": 0,
-      "sent_at": "2026-06-06T16:35:13.365413Z"
-    },
-    {
       "paper_count": 10,
       "sent_at": "2026-06-07T16:34:59.537108Z"
     },
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-03T16:51:42.228731Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-04T16:40:00.766118Z"
     }
   ],
   "papers": {
@@ -3672,6 +3672,13 @@
       "relevance_score": 15.5,
       "title": "When Does Muon Help Agentic Reinforcement Learning?"
     },
+    "2607.16169v4": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-04T16:40:00.766093Z",
+      "link": "http://arxiv.org/abs/2607.16169v4",
+      "relevance_score": 14.5,
+      "title": "When Does Muon Help Agentic Reinforcement Learning?"
+    },
     "2607.16190v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-07-20T16:32:56.727064Z",
@@ -4034,6 +4041,13 @@
       "last_sent_at": "2026-07-30T16:34:13.260366Z",
       "link": "http://arxiv.org/abs/2607.23970v1",
       "relevance_score": 5.5,
+      "title": "Understanding Machine Unlearning Through the Lens of Mode Connectivity"
+    },
+    "2607.23970v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766101Z",
+      "link": "http://arxiv.org/abs/2607.23970v2",
+      "relevance_score": 7.0,
       "title": "Understanding Machine Unlearning Through the Lens of Mode Connectivity"
     },
     "2607.25338v1": {
@@ -4420,6 +4434,62 @@
       "link": "http://arxiv.org/abs/2607.29674v1",
       "relevance_score": 12.0,
       "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback"
+    },
+    "2608.01662v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766096Z",
+      "link": "http://arxiv.org/abs/2608.01662v1",
+      "relevance_score": 8.0,
+      "title": "LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing"
+    },
+    "2608.02091v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766099Z",
+      "link": "http://arxiv.org/abs/2608.02091v1",
+      "relevance_score": 7.5,
+      "title": "One QK Channel, Many Sources: Guarding Low-Precision Attention Collapse"
+    },
+    "2608.02197v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766104Z",
+      "link": "http://arxiv.org/abs/2608.02197v1",
+      "relevance_score": 6.5,
+      "title": "Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models"
+    },
+    "2608.02502v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-04T16:40:00.766082Z",
+      "link": "http://arxiv.org/abs/2608.02502v1",
+      "relevance_score": 16.5,
+      "title": "CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization"
+    },
+    "2608.02504v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766116Z",
+      "link": "http://arxiv.org/abs/2608.02504v1",
+      "relevance_score": 5.5,
+      "title": "Token Radius Attention for Efficient Video Generation"
+    },
+    "2608.02515v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766114Z",
+      "link": "http://arxiv.org/abs/2608.02515v1",
+      "relevance_score": 5.5,
+      "title": "LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference"
+    },
+    "2608.02585v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766111Z",
+      "link": "http://arxiv.org/abs/2608.02585v1",
+      "relevance_score": 5.5,
+      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning"
+    },
+    "2608.02599v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-04T16:40:00.766106Z",
+      "link": "http://arxiv.org/abs/2608.02599v1",
+      "relevance_score": 5.5,
+      "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework"
     }
   }
 }

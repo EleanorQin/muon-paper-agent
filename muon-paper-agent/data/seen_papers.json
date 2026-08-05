@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-07T16:34:59.537108Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-08T17:12:43.261971Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-04T16:40:00.766118Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-05T16:36:19.677450Z"
     }
   ],
   "papers": {
@@ -4490,6 +4490,76 @@
       "link": "http://arxiv.org/abs/2608.02599v1",
       "relevance_score": 5.5,
       "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework"
+    },
+    "2608.02980v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-05T16:36:19.677439Z",
+      "link": "http://arxiv.org/abs/2608.02980v1",
+      "relevance_score": 6.5,
+      "title": "Qwen-3D: A Generalist 3D Vision-Language Model for Spatial Understanding"
+    },
+    "2608.02991v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-05T16:36:19.677413Z",
+      "link": "http://arxiv.org/abs/2608.02991v1",
+      "relevance_score": 15.5,
+      "title": "Joint Affine Spectral Shaping: Coupling Weight and Bias Updates Beyond Weight-Only Muon"
+    },
+    "2608.03107v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-05T16:36:19.677425Z",
+      "link": "http://arxiv.org/abs/2608.03107v1",
+      "relevance_score": 8.0,
+      "title": "A Unified Resolution-Conditioned Framework for Orthogonal Line-Scanning Image Fusion"
+    },
+    "2608.03228v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-05T16:36:19.677432Z",
+      "link": "http://arxiv.org/abs/2608.03228v1",
+      "relevance_score": 6.5,
+      "title": "SAKI: Score-Aware Low-Rank Key Indexing for Long-Context KV Retrieval"
+    },
+    "2608.03294v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-05T16:36:19.677447Z",
+      "link": "http://arxiv.org/abs/2608.03294v1",
+      "relevance_score": 6.0,
+      "title": "Provably Learning Multi-Head Attention with Queries"
+    },
+    "2608.03573v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-05T16:36:19.677421Z",
+      "link": "http://arxiv.org/abs/2608.03573v1",
+      "relevance_score": 8.0,
+      "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs"
+    },
+    "2608.03620v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-05T16:36:19.677428Z",
+      "link": "http://arxiv.org/abs/2608.03620v1",
+      "relevance_score": 6.5,
+      "title": "A Theory of Conditional Collapse under Low-Rank Weight-Space Ablations: I. The Single-Block Theory and Synthetic Validation"
+    },
+    "2608.03630v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-05T16:36:19.677443Z",
+      "link": "http://arxiv.org/abs/2608.03630v1",
+      "relevance_score": 6.0,
+      "title": "POEM: Phase-Aware $\\mathrm{SO}(2)$ Feature Rotation for Time Series Forecasting Under Periodicity Drift"
+    },
+    "2608.03885v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-05T16:36:19.677417Z",
+      "link": "http://arxiv.org/abs/2608.03885v1",
+      "relevance_score": 9.5,
+      "title": "MuRA: Multi-Rank Adaptation for Efficient and Effective Test-Time Vision-Language Generalization"
+    },
+    "2608.03941v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-05T16:36:19.677401Z",
+      "link": "http://arxiv.org/abs/2608.03941v1",
+      "relevance_score": 21.0,
+      "title": "Muon Meets Mamba: Spectral Optimization for State Space Models"
     }
   }
 }

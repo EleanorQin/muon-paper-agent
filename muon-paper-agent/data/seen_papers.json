@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-08T17:12:43.261971Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-09T17:00:34.433866Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-05T16:36:19.677450Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-07T16:20:56.515146Z"
     }
   ],
   "papers": {
@@ -4560,6 +4560,76 @@
       "link": "http://arxiv.org/abs/2608.03941v1",
       "relevance_score": 21.0,
       "title": "Muon Meets Mamba: Spectral Optimization for State Space Models"
+    },
+    "2608.04607v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-07T16:20:56.515123Z",
+      "link": "http://arxiv.org/abs/2608.04607v1",
+      "relevance_score": 19.0,
+      "title": "On MUON optimization: From non-convergence to an error analysis with Polar Express and the Newton-Schulz polynomial from implementations"
+    },
+    "2608.05088v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-07T16:20:56.515114Z",
+      "link": "http://arxiv.org/abs/2608.05088v1",
+      "relevance_score": 21.5,
+      "title": "MALT: Lightweight Curvature-Aware Muon via Diagonal Preconditioning"
+    },
+    "2608.05136v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-07T16:20:56.515128Z",
+      "link": "http://arxiv.org/abs/2608.05136v1",
+      "relevance_score": 15.0,
+      "title": "The Loss Does Not See the Basis, but Adam Does"
+    },
+    "2608.05793v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-07T16:20:56.515135Z",
+      "link": "http://arxiv.org/abs/2608.05793v1",
+      "relevance_score": 7.5,
+      "title": "Radio-FM: A Foundation Model for Radio Signal Representation Learning and Its Applications"
+    },
+    "2608.05878v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-07T16:20:56.515139Z",
+      "link": "http://arxiv.org/abs/2608.05878v1",
+      "relevance_score": 6.5,
+      "title": "MAVISEG: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers"
+    },
+    "2608.06096v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-07T16:20:56.515144Z",
+      "link": "http://arxiv.org/abs/2608.06096v1",
+      "relevance_score": 6.0,
+      "title": "A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization"
+    },
+    "2608.06205v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-07T16:20:56.515133Z",
+      "link": "http://arxiv.org/abs/2608.06205v1",
+      "relevance_score": 7.5,
+      "title": "CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection"
+    },
+    "2608.06218v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-07T16:20:56.515126Z",
+      "link": "http://arxiv.org/abs/2608.06218v1",
+      "relevance_score": 17.5,
+      "title": "Muon on the Stiefel Manifold Admits an Exact Closed-Form Update"
+    },
+    "2608.06250v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-07T16:20:56.515142Z",
+      "link": "http://arxiv.org/abs/2608.06250v1",
+      "relevance_score": 6.0,
+      "title": "Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification"
+    },
+    "2608.06283v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-07T16:20:56.515130Z",
+      "link": "http://arxiv.org/abs/2608.06283v1",
+      "relevance_score": 8.5,
+      "title": "The Tamed Subgradient Unadjusted Langevin Algorithm beyond Convexity"
     }
   }
 }

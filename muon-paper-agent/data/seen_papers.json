@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-10T17:13:37.910219Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-10T17:14:47.389803Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 0,
       "sent_at": "2026-08-08T16:14:56.156396Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-09T16:10:20.913348Z"
     }
   ],
   "papers": {
@@ -4533,6 +4533,13 @@
       "relevance_score": 8.0,
       "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs"
     },
+    "2608.03573v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913316Z",
+      "link": "http://arxiv.org/abs/2608.03573v2",
+      "relevance_score": 7.0,
+      "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs"
+    },
     "2608.03620v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-08-05T16:36:19.677428Z",
@@ -4596,12 +4603,33 @@
       "relevance_score": 6.5,
       "title": "MAVISEG: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers"
     },
+    "2608.05956v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913327Z",
+      "link": "http://arxiv.org/abs/2608.05956v1",
+      "relevance_score": 4.5,
+      "title": "Certifying Collective Reasoning in Multi-Agent Systems via Koopman Spectral Analysis"
+    },
     "2608.06096v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-07T16:20:56.515144Z",
       "link": "http://arxiv.org/abs/2608.06096v1",
       "relevance_score": 6.0,
       "title": "A Special Point Skeleton Reconstruction Algorithm for Dynamic Multiobjective Optimization"
+    },
+    "2608.06183v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913346Z",
+      "link": "http://arxiv.org/abs/2608.06183v1",
+      "relevance_score": 4.0,
+      "title": "MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration"
+    },
+    "2608.06197v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913345Z",
+      "link": "http://arxiv.org/abs/2608.06197v1",
+      "relevance_score": 4.0,
+      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning"
     },
     "2608.06205v1": {
       "category": "Not Relevant",
@@ -4617,6 +4645,13 @@
       "relevance_score": 17.5,
       "title": "Muon on the Stiefel Manifold Admits an Exact Closed-Form Update"
     },
+    "2608.06241v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913342Z",
+      "link": "http://arxiv.org/abs/2608.06241v1",
+      "relevance_score": 4.0,
+      "title": "Timestep-Conditioned Transformers for Global Weather Forecasting"
+    },
     "2608.06250v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-07T16:20:56.515142Z",
@@ -4624,12 +4659,47 @@
       "relevance_score": 6.0,
       "title": "Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification"
     },
+    "2608.06251v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913338Z",
+      "link": "http://arxiv.org/abs/2608.06251v1",
+      "relevance_score": 4.0,
+      "title": "Joint Access Point Selection and Precoder Design under Statistical CSI"
+    },
+    "2608.06252v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913336Z",
+      "link": "http://arxiv.org/abs/2608.06252v1",
+      "relevance_score": 4.0,
+      "title": "Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model"
+    },
     "2608.06283v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-07T16:20:56.515130Z",
       "link": "http://arxiv.org/abs/2608.06283v1",
       "relevance_score": 8.5,
       "title": "The Tamed Subgradient Unadjusted Langevin Algorithm beyond Convexity"
+    },
+    "2608.06301v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-09T16:10:20.913334Z",
+      "link": "http://arxiv.org/abs/2608.06301v1",
+      "relevance_score": 4.0,
+      "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization"
+    },
+    "2608.06374v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913331Z",
+      "link": "http://arxiv.org/abs/2608.06374v1",
+      "relevance_score": 4.0,
+      "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation"
+    },
+    "2608.06377v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-09T16:10:20.913329Z",
+      "link": "http://arxiv.org/abs/2608.06377v1",
+      "relevance_score": 4.0,
+      "title": "Learning When to Trust via Selective Context Preference Optimization"
     }
   }
 }

@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-10T17:14:47.389803Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-11T17:23:29.371174Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-09T16:10:20.913348Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-10T16:19:36.196639Z"
     }
   ],
   "papers": {
@@ -4547,6 +4547,13 @@
       "relevance_score": 6.5,
       "title": "A Theory of Conditional Collapse under Low-Rank Weight-Space Ablations: I. The Single-Block Theory and Synthetic Validation"
     },
+    "2608.03620v2": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-10T16:19:36.196626Z",
+      "link": "http://arxiv.org/abs/2608.03620v2",
+      "relevance_score": 5.5,
+      "title": "A Theory of Conditional Collapse under Low-Rank Weight-Space Ablations: I. The Single-Block Theory and Synthetic Validation"
+    },
     "2608.03630v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-05T16:36:19.677443Z",
@@ -4700,6 +4707,69 @@
       "link": "http://arxiv.org/abs/2608.06377v1",
       "relevance_score": 4.0,
       "title": "Learning When to Trust via Selective Context Preference Optimization"
+    },
+    "2608.06849v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-10T16:19:36.196624Z",
+      "link": "http://arxiv.org/abs/2608.06849v1",
+      "relevance_score": 6.0,
+      "title": "Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry"
+    },
+    "2608.07053v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-10T16:19:36.196619Z",
+      "link": "http://arxiv.org/abs/2608.07053v1",
+      "relevance_score": 8.5,
+      "title": "Unsupervised Adaptation of PDE Foundation Models"
+    },
+    "2608.07255v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-10T16:19:36.196629Z",
+      "link": "http://arxiv.org/abs/2608.07255v1",
+      "relevance_score": 4.5,
+      "title": "An Explainable Physics-Informed Neural Frequency-Response Framework for Shunt-Parameter Identification in Semi-Active Piezoelectric Tuned Mass Dampers"
+    },
+    "2608.07267v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-10T16:19:36.196628Z",
+      "link": "http://arxiv.org/abs/2608.07267v1",
+      "relevance_score": 5.5,
+      "title": "WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN"
+    },
+    "2608.07408v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-10T16:19:36.196638Z",
+      "link": "http://arxiv.org/abs/2608.07408v1",
+      "relevance_score": 4.0,
+      "title": "Addressable Memory for Video World Models"
+    },
+    "2608.07418v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-10T16:19:36.196636Z",
+      "link": "http://arxiv.org/abs/2608.07418v1",
+      "relevance_score": 4.0,
+      "title": "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments"
+    },
+    "2608.07419v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-10T16:19:36.196621Z",
+      "link": "http://arxiv.org/abs/2608.07419v1",
+      "relevance_score": 7.5,
+      "title": "Beyond Post-Hoc Temperature Scaling: Bilevel Optimization for LLM Calibration"
+    },
+    "2608.07436v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-10T16:19:36.196609Z",
+      "link": "http://arxiv.org/abs/2608.07436v1",
+      "relevance_score": 15.0,
+      "title": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers"
+    },
+    "2608.07468v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-10T16:19:36.196634Z",
+      "link": "http://arxiv.org/abs/2608.07468v1",
+      "relevance_score": 4.0,
+      "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving"
     }
   }
 }

@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-11T17:23:29.371174Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-12T17:05:47.349828Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-10T16:19:36.196639Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-11T16:20:36.422391Z"
     }
   ],
   "papers": {
@@ -4770,6 +4770,76 @@
       "link": "http://arxiv.org/abs/2608.07468v1",
       "relevance_score": 4.0,
       "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving"
+    },
+    "2608.09119v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422368Z",
+      "link": "http://arxiv.org/abs/2608.09119v1",
+      "relevance_score": 6.5,
+      "title": "Motif 3: Technical Report"
+    },
+    "2608.09150v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422371Z",
+      "link": "http://arxiv.org/abs/2608.09150v1",
+      "relevance_score": 6.0,
+      "title": "OGG-FR: Orthogonal Gradient Gaming and Frequency Rectification for Unmanned Aerial Vehicle Infrared Image Super-Resolution"
+    },
+    "2608.09558v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422365Z",
+      "link": "http://arxiv.org/abs/2608.09558v1",
+      "relevance_score": 6.5,
+      "title": "Training-Free Universal Approximation by Prompting Random Transformers"
+    },
+    "2608.09745v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422361Z",
+      "link": "http://arxiv.org/abs/2608.09745v1",
+      "relevance_score": 6.5,
+      "title": "SR-OPSD: Self-Referenced On-Policy Self-Distillation"
+    },
+    "2608.09763v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-11T16:20:36.422329Z",
+      "link": "http://arxiv.org/abs/2608.09763v1",
+      "relevance_score": 19.0,
+      "title": "Second-Order Muon Done Right: A Principled Marriage of Spectral Geometry and Curvature"
+    },
+    "2608.09805v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422390Z",
+      "link": "http://arxiv.org/abs/2608.09805v1",
+      "relevance_score": 5.5,
+      "title": "Parameter Exploration for RLVR via Variational Learning"
+    },
+    "2608.09818v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422387Z",
+      "link": "http://arxiv.org/abs/2608.09818v1",
+      "relevance_score": 5.5,
+      "title": "MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation"
+    },
+    "2608.09893v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422384Z",
+      "link": "http://arxiv.org/abs/2608.09893v1",
+      "relevance_score": 5.5,
+      "title": "Fusion Training for Mathematical Generalization in Large Language Models"
+    },
+    "2608.09900v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-11T16:20:36.422378Z",
+      "link": "http://arxiv.org/abs/2608.09900v1",
+      "relevance_score": 5.5,
+      "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness"
+    },
+    "2608.09921v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-11T16:20:36.422374Z",
+      "link": "http://arxiv.org/abs/2608.09921v1",
+      "relevance_score": 5.5,
+      "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis"
     }
   }
 }

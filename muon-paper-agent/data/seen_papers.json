@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-14T16:36:54.645060Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-15T17:42:28.760705Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-13T16:22:25.531608Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-14T16:19:22.680773Z"
     }
   ],
   "papers": {
@@ -4910,6 +4910,76 @@
       "link": "http://arxiv.org/abs/2608.12290v1",
       "relevance_score": 5.5,
       "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence"
+    },
+    "2608.12710v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-14T16:19:22.680742Z",
+      "link": "http://arxiv.org/abs/2608.12710v1",
+      "relevance_score": 16.0,
+      "title": "Federated Compositional Muon Optimizer for Matrix-Wise Models"
+    },
+    "2608.13037v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680757Z",
+      "link": "http://arxiv.org/abs/2608.13037v1",
+      "relevance_score": 6.5,
+      "title": "Spatially-Grounded Text-to-Video Generation via Inference-Time Gradient-Free Optimization"
+    },
+    "2608.13147v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680755Z",
+      "link": "http://arxiv.org/abs/2608.13147v1",
+      "relevance_score": 6.5,
+      "title": "Geometry-Grounded Unified 3D Perception for Autonomous Driving"
+    },
+    "2608.13365v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680750Z",
+      "link": "http://arxiv.org/abs/2608.13365v1",
+      "relevance_score": 8.0,
+      "title": "When Local Variance Optimality Is Not Enough: RoPE-Aligned Q/K Rotations for Dynamic 4-Bit Quantisation"
+    },
+    "2608.13387v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680772Z",
+      "link": "http://arxiv.org/abs/2608.13387v1",
+      "relevance_score": 5.0,
+      "title": "CROP: Task Relevance via Counterfactuals for Selective On-Policy Distillation"
+    },
+    "2608.13426v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680769Z",
+      "link": "http://arxiv.org/abs/2608.13426v1",
+      "relevance_score": 5.0,
+      "title": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference"
+    },
+    "2608.13458v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680753Z",
+      "link": "http://arxiv.org/abs/2608.13458v1",
+      "relevance_score": 7.0,
+      "title": "Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts"
+    },
+    "2608.13489v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680766Z",
+      "link": "http://arxiv.org/abs/2608.13489v1",
+      "relevance_score": 5.0,
+      "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation"
+    },
+    "2608.13505v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680759Z",
+      "link": "http://arxiv.org/abs/2608.13505v1",
+      "relevance_score": 5.5,
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model"
+    },
+    "2608.13546v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-14T16:19:22.680761Z",
+      "link": "http://arxiv.org/abs/2608.13546v1",
+      "relevance_score": 5.0,
+      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World"
     }
   }
 }

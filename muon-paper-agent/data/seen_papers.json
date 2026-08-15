@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-15T17:42:28.760705Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-16T17:46:02.120108Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-14T16:19:22.680773Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-15T16:05:55.154472Z"
     }
   ],
   "papers": {
@@ -4918,12 +4918,47 @@
       "relevance_score": 16.0,
       "title": "Federated Compositional Muon Optimizer for Matrix-Wise Models"
     },
+    "2608.12780v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154471Z",
+      "link": "http://arxiv.org/abs/2608.12780v1",
+      "relevance_score": 4.0,
+      "title": "SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention"
+    },
+    "2608.12811v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154469Z",
+      "link": "http://arxiv.org/abs/2608.12811v1",
+      "relevance_score": 4.0,
+      "title": "Structured Local Differential Modeling for AI-Generated Image Detection"
+    },
+    "2608.12842v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154466Z",
+      "link": "http://arxiv.org/abs/2608.12842v1",
+      "relevance_score": 4.0,
+      "title": "CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation"
+    },
+    "2608.12911v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154460Z",
+      "link": "http://arxiv.org/abs/2608.12911v1",
+      "relevance_score": 4.0,
+      "title": "Beyond Visual Evidence: Revealing and Mitigating Relational Privacy Leakage in Document MLLMs"
+    },
     "2608.13037v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-14T16:19:22.680757Z",
       "link": "http://arxiv.org/abs/2608.13037v1",
       "relevance_score": 6.5,
       "title": "Spatially-Grounded Text-to-Video Generation via Inference-Time Gradient-Free Optimization"
+    },
+    "2608.13136v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154321Z",
+      "link": "http://arxiv.org/abs/2608.13136v1",
+      "relevance_score": 4.0,
+      "title": "LigBench: A Unified and Human-Aligned Benchmark for LLM-based Research Idea Generation"
     },
     "2608.13147v1": {
       "category": "Not Relevant",
@@ -4932,12 +4967,47 @@
       "relevance_score": 6.5,
       "title": "Geometry-Grounded Unified 3D Perception for Autonomous Driving"
     },
+    "2608.13293v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154319Z",
+      "link": "http://arxiv.org/abs/2608.13293v1",
+      "relevance_score": 4.0,
+      "title": "NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space"
+    },
+    "2608.13315v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154316Z",
+      "link": "http://arxiv.org/abs/2608.13315v1",
+      "relevance_score": 4.0,
+      "title": "Keep, Customize, or Exit: Default Design and Token Pricing in LLM Reasoning Services"
+    },
+    "2608.13333v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154314Z",
+      "link": "http://arxiv.org/abs/2608.13333v1",
+      "relevance_score": 4.0,
+      "title": "LLM-Guided Graph Generation for Structure-Based Local Improvement Methods"
+    },
+    "2608.13344v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154311Z",
+      "link": "http://arxiv.org/abs/2608.13344v1",
+      "relevance_score": 4.0,
+      "title": "LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning"
+    },
     "2608.13365v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-14T16:19:22.680750Z",
       "link": "http://arxiv.org/abs/2608.13365v1",
       "relevance_score": 8.0,
       "title": "When Local Variance Optimality Is Not Enough: RoPE-Aligned Q/K Rotations for Dynamic 4-Bit Quantisation"
+    },
+    "2608.13368v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-15T16:05:55.154301Z",
+      "link": "http://arxiv.org/abs/2608.13368v1",
+      "relevance_score": 4.0,
+      "title": "Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs"
     },
     "2608.13387v1": {
       "category": "Not Relevant",

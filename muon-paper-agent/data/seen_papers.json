@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-18T17:09:24.241671Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-19T16:53:34.821712Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-17T16:07:19.665247Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-18T16:09:08.833234Z"
     }
   ],
   "papers": {
@@ -5190,6 +5190,76 @@
       "link": "http://arxiv.org/abs/2608.14492v1",
       "relevance_score": 16.5,
       "title": "Approximate Muon with low-rank adapters"
+    },
+    "2608.15246v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-18T16:09:08.833228Z",
+      "link": "http://arxiv.org/abs/2608.15246v1",
+      "relevance_score": 6.0,
+      "title": "CG-GLORE: A Conjugate Gradient-Based Global-Local Regularization Network for Sparse-View CT Reconstruction"
+    },
+    "2608.15548v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-18T16:09:08.833214Z",
+      "link": "http://arxiv.org/abs/2608.15548v1",
+      "relevance_score": 12.5,
+      "title": "Spectral Saliency for Machine Unlearning"
+    },
+    "2608.15945v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-18T16:09:08.833220Z",
+      "link": "http://arxiv.org/abs/2608.15945v1",
+      "relevance_score": 8.0,
+      "title": "Attention-Aided MMSE with Ridge Denoising: How to Train under Noisy Channel Samples"
+    },
+    "2608.16585v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-18T16:09:08.833222Z",
+      "link": "http://arxiv.org/abs/2608.16585v1",
+      "relevance_score": 6.5,
+      "title": "SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation"
+    },
+    "2608.16620v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-18T16:09:08.833218Z",
+      "link": "http://arxiv.org/abs/2608.16620v1",
+      "relevance_score": 11.0,
+      "title": "Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning"
+    },
+    "2608.16760v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-18T16:09:08.833207Z",
+      "link": "http://arxiv.org/abs/2608.16760v1",
+      "relevance_score": 13.0,
+      "title": "On the Principles Behind Neural Network Optimizers"
+    },
+    "2608.16797v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-08-18T16:09:08.833216Z",
+      "link": "http://arxiv.org/abs/2608.16797v1",
+      "relevance_score": 11.5,
+      "title": "UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation"
+    },
+    "2608.16812v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-18T16:09:08.833233Z",
+      "link": "http://arxiv.org/abs/2608.16812v1",
+      "relevance_score": 5.5,
+      "title": "Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision"
+    },
+    "2608.16837v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-18T16:09:08.833224Z",
+      "link": "http://arxiv.org/abs/2608.16837v1",
+      "relevance_score": 6.0,
+      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL"
+    },
+    "2608.16866v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-18T16:09:08.833230Z",
+      "link": "http://arxiv.org/abs/2608.16866v1",
+      "relevance_score": 5.5,
+      "title": "Exploiting Movable-Element STARS for Rate Splitting Multiple Access"
     }
   }
 }

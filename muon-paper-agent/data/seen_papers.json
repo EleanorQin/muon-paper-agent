@@ -1,10 +1,6 @@
 {
   "history": [
     {
-      "paper_count": 10,
-      "sent_at": "2026-06-19T16:53:34.821712Z"
-    },
-    {
       "paper_count": 0,
       "sent_at": "2026-06-20T16:43:30.476589Z"
     },
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-18T16:09:08.833234Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-19T16:08:56.634053Z"
     }
   ],
   "papers": {
@@ -4946,6 +4946,13 @@
       "relevance_score": 16.0,
       "title": "Federated Compositional Muon Optimizer for Matrix-Wise Models"
     },
+    "2608.12710v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-19T16:08:56.634021Z",
+      "link": "http://arxiv.org/abs/2608.12710v2",
+      "relevance_score": 16.0,
+      "title": "Federated Compositional Muon Optimizer for Matrix-Wise Models"
+    },
     "2608.12737v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-16T16:06:08.600077Z",
@@ -5226,6 +5233,13 @@
       "relevance_score": 11.0,
       "title": "Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning"
     },
+    "2608.16620v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634030Z",
+      "link": "http://arxiv.org/abs/2608.16620v2",
+      "relevance_score": 11.0,
+      "title": "Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning"
+    },
     "2608.16760v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-08-18T16:09:08.833207Z",
@@ -5260,6 +5274,62 @@
       "link": "http://arxiv.org/abs/2608.16866v1",
       "relevance_score": 5.5,
       "title": "Exploiting Movable-Element STARS for Rate Splitting Multiple Access"
+    },
+    "2608.17612v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634034Z",
+      "link": "http://arxiv.org/abs/2608.17612v1",
+      "relevance_score": 9.5,
+      "title": "Geometry-Aware DRL for Multi-Subband Scheduling in Satellite-Assisted UAM Networks"
+    },
+    "2608.17856v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634051Z",
+      "link": "http://arxiv.org/abs/2608.17856v1",
+      "relevance_score": 5.0,
+      "title": "ARASH: Adaptive Retrieval And Shot Selection for Tabular Prediction"
+    },
+    "2608.17933v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634049Z",
+      "link": "http://arxiv.org/abs/2608.17933v1",
+      "relevance_score": 5.0,
+      "title": "EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection"
+    },
+    "2608.17948v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634047Z",
+      "link": "http://arxiv.org/abs/2608.17948v1",
+      "relevance_score": 5.0,
+      "title": "SIGMA: SHAP-Guided Implicit-Trajectory Generation for Metadata-Free LLM-Based AutoFE"
+    },
+    "2608.17966v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634038Z",
+      "link": "http://arxiv.org/abs/2608.17966v1",
+      "relevance_score": 6.0,
+      "title": "SFMformer: A Spatial-Frequency Modulation Transformer for Lightweight Image Super-Resolution"
+    },
+    "2608.17988v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634042Z",
+      "link": "http://arxiv.org/abs/2608.17988v1",
+      "relevance_score": 5.0,
+      "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation"
+    },
+    "2608.17995v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634036Z",
+      "link": "http://arxiv.org/abs/2608.17995v1",
+      "relevance_score": 6.5,
+      "title": "AViTS: Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation"
+    },
+    "2608.18040v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-19T16:08:56.634040Z",
+      "link": "http://arxiv.org/abs/2608.18040v1",
+      "relevance_score": 5.5,
+      "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization"
     }
   }
 }

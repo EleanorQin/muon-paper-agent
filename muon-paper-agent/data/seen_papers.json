@@ -1,10 +1,6 @@
 {
   "history": [
     {
-      "paper_count": 10,
-      "sent_at": "2026-06-21T16:38:41.632286Z"
-    },
-    {
       "paper_count": 9,
       "sent_at": "2026-06-22T17:36:31.271328Z"
     },
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-20T16:10:09.794443Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-21T16:09:56.609718Z"
     }
   ],
   "papers": {
@@ -5400,6 +5400,76 @@
       "link": "http://arxiv.org/abs/2608.19197v1",
       "relevance_score": 5.5,
       "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
+    },
+    "2608.19491v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-21T16:09:56.609695Z",
+      "link": "http://arxiv.org/abs/2608.19491v1",
+      "relevance_score": 11.0,
+      "title": "DeltaMomentum: A Key-Value based Anisotropic Momentum Update via Delta Rule"
+    },
+    "2608.19534v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-21T16:09:56.609707Z",
+      "link": "http://arxiv.org/abs/2608.19534v1",
+      "relevance_score": 6.5,
+      "title": "AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning"
+    },
+    "2608.19584v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-08-21T16:09:56.609698Z",
+      "link": "http://arxiv.org/abs/2608.19584v1",
+      "relevance_score": 8.5,
+      "title": "K\u00e4hler landscapes for complex neural network descents and guarantees including a search and destroy of the Calabi-Yau manifold"
+    },
+    "2608.19995v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-21T16:09:56.609705Z",
+      "link": "http://arxiv.org/abs/2608.19995v1",
+      "relevance_score": 6.5,
+      "title": "The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation"
+    },
+    "2608.20054v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-21T16:09:56.609702Z",
+      "link": "http://arxiv.org/abs/2608.20054v1",
+      "relevance_score": 6.5,
+      "title": "What You Can't See Is What You Learn: Restricted Evidence Visibility Favors Compositional Generalization in Shared-Genome Language-Model Societies"
+    },
+    "2608.20061v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-21T16:09:56.609684Z",
+      "link": "http://arxiv.org/abs/2608.20061v1",
+      "relevance_score": 11.0,
+      "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts"
+    },
+    "2608.20175v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-08-21T16:09:56.609700Z",
+      "link": "http://arxiv.org/abs/2608.20175v1",
+      "relevance_score": 6.5,
+      "title": "Quantifying over Optimal MSO-Definable Sets on Graphs of Bounded Clique-Width"
+    },
+    "2608.20214v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-21T16:09:56.609712Z",
+      "link": "http://arxiv.org/abs/2608.20214v1",
+      "relevance_score": 6.0,
+      "title": "Wideband MIMO Beampattern Synthesis using Adaptive Frequency Modulated Waveforms"
+    },
+    "2608.20256v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-21T16:09:56.609717Z",
+      "link": "http://arxiv.org/abs/2608.20256v1",
+      "relevance_score": 5.5,
+      "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation"
+    },
+    "2608.20335v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-21T16:09:56.609715Z",
+      "link": "http://arxiv.org/abs/2608.20335v1",
+      "relevance_score": 5.5,
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video"
     }
   }
 }

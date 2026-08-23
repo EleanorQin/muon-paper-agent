@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-23T16:54:24.161883Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-24T16:49:26.172035Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-22T16:05:44.868740Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-23T16:07:27.544364Z"
     }
   ],
   "papers": {
@@ -5401,6 +5401,13 @@
       "relevance_score": 5.5,
       "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
     },
+    "2608.19298v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544343Z",
+      "link": "http://arxiv.org/abs/2608.19298v1",
+      "relevance_score": 4.0,
+      "title": "SceneGTMM: A Conformal Mapping-based Scene-Aware Transferable GNN-Transformer Dual-Graph Interaction Framework for Map Matching"
+    },
     "2608.19491v1": {
       "category": "Muon-Adjacent Experiments",
       "last_sent_at": "2026-08-21T16:09:56.609695Z",
@@ -5415,6 +5422,20 @@
       "relevance_score": 6.5,
       "title": "AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning"
     },
+    "2608.19549v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544340Z",
+      "link": "http://arxiv.org/abs/2608.19549v1",
+      "relevance_score": 4.0,
+      "title": "Generating Diverse Personas for User Simulators to Test Interview Dialogue Systems"
+    },
+    "2608.19574v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544331Z",
+      "link": "http://arxiv.org/abs/2608.19574v1",
+      "relevance_score": 4.0,
+      "title": "HiTac-WAM: A Hierarchical Tactile World Action Model for Contact-Rich Robot Manipulation"
+    },
     "2608.19584v1": {
       "category": "Muon-Adjacent Theory",
       "last_sent_at": "2026-08-21T16:09:56.609698Z",
@@ -5428,6 +5449,13 @@
       "link": "http://arxiv.org/abs/2608.19650v1",
       "relevance_score": 4.0,
       "title": "Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images"
+    },
+    "2608.19785v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544353Z",
+      "link": "http://arxiv.org/abs/2608.19785v1",
+      "relevance_score": 3.5,
+      "title": "Learning piecewise-smooth dynamical systems"
     },
     "2608.19863v1": {
       "category": "Not Relevant",
@@ -5457,6 +5485,20 @@
       "relevance_score": 6.5,
       "title": "The Forward-Backward Disconnect: State Dynamics, Credit Assignment, and Biological Grounding in Neural Computation"
     },
+    "2608.20000v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544351Z",
+      "link": "http://arxiv.org/abs/2608.20000v1",
+      "relevance_score": 3.5,
+      "title": "Point-Based 3D Reconstruction from Sparse Views under Known Illumination"
+    },
+    "2608.20011v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544349Z",
+      "link": "http://arxiv.org/abs/2608.20011v1",
+      "relevance_score": 3.5,
+      "title": "Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking"
+    },
     "2608.20019v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-22T16:05:44.868726Z",
@@ -5484,6 +5526,13 @@
       "link": "http://arxiv.org/abs/2608.20061v1",
       "relevance_score": 11.0,
       "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts"
+    },
+    "2608.20093v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544346Z",
+      "link": "http://arxiv.org/abs/2608.20093v1",
+      "relevance_score": 3.5,
+      "title": "HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion"
     },
     "2608.20157v1": {
       "category": "Not Relevant",
@@ -5533,6 +5582,27 @@
       "link": "http://arxiv.org/abs/2608.20256v1",
       "relevance_score": 5.5,
       "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation"
+    },
+    "2608.20300v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544362Z",
+      "link": "http://arxiv.org/abs/2608.20300v1",
+      "relevance_score": 2.0,
+      "title": "Taming the Tilt: A Unified Pilot Control Concept for Transformational eVTOL Aircraft"
+    },
+    "2608.20316v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544360Z",
+      "link": "http://arxiv.org/abs/2608.20316v1",
+      "relevance_score": 2.0,
+      "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation"
+    },
+    "2608.20331v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-23T16:07:27.544357Z",
+      "link": "http://arxiv.org/abs/2608.20331v1",
+      "relevance_score": 2.0,
+      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation"
     },
     "2608.20335v1": {
       "category": "Not Relevant",

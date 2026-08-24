@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-24T16:49:26.172035Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-25T16:51:26.754042Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-23T16:07:27.544364Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-24T16:12:58.773588Z"
     }
   ],
   "papers": {
@@ -5610,6 +5610,76 @@
       "link": "http://arxiv.org/abs/2608.20335v1",
       "relevance_score": 5.5,
       "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video"
+    },
+    "2608.20617v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-24T16:12:58.773577Z",
+      "link": "http://arxiv.org/abs/2608.20617v1",
+      "relevance_score": 5.5,
+      "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models"
+    },
+    "2608.20738v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-24T16:12:58.773582Z",
+      "link": "http://arxiv.org/abs/2608.20738v1",
+      "relevance_score": 4.5,
+      "title": "Continuous-Time Quantum Walks based Graph Neural Network"
+    },
+    "2608.20818v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-24T16:12:58.773556Z",
+      "link": "http://arxiv.org/abs/2608.20818v1",
+      "relevance_score": 16.5,
+      "title": "Scaling Muon for Diffusion Transformers"
+    },
+    "2608.20965v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-24T16:12:58.773567Z",
+      "link": "http://arxiv.org/abs/2608.20965v1",
+      "relevance_score": 7.5,
+      "title": "Training, learning and inference: unified dynamics of neural systems"
+    },
+    "2608.21024v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-24T16:12:58.773565Z",
+      "link": "http://arxiv.org/abs/2608.21024v1",
+      "relevance_score": 13.0,
+      "title": "RODE: A Radial-Orthogonal Decoupled Engine for Optimization"
+    },
+    "2608.21136v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-24T16:12:58.773575Z",
+      "link": "http://arxiv.org/abs/2608.21136v1",
+      "relevance_score": 5.5,
+      "title": "Stream3Dv2: Geometric-Semantic Fusion Enhanced Streaming Zero-Shot 3D Scene Understanding"
+    },
+    "2608.21304v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-24T16:12:58.773573Z",
+      "link": "http://arxiv.org/abs/2608.21304v1",
+      "relevance_score": 5.5,
+      "title": "Basin-Preserving Discretizations of Modern Hopfield Retrieval Dynamics: Energy Cells, Dissipation, and the Attention Limit"
+    },
+    "2608.21308v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-24T16:12:58.773586Z",
+      "link": "http://arxiv.org/abs/2608.21308v1",
+      "relevance_score": 4.0,
+      "title": "Rethinking Expressivity and Efficiency in Test-Time Training"
+    },
+    "2608.21341v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-24T16:12:58.773584Z",
+      "link": "http://arxiv.org/abs/2608.21341v1",
+      "relevance_score": 4.0,
+      "title": "Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution"
+    },
+    "2608.21359v1": {
+      "category": "Muon-Adjacent Theory",
+      "last_sent_at": "2026-08-24T16:12:58.773570Z",
+      "link": "http://arxiv.org/abs/2608.21359v1",
+      "relevance_score": 5.5,
+      "title": "Primal Acceleration of Newton's Method"
     }
   }
 }

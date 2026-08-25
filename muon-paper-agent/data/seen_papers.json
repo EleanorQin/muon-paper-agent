@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-25T16:51:26.754042Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-26T16:45:31.660916Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-24T16:12:58.773588Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-25T16:14:38.652435Z"
     }
   ],
   "papers": {
@@ -5680,6 +5680,76 @@
       "link": "http://arxiv.org/abs/2608.21359v1",
       "relevance_score": 5.5,
       "title": "Primal Acceleration of Newton's Method"
+    },
+    "2608.22253v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652406Z",
+      "link": "http://arxiv.org/abs/2608.22253v1",
+      "relevance_score": 9.5,
+      "title": "Toward a First-Principles Update Geometry for the Language-Model Head"
+    },
+    "2608.22860v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652415Z",
+      "link": "http://arxiv.org/abs/2608.22860v1",
+      "relevance_score": 8.5,
+      "title": "IMNet: Intercarrier Interference Mitigation Network for Integrated Sensing and Communication in Spectrally Efficient FDM Systems"
+    },
+    "2608.23149v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652420Z",
+      "link": "http://arxiv.org/abs/2608.23149v1",
+      "relevance_score": 6.5,
+      "title": "Language Chain in Alignment: Cross-Lingual Ranking Preference Optimization"
+    },
+    "2608.23353v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652433Z",
+      "link": "http://arxiv.org/abs/2608.23353v1",
+      "relevance_score": 5.0,
+      "title": "FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations"
+    },
+    "2608.23471v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652432Z",
+      "link": "http://arxiv.org/abs/2608.23471v1",
+      "relevance_score": 5.5,
+      "title": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems"
+    },
+    "2608.23486v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652417Z",
+      "link": "http://arxiv.org/abs/2608.23486v1",
+      "relevance_score": 7.0,
+      "title": "GeoWAM: Visual Geometry World Action Models for Autonomous Driving"
+    },
+    "2608.23493v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652430Z",
+      "link": "http://arxiv.org/abs/2608.23493v1",
+      "relevance_score": 5.5,
+      "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning"
+    },
+    "2608.23541v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652425Z",
+      "link": "http://arxiv.org/abs/2608.23541v1",
+      "relevance_score": 5.5,
+      "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams"
+    },
+    "2608.23565v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652424Z",
+      "link": "http://arxiv.org/abs/2608.23565v1",
+      "relevance_score": 5.5,
+      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory"
+    },
+    "2608.23566v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-25T16:14:38.652422Z",
+      "link": "http://arxiv.org/abs/2608.23566v1",
+      "relevance_score": 5.5,
+      "title": "How to Train a Critic Stably and Efficiently"
     }
   }
 }

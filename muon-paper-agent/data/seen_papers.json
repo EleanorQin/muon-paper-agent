@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-27T16:29:03.536792Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-28T16:31:14.411735Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 0,
       "sent_at": "2026-08-26T16:35:31.038155Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-27T19:34:39.022942Z"
     }
   ],
   "papers": {
@@ -5632,6 +5632,13 @@
       "relevance_score": 16.5,
       "title": "Scaling Muon for Diffusion Transformers"
     },
+    "2608.20818v3": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-27T19:34:39.022920Z",
+      "link": "http://arxiv.org/abs/2608.20818v3",
+      "relevance_score": 17.5,
+      "title": "Scaling Muon for Diffusion Transformers"
+    },
     "2608.20965v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-08-24T16:12:58.773567Z",
@@ -5750,6 +5757,69 @@
       "link": "http://arxiv.org/abs/2608.23566v1",
       "relevance_score": 5.5,
       "title": "How to Train a Critic Stably and Efficiently"
+    },
+    "2608.25068v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-27T19:34:39.022938Z",
+      "link": "http://arxiv.org/abs/2608.25068v1",
+      "relevance_score": 5.5,
+      "title": "SHIFT-LLM: Distribution Shift Correction in Depth-Pruned LLMs"
+    },
+    "2608.25138v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-27T19:34:39.022929Z",
+      "link": "http://arxiv.org/abs/2608.25138v1",
+      "relevance_score": 6.0,
+      "title": "Drift Variation Autoencoder: Unifying Generation and Representation Learning through Conditional Posterior Flow Matching"
+    },
+    "2608.25692v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-27T19:34:39.022925Z",
+      "link": "http://arxiv.org/abs/2608.25692v1",
+      "relevance_score": 6.5,
+      "title": "CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery"
+    },
+    "2608.25818v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-27T19:34:39.022935Z",
+      "link": "http://arxiv.org/abs/2608.25818v1",
+      "relevance_score": 5.5,
+      "title": "WaveOp-LiteFM: Lightweight Neural-Operator Flow Matching for Satellite-to-Radar Precipitation Retrieval"
+    },
+    "2608.25832v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-27T19:34:39.022927Z",
+      "link": "http://arxiv.org/abs/2608.25832v1",
+      "relevance_score": 6.0,
+      "title": "Skill Issue: Are Skills Language-Invariant in LLMs?"
+    },
+    "2608.25990v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-27T19:34:39.022910Z",
+      "link": "http://arxiv.org/abs/2608.25990v1",
+      "relevance_score": 22.0,
+      "title": "Spectral Allocation: Why Muon Outperforms Adam, and How to Improve Muon"
+    },
+    "2608.26047v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-27T19:34:39.022931Z",
+      "link": "http://arxiv.org/abs/2608.26047v1",
+      "relevance_score": 5.5,
+      "title": "Nearly Optimal Strong Coresets for $\\ell_p$ Subspace Approximation"
+    },
+    "2608.26052v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-27T19:34:39.022922Z",
+      "link": "http://arxiv.org/abs/2608.26052v1",
+      "relevance_score": 7.0,
+      "title": "How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention"
+    },
+    "2608.26095v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-27T19:34:39.022940Z",
+      "link": "http://arxiv.org/abs/2608.26095v1",
+      "relevance_score": 5.0,
+      "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training"
     }
   }
 }

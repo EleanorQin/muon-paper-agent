@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-28T16:31:14.411735Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-29T17:06:10.202900Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-27T19:34:39.022942Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-28T20:01:40.311077Z"
     }
   ],
   "papers": {
@@ -5820,6 +5820,76 @@
       "link": "http://arxiv.org/abs/2608.26095v1",
       "relevance_score": 5.0,
       "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training"
+    },
+    "2608.26288v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-28T20:01:40.311041Z",
+      "link": "http://arxiv.org/abs/2608.26288v1",
+      "relevance_score": 21.5,
+      "title": "Muon with Finite Newton-Schulz: The Smoothing Benefit in Nonsmooth Nonconvex Optimization"
+    },
+    "2608.26451v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311058Z",
+      "link": "http://arxiv.org/abs/2608.26451v1",
+      "relevance_score": 8.0,
+      "title": "Toward Equitable Low-Carbon Mobility: Fairness-Aware Demand Prediction for Expanding Bike-Sharing Systems"
+    },
+    "2608.26511v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-08-28T20:01:40.311056Z",
+      "link": "http://arxiv.org/abs/2608.26511v1",
+      "relevance_score": 8.0,
+      "title": "Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update"
+    },
+    "2608.26752v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311060Z",
+      "link": "http://arxiv.org/abs/2608.26752v1",
+      "relevance_score": 7.0,
+      "title": "Glass Surface Detection Grounded in 3D Visual Geometry"
+    },
+    "2608.26965v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311063Z",
+      "link": "http://arxiv.org/abs/2608.26965v1",
+      "relevance_score": 6.5,
+      "title": "ClusterAttention: A training-free speedup of bidirectional attention"
+    },
+    "2608.27198v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311053Z",
+      "link": "http://arxiv.org/abs/2608.27198v1",
+      "relevance_score": 10.5,
+      "title": "Knowledge Distillation Driven Semantic NOMA with GAN Refinement for 6G Robotic Vehicle Networks"
+    },
+    "2608.27354v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311075Z",
+      "link": "http://arxiv.org/abs/2608.27354v1",
+      "relevance_score": 5.0,
+      "title": "Super-Resolution of Range-Doppler Maps: A Case Study with Chirp-Sequence Radar and Transformer"
+    },
+    "2608.27370v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311073Z",
+      "link": "http://arxiv.org/abs/2608.27370v1",
+      "relevance_score": 5.0,
+      "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090"
+    },
+    "2608.27395v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311070Z",
+      "link": "http://arxiv.org/abs/2608.27395v1",
+      "relevance_score": 5.0,
+      "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics"
+    },
+    "2608.27448v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-28T20:01:40.311065Z",
+      "link": "http://arxiv.org/abs/2608.27448v1",
+      "relevance_score": 5.0,
+      "title": "TTPO: Test-Time Policy Optimization"
     }
   }
 }

@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-29T17:06:10.202900Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-06-30T16:51:34.045700Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-28T20:01:40.311077Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-29T16:13:12.524998Z"
     }
   ],
   "papers": {
@@ -5849,6 +5849,27 @@
       "relevance_score": 7.0,
       "title": "Glass Surface Detection Grounded in 3D Visual Geometry"
     },
+    "2608.26861v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524997Z",
+      "link": "http://arxiv.org/abs/2608.26861v1",
+      "relevance_score": 4.0,
+      "title": "FIDA: Feature Instability-Driven Attack on Self-Supervised Facial Representation"
+    },
+    "2608.26923v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524994Z",
+      "link": "http://arxiv.org/abs/2608.26923v1",
+      "relevance_score": 4.0,
+      "title": "TabuLM: Morphology-Aware Tabular Pre-training for Low-Resource Languages"
+    },
+    "2608.26925v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524992Z",
+      "link": "http://arxiv.org/abs/2608.26925v1",
+      "relevance_score": 4.0,
+      "title": "Mapping Written Words to Spoken Words in a Different Language Using Only Visual Grounding"
+    },
     "2608.26965v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-28T20:01:40.311063Z",
@@ -5856,12 +5877,61 @@
       "relevance_score": 6.5,
       "title": "ClusterAttention: A training-free speedup of bidirectional attention"
     },
+    "2608.27123v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524986Z",
+      "link": "http://arxiv.org/abs/2608.27123v1",
+      "relevance_score": 4.0,
+      "title": "EditaLive! Unified Character Video Editing for Live Streaming"
+    },
+    "2608.27128v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524984Z",
+      "link": "http://arxiv.org/abs/2608.27128v1",
+      "relevance_score": 4.0,
+      "title": "TwinKV: A Composable Repair Pass for KV Cache Eviction via Pairwise Key Redundancy"
+    },
+    "2608.27142v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524982Z",
+      "link": "http://arxiv.org/abs/2608.27142v1",
+      "relevance_score": 4.0,
+      "title": "GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL"
+    },
+    "2608.27161v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524979Z",
+      "link": "http://arxiv.org/abs/2608.27161v1",
+      "relevance_score": 4.0,
+      "title": "STAR : Sentence Translation Alignment Rate for Document-to-Document Machine Translation"
+    },
     "2608.27198v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-28T20:01:40.311053Z",
       "link": "http://arxiv.org/abs/2608.27198v1",
       "relevance_score": 10.5,
       "title": "Knowledge Distillation Driven Semantic NOMA with GAN Refinement for 6G Robotic Vehicle Networks"
+    },
+    "2608.27206v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524976Z",
+      "link": "http://arxiv.org/abs/2608.27206v1",
+      "relevance_score": 4.0,
+      "title": "PACE: A Unified Condense-and-Extract Paradigm for Fast VLM Inference"
+    },
+    "2608.27296v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524973Z",
+      "link": "http://arxiv.org/abs/2608.27296v1",
+      "relevance_score": 4.0,
+      "title": "LLMs Can Design Near-Optimal OR Algorithms"
+    },
+    "2608.27351v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-29T16:13:12.524962Z",
+      "link": "http://arxiv.org/abs/2608.27351v1",
+      "relevance_score": 5.0,
+      "title": "Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO"
     },
     "2608.27354v1": {
       "category": "Not Relevant",

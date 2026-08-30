@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-06-30T16:51:34.045700Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-07-01T16:58:07.182421Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-29T16:13:12.524998Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-30T16:13:08.981409Z"
     }
   ],
   "papers": {
@@ -5828,12 +5828,26 @@
       "relevance_score": 21.5,
       "title": "Muon with Finite Newton-Schulz: The Smoothing Benefit in Nonsmooth Nonconvex Optimization"
     },
+    "2608.26375v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981402Z",
+      "link": "http://arxiv.org/abs/2608.26375v1",
+      "relevance_score": 4.0,
+      "title": "CG4AI: A Column Generation Framework for Training AI Models Under Constraints"
+    },
     "2608.26451v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-28T20:01:40.311058Z",
       "link": "http://arxiv.org/abs/2608.26451v1",
       "relevance_score": 8.0,
       "title": "Toward Equitable Low-Carbon Mobility: Fairness-Aware Demand Prediction for Expanding Bike-Sharing Systems"
+    },
+    "2608.26476v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981398Z",
+      "link": "http://arxiv.org/abs/2608.26476v1",
+      "relevance_score": 4.0,
+      "title": "Zero-Shot Video Restoration and Enhancement with Text-to-Image Latent Diffusion Models and Multi-Modal References"
     },
     "2608.26511v1": {
       "category": "Muon Core",
@@ -5842,12 +5856,61 @@
       "relevance_score": 8.0,
       "title": "Sycophancy Suppression Can Impair Rational Updating: Anti-Sycophancy Should Preserve the Ability to Update"
     },
+    "2608.26580v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981395Z",
+      "link": "http://arxiv.org/abs/2608.26580v1",
+      "relevance_score": 4.0,
+      "title": "Visual Information-Guided Parallel Decoding for Diffusion Multimodal Large Language Models"
+    },
+    "2608.26624v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981393Z",
+      "link": "http://arxiv.org/abs/2608.26624v1",
+      "relevance_score": 4.0,
+      "title": "Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator"
+    },
+    "2608.26658v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981392Z",
+      "link": "http://arxiv.org/abs/2608.26658v1",
+      "relevance_score": 4.0,
+      "title": "PailitaoGR: Latent Think-with-Images for Generative Image Retrieval"
+    },
+    "2608.26671v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981389Z",
+      "link": "http://arxiv.org/abs/2608.26671v1",
+      "relevance_score": 4.0,
+      "title": "RECAP-Forcing: Retaining Content Appearances for Long Video Generation"
+    },
+    "2608.26689v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981386Z",
+      "link": "http://arxiv.org/abs/2608.26689v1",
+      "relevance_score": 4.0,
+      "title": "Beyond Reflection: Affirmation as a Promising Behavioral Marker Associated with Quality in Text-Based Counseling"
+    },
+    "2608.26720v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-30T16:13:08.981405Z",
+      "link": "http://arxiv.org/abs/2608.26720v1",
+      "relevance_score": 3.5,
+      "title": "Parameter Efficient Continual Learning for Sparse Event-Based Transformers"
+    },
     "2608.26752v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-08-28T20:01:40.311060Z",
       "link": "http://arxiv.org/abs/2608.26752v1",
       "relevance_score": 7.0,
       "title": "Glass Surface Detection Grounded in 3D Visual Geometry"
+    },
+    "2608.26806v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981377Z",
+      "link": "http://arxiv.org/abs/2608.26806v1",
+      "relevance_score": 4.0,
+      "title": "Multi-Image Visual Token Pruning in Large Visual Language Models"
     },
     "2608.26861v1": {
       "category": "Not Relevant",
@@ -5904,6 +5967,13 @@
       "link": "http://arxiv.org/abs/2608.27161v1",
       "relevance_score": 4.0,
       "title": "STAR : Sentence Translation Alignment Rate for Document-to-Document Machine Translation"
+    },
+    "2608.27179v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-30T16:13:08.981407Z",
+      "link": "http://arxiv.org/abs/2608.27179v1",
+      "relevance_score": 2.5,
+      "title": "On Eigenvalue Bounds for Bounded Genus Graphs and Minor-Free Graphs"
     },
     "2608.27198v1": {
       "category": "Not Relevant",

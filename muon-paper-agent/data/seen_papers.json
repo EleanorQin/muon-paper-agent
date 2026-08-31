@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-07-01T16:58:07.182421Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-07-02T16:39:08.868588Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-30T16:13:08.981409Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-08-31T16:15:22.703469Z"
     }
   ],
   "papers": {
@@ -5198,6 +5198,13 @@
       "relevance_score": 16.5,
       "title": "Approximate Muon with low-rank adapters"
     },
+    "2608.15102v2": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703468Z",
+      "link": "http://arxiv.org/abs/2608.15102v2",
+      "relevance_score": 4.0,
+      "title": "A Declarative-Procedural Perspective on Expert Routing in Bilingual Mixture-of-Experts Language Models"
+    },
     "2608.15246v1": {
       "category": "Muon-Adjacent Theory+Experiments",
       "last_sent_at": "2026-08-18T16:09:08.833228Z",
@@ -6030,6 +6037,69 @@
       "link": "http://arxiv.org/abs/2608.27448v1",
       "relevance_score": 5.0,
       "title": "TTPO: Test-Time Policy Optimization"
+    },
+    "2608.28192v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703457Z",
+      "link": "http://arxiv.org/abs/2608.28192v1",
+      "relevance_score": 5.5,
+      "title": "Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding"
+    },
+    "2608.28205v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703454Z",
+      "link": "http://arxiv.org/abs/2608.28205v1",
+      "relevance_score": 6.0,
+      "title": "Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency"
+    },
+    "2608.28437v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703451Z",
+      "link": "http://arxiv.org/abs/2608.28437v1",
+      "relevance_score": 6.5,
+      "title": "LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control"
+    },
+    "2608.28442v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-08-31T16:15:22.703448Z",
+      "link": "http://arxiv.org/abs/2608.28442v1",
+      "relevance_score": 9.0,
+      "title": "Curvature-Conditioned Multiscale Momentum with Sphere Constraints for LLM Pretraining"
+    },
+    "2608.28444v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703466Z",
+      "link": "http://arxiv.org/abs/2608.28444v1",
+      "relevance_score": 4.0,
+      "title": "Sliding-window beats linear attention"
+    },
+    "2608.28511v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703464Z",
+      "link": "http://arxiv.org/abs/2608.28511v1",
+      "relevance_score": 4.0,
+      "title": "Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration"
+    },
+    "2608.28547v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703459Z",
+      "link": "http://arxiv.org/abs/2608.28547v1",
+      "relevance_score": 4.0,
+      "title": "DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging"
+    },
+    "2608.28549v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-08-31T16:15:22.703456Z",
+      "link": "http://arxiv.org/abs/2608.28549v1",
+      "relevance_score": 5.5,
+      "title": "Video Generative Models as Geometry Learner"
+    },
+    "2608.28557v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-08-31T16:15:22.703437Z",
+      "link": "http://arxiv.org/abs/2608.28557v1",
+      "relevance_score": 14.0,
+      "title": "Blog: Survey of Optimizers"
     }
   }
 }

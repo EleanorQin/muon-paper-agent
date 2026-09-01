@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-07-02T16:39:08.868588Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-07-03T16:34:43.958675Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-08-31T16:15:22.703469Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-09-01T16:38:28.296615Z"
     }
   ],
   "papers": {
@@ -6100,6 +6100,76 @@
       "link": "http://arxiv.org/abs/2608.28557v1",
       "relevance_score": 14.0,
       "title": "Blog: Survey of Optimizers"
+    },
+    "2608.30320v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-09-01T16:38:28.296580Z",
+      "link": "http://arxiv.org/abs/2608.30320v1",
+      "relevance_score": 11.0,
+      "title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability"
+    },
+    "2608.30877v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296614Z",
+      "link": "http://arxiv.org/abs/2608.30877v1",
+      "relevance_score": 5.0,
+      "title": "Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening"
+    },
+    "2608.30932v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296612Z",
+      "link": "http://arxiv.org/abs/2608.30932v1",
+      "relevance_score": 5.0,
+      "title": "Beacon: LLM Multi-Agent Driven Hardware Design Space Exploration for Heterogeneous Multi-Chiplet Deep Learning Accelerators"
+    },
+    "2608.30986v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296608Z",
+      "link": "http://arxiv.org/abs/2608.30986v1",
+      "relevance_score": 5.0,
+      "title": "Controlling Refusal Behavior of LLMs via Stiefel-Constrained Rotation Steering"
+    },
+    "2608.31035v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296603Z",
+      "link": "http://arxiv.org/abs/2608.31035v1",
+      "relevance_score": 5.0,
+      "title": "When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models"
+    },
+    "2608.31036v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-09-01T16:38:28.296593Z",
+      "link": "http://arxiv.org/abs/2608.31036v1",
+      "relevance_score": 6.5,
+      "title": "Normalized Low-Rank Adaptation"
+    },
+    "2608.31058v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296601Z",
+      "link": "http://arxiv.org/abs/2608.31058v1",
+      "relevance_score": 5.0,
+      "title": "Improving Information Extraction with Learned Queries"
+    },
+    "2608.31079v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296599Z",
+      "link": "http://arxiv.org/abs/2608.31079v1",
+      "relevance_score": 5.5,
+      "title": "Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization"
+    },
+    "2608.31111v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296596Z",
+      "link": "http://arxiv.org/abs/2608.31111v1",
+      "relevance_score": 5.5,
+      "title": "Aspire: Can Models Self-Evolve from Vague Goals?"
+    },
+    "2608.31159v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-01T16:38:28.296591Z",
+      "link": "http://arxiv.org/abs/2608.31159v1",
+      "relevance_score": 7.5,
+      "title": "BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting"
     }
   }
 }

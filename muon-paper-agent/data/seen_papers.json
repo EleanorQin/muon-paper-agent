@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-07-03T16:34:43.958675Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-07-04T16:25:51.960876Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-09-01T16:38:28.296615Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-09-02T16:16:38.549129Z"
     }
   ],
   "papers": {
@@ -6170,6 +6170,76 @@
       "link": "http://arxiv.org/abs/2608.31159v1",
       "relevance_score": 7.5,
       "title": "BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting"
+    },
+    "2609.00986v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-02T16:16:38.549106Z",
+      "link": "http://arxiv.org/abs/2609.00986v1",
+      "relevance_score": 6.0,
+      "title": "TGR: Advancing Industrial Recommendation from Generative-Paradigm Ranking toward Unified Generation and Reasoning"
+    },
+    "2609.01014v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-09-02T16:16:38.549103Z",
+      "link": "http://arxiv.org/abs/2609.01014v1",
+      "relevance_score": 6.5,
+      "title": "Low-Quality Face Recognition using Center Aligned Representations and Local Margin Constraints"
+    },
+    "2609.01252v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-02T16:16:38.549092Z",
+      "link": "http://arxiv.org/abs/2609.01252v1",
+      "relevance_score": 7.5,
+      "title": "MeRoPE: Metric Rotary Position Embedding for Camera-Controlled Video Generation"
+    },
+    "2609.01516v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-02T16:16:38.549128Z",
+      "link": "http://arxiv.org/abs/2609.01516v1",
+      "relevance_score": 5.5,
+      "title": "DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting"
+    },
+    "2609.01528v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-02T16:16:38.549126Z",
+      "link": "http://arxiv.org/abs/2609.01528v1",
+      "relevance_score": 5.5,
+      "title": "Sierpi\u0144ski--Knopp Wasserstein Distance for Persistence Diagrams and Applications to 2-Wasserstein Approximation"
+    },
+    "2609.01544v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-09-02T16:16:38.549122Z",
+      "link": "http://arxiv.org/abs/2609.01544v1",
+      "relevance_score": 5.5,
+      "title": "Variable Selection for Feature-Based Newsvendor"
+    },
+    "2609.01558v1": {
+      "category": "Muon-Adjacent Theory+Experiments",
+      "last_sent_at": "2026-09-02T16:16:38.549117Z",
+      "link": "http://arxiv.org/abs/2609.01558v1",
+      "relevance_score": 5.5,
+      "title": "Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks"
+    },
+    "2609.01560v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-02T16:16:38.549114Z",
+      "link": "http://arxiv.org/abs/2609.01560v1",
+      "relevance_score": 5.5,
+      "title": "H3-World: Turning Language Understanding into World Control"
+    },
+    "2609.01573v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-02T16:16:38.549112Z",
+      "link": "http://arxiv.org/abs/2609.01573v1",
+      "relevance_score": 5.5,
+      "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs"
+    },
+    "2609.01604v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-02T16:16:38.549109Z",
+      "link": "http://arxiv.org/abs/2609.01604v1",
+      "relevance_score": 5.5,
+      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation"
     }
   }
 }

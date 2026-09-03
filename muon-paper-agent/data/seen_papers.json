@@ -2,10 +2,6 @@
   "history": [
     {
       "paper_count": 10,
-      "sent_at": "2026-07-04T16:25:51.960876Z"
-    },
-    {
-      "paper_count": 10,
       "sent_at": "2026-07-05T16:26:18.515796Z"
     },
     {
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-09-02T16:16:38.549129Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-09-03T16:15:27.929037Z"
     }
   ],
   "papers": {
@@ -6240,6 +6240,76 @@
       "link": "http://arxiv.org/abs/2609.01604v1",
       "relevance_score": 5.5,
       "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation"
+    },
+    "2609.02152v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929010Z",
+      "link": "http://arxiv.org/abs/2609.02152v1",
+      "relevance_score": 6.0,
+      "title": "Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation"
+    },
+    "2609.02194v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929019Z",
+      "link": "http://arxiv.org/abs/2609.02194v1",
+      "relevance_score": 5.5,
+      "title": "Learning the Constitutive Behavior of Materials via Neural Operators and Causal Attention: Case Studies in Plasticity and Damage"
+    },
+    "2609.02644v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929007Z",
+      "link": "http://arxiv.org/abs/2609.02644v1",
+      "relevance_score": 6.5,
+      "title": "Learning to Attract and Repel: Dual Quality Margin Learning for Face Recognition (DQM-Face)"
+    },
+    "2609.02689v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929035Z",
+      "link": "http://arxiv.org/abs/2609.02689v1",
+      "relevance_score": 5.0,
+      "title": "GaLe: memory-efficient Global Approximate and Local Exact features"
+    },
+    "2609.02730v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-09-03T16:15:27.929032Z",
+      "link": "http://arxiv.org/abs/2609.02730v1",
+      "relevance_score": 5.0,
+      "title": "CORAL: An LLM-Native Harness for Production Recommender Systems"
+    },
+    "2609.02734v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-09-03T16:15:27.928993Z",
+      "link": "http://arxiv.org/abs/2609.02734v1",
+      "relevance_score": 17.0,
+      "title": "LoRA-TSD: Tangent-Space Spectral Descent for LoRA via Muon-Style Updates"
+    },
+    "2609.02735v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929029Z",
+      "link": "http://arxiv.org/abs/2609.02735v1",
+      "relevance_score": 5.0,
+      "title": "Choosing a PEFT Variant for Per-Patient Dysarthric ASR: A Single-Speaker Case Study on Two ASR Bases"
+    },
+    "2609.02737v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929022Z",
+      "link": "http://arxiv.org/abs/2609.02737v1",
+      "relevance_score": 5.0,
+      "title": "Language Models Can Control Their Own Attention"
+    },
+    "2609.02748v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929016Z",
+      "link": "http://arxiv.org/abs/2609.02748v1",
+      "relevance_score": 5.5,
+      "title": "Balancing Frequencies and Pixels in Flow Matching"
+    },
+    "2609.02786v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-03T16:15:27.929013Z",
+      "link": "http://arxiv.org/abs/2609.02786v1",
+      "relevance_score": 5.5,
+      "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment"
     }
   }
 }

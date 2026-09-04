@@ -1,10 +1,6 @@
 {
   "history": [
     {
-      "paper_count": 10,
-      "sent_at": "2026-07-05T16:26:18.515796Z"
-    },
-    {
       "paper_count": 5,
       "sent_at": "2026-07-06T17:07:22.480704Z"
     },
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-09-03T16:15:27.929037Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-09-04T16:15:15.986337Z"
     }
   ],
   "papers": {
@@ -2878,6 +2878,13 @@
       "category": "Muon Core",
       "last_sent_at": "2026-07-08T16:35:17.886325Z",
       "link": "http://arxiv.org/abs/2607.05895v1",
+      "relevance_score": 14.0,
+      "title": "MatrixFSDP: communication-free matrix optimizers under ZeRO-3 parameter sharding"
+    },
+    "2607.05895v2": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-09-04T16:15:15.986306Z",
+      "link": "http://arxiv.org/abs/2607.05895v2",
       "relevance_score": 14.0,
       "title": "MatrixFSDP: communication-free matrix optimizers under ZeRO-3 parameter sharding"
     },
@@ -6310,6 +6317,69 @@
       "link": "http://arxiv.org/abs/2609.02786v1",
       "relevance_score": 5.5,
       "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment"
+    },
+    "2609.03406v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-04T16:15:15.986327Z",
+      "link": "http://arxiv.org/abs/2609.03406v1",
+      "relevance_score": 6.5,
+      "title": "Neural-Collapse-guided Task-Free Continual Anomaly Detection"
+    },
+    "2609.03639v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-04T16:15:15.986325Z",
+      "link": "http://arxiv.org/abs/2609.03639v1",
+      "relevance_score": 6.5,
+      "title": "Stabilizing Camera-Controlled Novel View Synthesis at Inference Time"
+    },
+    "2609.03796v1": {
+      "category": "Muon Core",
+      "last_sent_at": "2026-09-04T16:15:15.986315Z",
+      "link": "http://arxiv.org/abs/2609.03796v1",
+      "relevance_score": 11.0,
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes"
+    },
+    "2609.04084v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-04T16:15:15.986318Z",
+      "link": "http://arxiv.org/abs/2609.04084v1",
+      "relevance_score": 8.0,
+      "title": "Transversality Conditions for Boundary Constraints Defined by Differential Equations"
+    },
+    "2609.04131v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-04T16:15:15.986335Z",
+      "link": "http://arxiv.org/abs/2609.04131v1",
+      "relevance_score": 5.5,
+      "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding"
+    },
+    "2609.04159v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-04T16:15:15.986333Z",
+      "link": "http://arxiv.org/abs/2609.04159v1",
+      "relevance_score": 5.5,
+      "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center"
+    },
+    "2609.04190v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-04T16:15:15.986331Z",
+      "link": "http://arxiv.org/abs/2609.04190v1",
+      "relevance_score": 5.5,
+      "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing"
+    },
+    "2609.04201v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-04T16:15:15.986323Z",
+      "link": "http://arxiv.org/abs/2609.04201v1",
+      "relevance_score": 7.0,
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction"
+    },
+    "2609.04202v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-09-04T16:15:15.986320Z",
+      "link": "http://arxiv.org/abs/2609.04202v1",
+      "relevance_score": 7.5,
+      "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation"
     }
   }
 }

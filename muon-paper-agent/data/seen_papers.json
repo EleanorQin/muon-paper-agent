@@ -1,10 +1,6 @@
 {
   "history": [
     {
-      "paper_count": 5,
-      "sent_at": "2026-07-06T17:07:22.480704Z"
-    },
-    {
       "paper_count": 10,
       "sent_at": "2026-07-07T16:50:53.835411Z"
     },
@@ -239,6 +235,10 @@
     {
       "paper_count": 10,
       "sent_at": "2026-09-04T16:15:15.986337Z"
+    },
+    {
+      "paper_count": 10,
+      "sent_at": "2026-09-05T16:13:14.041744Z"
     }
   ],
   "papers": {
@@ -6339,12 +6339,82 @@
       "relevance_score": 11.0,
       "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes"
     },
+    "2609.03880v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041743Z",
+      "link": "http://arxiv.org/abs/2609.03880v1",
+      "relevance_score": 4.0,
+      "title": "Xiaomi-TabLDM: A Tabular Foundation Model Technical Report"
+    },
+    "2609.03887v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041741Z",
+      "link": "http://arxiv.org/abs/2609.03887v1",
+      "relevance_score": 4.0,
+      "title": "Beyond Shallow Alignment: How Post-Training Methods Determine Refusal Circuits And Steering Robustness"
+    },
+    "2609.03905v1": {
+      "category": "Muon-Adjacent Experiments",
+      "last_sent_at": "2026-09-05T16:13:14.041738Z",
+      "link": "http://arxiv.org/abs/2609.03905v1",
+      "relevance_score": 4.0,
+      "title": "Every Kernel Is a Join: Automatic Multi-GPU Parallelism for AI Computations in Einsummable"
+    },
+    "2609.03912v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041734Z",
+      "link": "http://arxiv.org/abs/2609.03912v1",
+      "relevance_score": 4.0,
+      "title": "Lose the Order, Keep the Hierarchy: Deordering HTN Plans"
+    },
+    "2609.03949v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041732Z",
+      "link": "http://arxiv.org/abs/2609.03949v1",
+      "relevance_score": 4.0,
+      "title": "VestigeKV: The NoPE-MLA KV Cache Carries Its Own Eviction Signal in a Vestigial Branch"
+    },
+    "2609.03960v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041730Z",
+      "link": "http://arxiv.org/abs/2609.03960v1",
+      "relevance_score": 4.0,
+      "title": "FiMI Banking: A Sovereign Model for Indian Retail Banking"
+    },
+    "2609.03992v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041728Z",
+      "link": "http://arxiv.org/abs/2609.03992v1",
+      "relevance_score": 4.0,
+      "title": "Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis"
+    },
+    "2609.04022v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041726Z",
+      "link": "http://arxiv.org/abs/2609.04022v1",
+      "relevance_score": 4.0,
+      "title": "Representational alignment yields generalizable safety in language models"
+    },
     "2609.04084v1": {
       "category": "Not Relevant",
       "last_sent_at": "2026-09-04T16:15:15.986318Z",
       "link": "http://arxiv.org/abs/2609.04084v1",
       "relevance_score": 8.0,
       "title": "Transversality Conditions for Boundary Constraints Defined by Differential Equations"
+    },
+    "2609.04105v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041724Z",
+      "link": "http://arxiv.org/abs/2609.04105v1",
+      "relevance_score": 5.0,
+      "title": "Hardware-Aware FP4 FlashAttention-4"
+    },
+    "2609.04108v1": {
+      "category": "Not Relevant",
+      "last_sent_at": "2026-09-05T16:13:14.041715Z",
+      "link": "http://arxiv.org/abs/2609.04108v1",
+      "relevance_score": 5.0,
+      "title": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR"
     },
     "2609.04131v1": {
       "category": "Not Relevant",
